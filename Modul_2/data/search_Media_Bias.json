@@ -1,0 +1,4286 @@
+
+{  
+   "types" : {
+      "Bookmark" : {
+         "pluralLabel" : "Bookmarks"
+      },
+      "Publication" : {
+         "pluralLabel" : "Publications"
+      },
+      "GoldStandardPublication" : {
+         "pluralLabel" : "GoldStandardPublications"
+      },
+      "GoldStandardBookmark" : {
+         "pluralLabel" : "GoldStandardBookmarks"
+      },
+      "Tag" : {
+         "pluralLabel" : "Tags"
+      },
+      "User" : {
+         "pluralLabel" : "Users"
+      },
+      "Sphere" : {
+         "pluralLabel" : "Spheres"
+      }
+   },
+   
+   "properties" : {
+      "count" : {
+         "valueType" : "number"
+      },
+      "date" : {
+         "valueType" : "date"
+      },
+      "changeDate" : {
+         "valueType" : "date"
+      },
+      "url" : {
+         "valueType" : "url"
+      },
+      "id" : {
+         "valueType" : "url"
+      },
+      "tags" : {
+         "valueType" : "item"
+      },
+      "user" : {
+         "valueType" : "item"
+      }      
+   },
+   
+   "items" : [
+   	  
+	  {  
+         "type" : "Bookmark",
+         "id"   : "https://www.bibsonomy.org/url/bf08e62b2ae96961b03e948b7b1cf010/georgeroberts",
+         "tags" : [
+            "politics","culture","media"
+         ],
+         
+         "intraHash" : "bf08e62b2ae96961b03e948b7b1cf010",
+         "label" : "MediaBite / A Shot at Bias in the media",
+         "user" : "georgeroberts",
+         "description" : "",
+         "date" : "2007-10-18 19:06:13",
+         "changeDate" : "2013-09-12 08:18:16",
+         "count" : 1,
+         "url" : "http://www.mediabite.org/"
+
+      }
+,
+	  {  
+         "type" : "Bookmark",
+         "id"   : "https://www.bibsonomy.org/url/252294047b101bdb695790f5bf0f4142/bshanks",
+         "tags" : [
+            "news","bias","metric","home"
+         ],
+         
+         "intraHash" : "252294047b101bdb695790f5bf0f4142",
+         "label" : "Breaking News Headlines and Media Bias | Ground News",
+         "user" : "bshanks",
+         "description" : "",
+         "date" : "2022-04-28 20:20:48",
+         "changeDate" : "2022-04-28 20:20:55",
+         "count" : 1,
+         "url" : "https://ground.news/"
+
+      }
+,
+	  {  
+         "type" : "Bookmark",
+         "id"   : "https://www.bibsonomy.org/url/27d2cf6d927e3c1472656f41a38e9d80/bshanks",
+         "tags" : [
+            "web","bias","media","vote"
+         ],
+         
+         "intraHash" : "27d2cf6d927e3c1472656f41a38e9d80",
+         "label" : "Skewz.com - Media Bias - All sides of the story",
+         "user" : "bshanks",
+         "description" : "",
+         "date" : "2016-12-12 10:00:54",
+         "changeDate" : "2020-06-15 21:39:35",
+         "count" : 1,
+         "url" : "http://www.skewz.com/"
+
+      }
+,
+	  {  
+         "type" : "Bookmark",
+         "id"   : "https://www.bibsonomy.org/url/24a281d4e8e33f81b68912946cd84f8e/heluking",
+         "tags" : [
+            "fact","check"
+         ],
+         
+         "intraHash" : "24a281d4e8e33f81b68912946cd84f8e",
+         "label" : "AllSides | Balanced news via media bias ratings for an unbiased news perspective",
+         "user" : "heluking",
+         "description" : "",
+         "date" : "2020-04-30 16:29:51",
+         "changeDate" : "2020-05-10 17:45:19",
+         "count" : 1,
+         "url" : "https://www.allsides.com/unbiased-balanced-news"
+
+      }
+,
+	  {  
+         "type" : "Bookmark",
+         "id"   : "https://www.bibsonomy.org/url/0734714d0d35f8a0d70882d1e2215666/jemfleming",
+         "tags" : [
+            "Diigo_-_Jem_Fleming's_Bookmarks"
+         ],
+         
+         "intraHash" : "0734714d0d35f8a0d70882d1e2215666",
+         "label" : "Unfiltered News",
+         "user" : "jemfleming",
+         "description" : "\"The primary media outlets in every country are dominated by collectivists who believe it is their duty to filter or alter the news so the common man will have a \"correct\" opinion. Even those of us who are aware of this bias can fall victim to it if we have no access to the raw facts. In most cases, the truth is available even within mainstream media if one has the time to search for it. Unfortunately, that excludes just about everyone who is preoccupied with earning a living or raising a family. The function of these weekly summaries is to bring together in one place unfiltered news and commentary as an antidote to Newspeak.. There are no sports or lifestyles sections and no stories about the weather or crime or natural disasters. Aside from an occasional story about an amazing event or accomplishment, the only information you will find here is that which pertains to your freedom, health, and financial security, which is a lot..\" Excellent.",
+         "date" : "2012-10-09 01:05:21",
+         "changeDate" : "2012-10-09 01:23:45",
+         "count" : 1,
+         "url" : "http://www.realityzone.com/un.html"
+
+      }
+,
+	  {  
+         "type" : "Bookmark",
+         "id"   : "https://www.bibsonomy.org/url/516d3230d20837d40e73d0d3eb48cbd6/sssftlibrary",
+         "tags" : [
+            "stigma"
+         ],
+         
+         "intraHash" : "516d3230d20837d40e73d0d3eb48cbd6",
+         "label" : "Media depictions and the priming of mental illness stigma - ProQuest",
+         "user" : "sssftlibrary",
+         "description" : "Stigma and Health Vol. 3, Iss. 3,  (Aug 2018): 253-264.  DOI:10.1037/sah0000095\r\nResearch has consistently noted that news reports on mental illness are biased toward describing violent incidents, and there is evidence that the media is a significant source contributing to the public\u2019s knowledge about mental illness (Jorm, 2000). However, it is unclear whether and how the media\u2019s bias toward reporting violent incidents impacts one\u2019s assumptions about the association between mental illness and violence. Based on pragmatic inference, we hypothesized that people remember information that is not explicitly stated but plausibly implied from articles (Brewer, 1977). Thus, the mention of mental illness in articles describing violent incidents would lead people to infer a causal link between the two.. To read the full article, log in using your NHS OpenAthens details.",
+         "date" : "2018-08-29 17:34:09",
+         "changeDate" : "2018-08-29 17:34:09",
+         "count" : 1,
+         "url" : "https://search.proquest.com/docview/1884864982?accountid=49126"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2d2f8204d27a3b4ce42cdf5d9b6f7c420/yihong-liu",         
+         "tags" : [
+            "#ml","#dl"
+         ],
+         
+         "intraHash" : "d2f8204d27a3b4ce42cdf5d9b6f7c420",
+         "interHash" : "0ed82ca6cd60645b88896c28cc8eaca7",
+         "label" : "Machine-Learning media bias",
+         "user" : "yihong-liu",
+         "description" : "Machine-Learning media bias",
+         "date" : "2021-09-22 06:43:35",
+         "changeDate" : "2021-09-22 06:43:35",
+         "count" : 1,
+         "pub-type": "misc",
+         
+         "year": "2021", 
+         "url": "http://arxiv.org/abs/2109.00024", 
+         
+         "author": [ 
+            "Samantha D'Alonzo","Max Tegmark"
+         ],
+         "authors": [
+         	
+            	{"first" : "Samantha",	"last" : "D'Alonzo"},
+            	{"first" : "Max",	"last" : "Tegmark"}
+         ],
+         "note": "cite arxiv:2109.00024Comment: 29 pages, 23 figs; data available at  https://space.mit.edu/home/tegmark/phrasebias.html","abstract": "We present an automated method for measuring media bias. Inferring which\r\nnewspaper published a given article, based only on the frequencies with which\r\nit uses different phrases, leads to a conditional probability distribution\r\nwhose analysis lets us automatically map newspapers and phrases into a bias\r\nspace. By analyzing roughly a million articles from roughly a hundred\r\nnewspapers for bias in dozens of news topics, our method maps newspapers into a\r\ntwo-dimensional bias landscape that agrees well with previous bias\r\nclassifications based on human judgement. One dimension can be interpreted as\r\ntraditional left-right bias, the other as establishment bias. This means that\r\nalthough news bias is inherently political, its measurement need not be.",
+         "bibtexKey": "dalonzo2021machinelearning"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/28e184f06781178f39460c3ac43d347b3/brusilovsky",         
+         "tags" : [
+            "news","diversity","adaptive-news-access"
+         ],
+         
+         "intraHash" : "8e184f06781178f39460c3ac43d347b3",
+         "interHash" : "fe2a7acf14b4e8e3246b2b523a411fb1",
+         "label" : "A Computational Framework for Media Bias Mitigation",
+         "user" : "brusilovsky",
+         "description" : "",
+         "date" : "2017-11-15 17:02:25",
+         "changeDate" : "2019-02-19 16:20:10",
+         "count" : 3,
+         "pub-type": "article",
+         "journal": "ACM Trans. Interact. Intell. Syst.","publisher":"ACM","address":"New York, NY, USA",
+         "year": "2012", 
+         "url": "http://dx.doi.org/10.1145/2209310.2209311", 
+         
+         "author": [ 
+            "Souneil Park","Seungwoo Kang","Sangyoung Chung","Junehwa Song"
+         ],
+         "authors": [
+         	
+            	{"first" : "Souneil",	"last" : "Park"},
+            	{"first" : "Seungwoo",	"last" : "Kang"},
+            	{"first" : "Sangyoung",	"last" : "Chung"},
+            	{"first" : "Junehwa",	"last" : "Song"}
+         ],
+         "volume": "2","number": "2","abstract": "Bias in the news media is an inherent flaw of the news production process. The bias often causes a sharp increase in political polarization and in the cost of conflict on social issues such as the Iraq war. This article presents NewsCube, a novel Internet news service which aims to mitigate the effect of media bias. NewsCube automatically creates and promptly provides readers with multiple classified views on a news event. As such, it helps readers understand the event from a plurality of views and to formulate their own, more balanced, viewpoints. The media bias problem has been studied extensively in mass communications and social science. This article reviews related mass communication and journalism studies and provides a structured view of the media bias problem and its solution. We propose media bias mitigation as a practical solution and demonstrate it through NewsCube. We evaluate and discuss the effectiveness of NewsCube through various performance studies.",
+         "citeulike-article-id" : "12197399",
+         
+         "citeulike-linkout-1" : "http://dx.doi.org/10.1145/2209310.2209311",
+         
+         "priority" : "3",
+         
+         "posted-at" : "2013-03-22 22:30:34",
+         
+         "issn" : "2160-6455",
+         
+         "citeulike-linkout-0" : "http://portal.acm.org/citation.cfm?id=2209311",
+         
+         "doi" : "10.1145/2209310.2209311",
+         
+         "bibtexKey": "citeulike:12197399"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/28e184f06781178f39460c3ac43d347b3/aho",         
+         "tags" : [
+            "news","diversity","adaptive-news-access"
+         ],
+         
+         "intraHash" : "8e184f06781178f39460c3ac43d347b3",
+         "interHash" : "fe2a7acf14b4e8e3246b2b523a411fb1",
+         "label" : "A Computational Framework for Media Bias Mitigation",
+         "user" : "aho",
+         "description" : "",
+         "date" : "2018-03-19 12:24:51",
+         "changeDate" : "2018-03-19 12:24:51",
+         "count" : 3,
+         "pub-type": "article",
+         "journal": "ACM Trans. Interact. Intell. Syst.","publisher":"ACM","address":"New York, NY, USA",
+         "year": "2012", 
+         "url": "http://dx.doi.org/10.1145/2209310.2209311", 
+         
+         "author": [ 
+            "Souneil Park","Seungwoo Kang","Sangyoung Chung","Junehwa Song"
+         ],
+         "authors": [
+         	
+            	{"first" : "Souneil",	"last" : "Park"},
+            	{"first" : "Seungwoo",	"last" : "Kang"},
+            	{"first" : "Sangyoung",	"last" : "Chung"},
+            	{"first" : "Junehwa",	"last" : "Song"}
+         ],
+         "volume": "2","number": "2","abstract": "Bias in the news media is an inherent flaw of the news production process. The bias often causes a sharp increase in political polarization and in the cost of conflict on social issues such as the Iraq war. This article presents NewsCube, a novel Internet news service which aims to mitigate the effect of media bias. NewsCube automatically creates and promptly provides readers with multiple classified views on a news event. As such, it helps readers understand the event from a plurality of views and to formulate their own, more balanced, viewpoints. The media bias problem has been studied extensively in mass communications and social science. This article reviews related mass communication and journalism studies and provides a structured view of the media bias problem and its solution. We propose media bias mitigation as a practical solution and demonstrate it through NewsCube. We evaluate and discuss the effectiveness of NewsCube through various performance studies.",
+         "citeulike-article-id" : "12197399",
+         
+         "citeulike-linkout-1" : "http://dx.doi.org/10.1145/2209310.2209311",
+         
+         "priority" : "3",
+         
+         "posted-at" : "2013-03-22 22:30:34",
+         
+         "issn" : "2160-6455",
+         
+         "citeulike-linkout-0" : "http://portal.acm.org/citation.cfm?id=2209311",
+         
+         "doi" : "10.1145/2209310.2209311",
+         
+         "bibtexKey": "citeulike:12197399"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2445e303aee7cfd0aef0206e869702e08/acf",         
+         "tags" : [
+            "media_merger","media_economics"
+         ],
+         
+         "intraHash" : "445e303aee7cfd0aef0206e869702e08",
+         "interHash" : "72570dfb04b4db6b7c2f59edea8fa348",
+         "label" : "Media Mergers and Media Bias with Rational Consumers",
+         "user" : "acf",
+         "description" : "",
+         "date" : "2008-03-31 06:04:34",
+         "changeDate" : "2008-03-31 06:04:34",
+         "count" : 1,
+         "pub-type": "techreport",
+         
+         "year": "2005", 
+         "url": "", 
+         
+         "author": [ 
+            "S.P. Anderson","J. McLaren"
+         ],
+         "authors": [
+         	
+            	{"first" : "S.P.",	"last" : "Anderson"},
+            	{"first" : "J.",	"last" : "McLaren"}
+         ],
+         "abstract": "We present an economic model of media bias and media mergers. Media owners have political motives as well as profit motives, and can influence public opinion by withholding information that is pejorative to their political agenda \u2014 provided that their agenda is not too far out of the political mainstream. This is true even with rational consumers who understand the media owners\u2019 biases, because the public do not know how much information the news organizations have and so do not know when news is being withheld. This problem can be undone by competition; but competition can be defeated in equilibrium by media mergers that enhance profits at the expense of the public interest. We thus derive a motive for media merger policy that is completely distinct from the motives behind conventional antitrust.",
+         "bibtexKey": "anderson2005mma"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2addfd0d84b4347392dc94a4bec400412/nosebrain",         
+         "tags" : [
+            "newspaper","myown","german","bias"
+         ],
+         
+         "intraHash" : "addfd0d84b4347392dc94a4bec400412",
+         "interHash" : "6b2daa7830c5e504543dcdaefed46285",
+         "label" : "Media Bias in German Online Newspapers",
+         "user" : "nosebrain",
+         "description" : "",
+         "date" : "2015-07-19 23:39:11",
+         "changeDate" : "2016-08-23 15:00:00",
+         "count" : 9,
+         "pub-type": "inproceedings",
+         "booktitle": "26th ACM Conference on Hypertext and Social Media","publisher":"ACM","address":"Cyprus, Turkey, September 1-4",
+         "year": "2015", 
+         "url": "", 
+         
+         "author": [ 
+            "Alexander Dallmann","Florian Lemmerich","Daniel Zoller","Andreas Hotho"
+         ],
+         "authors": [
+         	
+            	{"first" : "Alexander",	"last" : "Dallmann"},
+            	{"first" : "Florian",	"last" : "Lemmerich"},
+            	{"first" : "Daniel",	"last" : "Zoller"},
+            	{"first" : "Andreas",	"last" : "Hotho"}
+         ],
+         "abstract": "Online newspapers have been established as a crucial information source, at least partially replacing traditional media like television or print media. As all other media, online newspapers are potentially affected by media bias.This describes non-neutral reporting of journalists and other news producers, e.g. with respect to specific opinions or political parties. Analysis of media bias has a long tradition in political science. However, traditional techniques rely heavily on manual annotation and are thus often limited to the analysis of small sets of articles. In this paper, we investigate a dataset that covers all political and economical news from four leading German online newspapers over a timespan of four years. In order to analyze this large document set and compare the political orientation of different newspapers, we propose a variety of automatically computable measures that can indicate media bias. As a result, statistically significant differences in the reporting about specific parties can be detected between the analyzed online newspapers.",
+         "bibtexKey": "dallmann2015media"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2c0b98fc61303ba213dc66dfb76c3ed77/albinzehe",         
+         "tags" : [
+            "kilimod"
+         ],
+         
+         "intraHash" : "c0b98fc61303ba213dc66dfb76c3ed77",
+         "interHash" : "a8ccb7e93f8d61c683191a7ffac664b4",
+         "label" : "Media Bias Characterization in Brazilian Presidential Elections",
+         "user" : "albinzehe",
+         "description" : "",
+         "date" : "2021-04-15 16:07:22",
+         "changeDate" : "2021-04-15 16:07:22",
+         "count" : 2,
+         "pub-type": "inproceedings",
+         "booktitle": "Proceedings of the 5th International Workshop on Social Media World Sensors","series": "SIdEWayS'19","publisher":"Association for Computing Machinery","address":"New York, NY, USA",
+         "year": "2019", 
+         "url": "https://doi.org/10.1145/3345645.3351107", 
+         
+         "author": [ 
+            "Allan Sales da Costa Melo","Leandro Balby Marinho","Adriano Alonso Veloso"
+         ],
+         "authors": [
+         	
+            	{"first" : "Allan",	"last" : "Sales da Costa Melo"},
+            	{"first" : "Leandro",	"last" : "Balby Marinho"},
+            	{"first" : "Adriano",	"last" : "Alonso Veloso"}
+         ],
+         "pages": "5\u20136","abstract": "News media bias is commonly associated with framing information so as to influence readers judgments. It is not rare to find different news outlets reporting the same events under different perspectives with the intention to deliberately influence the reader. For example, making one side's ideological perspective look better than another. This may be an indication of a well known cognitive bias, the framing effect, which states that people may change their judgment based on how the information is presented (or framed). According to a 2017's survey from the Knight Foundation and Gallup, Americans believe that 62% of the news they consume is biased 1. Still according to the survey, there is a sharp divergence of bias perception across Republicans and Democrats regarding news organizations. This implies that the perception of bias may be affected by whether one agrees (or not) with the ideological leaning (when present) of the news source. How to expose such biases in an automatic fashion from textual content only? One way to do that is by comparing different news outlets on the same stories and look for divergences. In this talk, we present an investigation on news media bias in the context of Brazilian presidential elections by comparing four popular news outlets during three consecutive election years (2010, 2014, and 2018). We analyse the textual content of news stories in search for three kinds of bias: coverage, association, and subjective language. Coverage bias is related to differences in mention rates of candidates and parties. Association bias 2 occurs when, for example, one candidate is associated with a negative concept while another not. Subjective bias 3, has to do with wording that attempts to influence the readers by appealing to emotion, stereotypes, or persuasive language. We perform a thorough analysis on a large scale news data set where several such biases are exposed.",
+         "isbn" : "9781450369039",
+         
+         "numpages" : "2",
+         
+         "location" : "Hof, Germany",
+         
+         "doi" : "10.1145/3345645.3351107",
+         
+         "bibtexKey": "10.1145/3345645.3351107"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2aa46241ff446cfda790bdcbf36828ed1/dallmann",         
+         "tags" : [
+            "bias","analysis","media","ht2015"
+         ],
+         
+         "intraHash" : "aa46241ff446cfda790bdcbf36828ed1",
+         "interHash" : "0f218919168a180951974f3ac1d16828",
+         "label" : "Media bias in presidential elections: a meta-analysis",
+         "user" : "dallmann",
+         "description" : "",
+         "date" : "2015-03-27 15:12:33",
+         "changeDate" : "2015-03-27 15:12:33",
+         "count" : 2,
+         "pub-type": "article",
+         "journal": "Journal of Communication","publisher":"Blackwell Publishing Ltd",
+         "year": "2000", 
+         "url": "http://dx.doi.org/10.1111/j.1460-2466.2000.tb02866.x", 
+         
+         "author": [ 
+            "D D'Alessio","M Allen"
+         ],
+         "authors": [
+         	
+            	{"first" : "D",	"last" : "D'Alessio"},
+            	{"first" : "M",	"last" : "Allen"}
+         ],
+         "volume": "50","number": "4","pages": "133--156","abstract": "A meta-analysis considered 59 quantitative studies containing data concerned with partisan media bias in presidential election campaigns since 1948. Types of bias considered were gatekeeping bias, which is the preference for selecting stories from one party or the other; coverage bias, which considers the relative amounts of coverage each party receives; and statement bias, which focuses on the favorability of coverage toward one party or the other. On the whole, no significant biases were found for the newspaper industry. Biases in newsmagazines were virtually zero as well. However, meta-analysis of studies of television network news showed small, measurable, but probably insubstantial coverage and statement biases.",
+         "issn" : "1460-2466",
+         
+         "doi" : "10.1111/j.1460-2466.2000.tb02866.x",
+         
+         "bibtexKey": "JCOM:JCOM133"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/281474f00e1605d45462e23f743dc88bb/hotho",         
+         "tags" : [
+            "newspaper","measuring","toread","bias","analysis","media","ht2015"
+         ],
+         
+         "intraHash" : "81474f00e1605d45462e23f743dc88bb",
+         "interHash" : "9276222b3b8684048db1e42c3a9f3409",
+         "label" : "Measuring Media Bias: A Content Analysis of Time and Newsweek Coverage of Domestic Social Issues, 1975\u20132000*",
+         "user" : "hotho",
+         "description" : "Measuring Media Bias: A Content Analysis of Time and Newsweek Coverage of Domestic Social Issues, 1975\u20132000 - Covert - 2007 - Social Science Quarterly - Wiley Online Library",
+         "date" : "2015-03-24 15:28:10",
+         "changeDate" : "2015-03-24 15:30:32",
+         "count" : 2,
+         "pub-type": "article",
+         "journal": "Social Science Quarterly","publisher":"Blackwell Publishing Inc",
+         "year": "2007", 
+         "url": "http://dx.doi.org/10.1111/j.1540-6237.2007.00478.x", 
+         
+         "author": [ 
+            "Tawnya J. Adkins Covert","Philo C. Wasburn"
+         ],
+         "authors": [
+         	
+            	{"first" : "Tawnya J. Adkins",	"last" : "Covert"},
+            	{"first" : "Philo C.",	"last" : "Wasburn"}
+         ],
+         "volume": "88","number": "3","pages": "690--706","abstract": "Objective.  This study is an effort to produce a more systematic, empirically-based, historical-comparative understanding of media bias than generally is found in previous works.Methods.  The research employs a quantitative measure of ideological bias in a formal content analysis of the United States' two largest circulation news magazines, Time and Newsweek. Findings are compared with the results of an identical examination of two of the nation's leading partisan journals, the conservative National Review and the liberal Progressive.Results.  Bias scores reveal stark differences between the mainstream and the partisan news magazines' coverage of four issue areas: crime, the environment, gender, and poverty.Conclusion.  Data provide little support for those claiming significant media bias in either ideological direction.",
+         "issn" : "1540-6237",
+         
+         "doi" : "10.1111/j.1540-6237.2007.00478.x",
+         
+         "bibtexKey": "SSQU:SSQU478"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/28b132778ec2adccede901b204e6723c6/soumen",         
+         "tags" : [
+            "#computational_social_science","#social_network"
+         ],
+         
+         "intraHash" : "8b132778ec2adccede901b204e6723c6",
+         "interHash" : "3a2cec78605ec272f49bc57fc5288e97",
+         "label" : "Media Bias Monitor: Quantifying Biases of Social Media outlets at Large-Scale",
+         "user" : "soumen",
+         "description" : "- Measures the bias for news media outlets on Facebook;\r\n- Complements the study on detecting bias of traditional news media websites;\r\n- Some excellent pointers available in Related works. Summaries the prior research on quantifying bias of traditional news media sites;\r\n- Provides a list of news media sites in Methodology section which can be helpful if you're planning to scrape news sites;\r\n- Describes the 4 standard approach to measure bias related to a news media outlet;\r\n- Demography based study of biased news media outlets",
+         "date" : "2018-05-26 13:31:00",
+         "changeDate" : "2018-05-28 16:48:05",
+         "count" : 1,
+         "pub-type": "article",
+         
+         "year": "2018", 
+         "url": "", 
+         
+         "author": [ 
+            "Felipe et al. Ribeiro"
+         ],
+         "authors": [
+         	
+            	{"first" : "Felipe et al.",	"last" : "Ribeiro"}
+         ],
+         
+         "bibtexKey": "noauthororeditor"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2533bc3fee1f65329a8152747219460f1/smicha",         
+         "tags" : [
+            "Media"
+         ],
+         
+         "intraHash" : "533bc3fee1f65329a8152747219460f1",
+         "interHash" : "a0a14330d6d6f85e4fde79bdcdba839d",
+         "label" : "Persistent media bias",
+         "user" : "smicha",
+         "description" : "",
+         "date" : "2008-04-28 13:05:01",
+         "changeDate" : "2008-04-28 13:05:55",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "Journal of Public Economics",
+         "year": "2006", 
+         "url": "http://www.sciencedirect.com/science/article/B6V76-4G0B77B-1/1/ab3bf9017ca8a5d42ad202bd909edd16", 
+         
+         "author": [ 
+            "David P. Baron"
+         ],
+         "authors": [
+         	
+            	{"first" : "David P.",	"last" : "Baron"}
+         ],
+         "volume": "90","number": "1-2","pages": "1--36",
+         "bibtexKey": "Baron2006"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/281474f00e1605d45462e23f743dc88bb/kde-alumni",         
+         "tags" : [
+            "imported"
+         ],
+         
+         "intraHash" : "81474f00e1605d45462e23f743dc88bb",
+         "interHash" : "9276222b3b8684048db1e42c3a9f3409",
+         "label" : "Measuring Media Bias: A Content Analysis of Time and Newsweek Coverage of Domestic Social Issues, 1975\u20132000*",
+         "user" : "kde-alumni",
+         "description" : "",
+         "date" : "2016-11-28 10:15:50",
+         "changeDate" : "2016-11-28 10:15:50",
+         "count" : 2,
+         "pub-type": "article",
+         "journal": "Social Science Quarterly","publisher":"Blackwell Publishing Inc",
+         "year": "2007", 
+         "url": "http://dx.doi.org/10.1111/j.1540-6237.2007.00478.x", 
+         
+         "author": [ 
+            "Tawnya J. Adkins Covert","Philo C. Wasburn"
+         ],
+         "authors": [
+         	
+            	{"first" : "Tawnya J. Adkins",	"last" : "Covert"},
+            	{"first" : "Philo C.",	"last" : "Wasburn"}
+         ],
+         "volume": "88","number": "3","pages": "690--706","abstract": "Objective.  This study is an effort to produce a more systematic, empirically-based, historical-comparative understanding of media bias than generally is found in previous works.Methods.  The research employs a quantitative measure of ideological bias in a formal content analysis of the United States' two largest circulation news magazines, Time and Newsweek. Findings are compared with the results of an identical examination of two of the nation's leading partisan journals, the conservative National Review and the liberal Progressive.Results.  Bias scores reveal stark differences between the mainstream and the partisan news magazines' coverage of four issue areas: crime, the environment, gender, and poverty.Conclusion.  Data provide little support for those claiming significant media bias in either ideological direction.",
+         "issn" : "1540-6237",
+         
+         "doi" : "10.1111/j.1540-6237.2007.00478.x",
+         
+         "bibtexKey": "SSQU:SSQU478"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2733252ff446f64aee8b06f800cc32c46/smicha",         
+         "tags" : [
+            "imported"
+         ],
+         
+         "intraHash" : "733252ff446f64aee8b06f800cc32c46",
+         "interHash" : "b606ae8261b040710a7b99bc0e1121ac",
+         "label" : "Media Bias and Reputation",
+         "user" : "smicha",
+         "description" : "",
+         "date" : "2008-04-24 23:09:04",
+         "changeDate" : "2008-04-24 23:09:35",
+         "count" : 2,
+         "pub-type": "article",
+         "journal": "Journal of Political Economy",
+         "year": "2006", 
+         "url": "http://www.journals.uchicago.edu/doi/abs/10.1086/499414", 
+         
+         "author": [ 
+            "Matthew Gentzkow","JesseM. Shapiro"
+         ],
+         "authors": [
+         	
+            	{"first" : "Matthew",	"last" : "Gentzkow"},
+            	{"first" : "JesseM.",	"last" : "Shapiro"}
+         ],
+         "volume": "114","number": "2","pages": "280--316","note": "doi: 10.1086/499414",
+         "bibtexKey": "Gentzkow2006"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/266787c3983ae3127e185c04665626f17/hotho",         
+         "tags" : [
+            "icwsm","sentiment","myown","from:albinzehe","bias","2021","media"
+         ],
+         
+         "intraHash" : "66787c3983ae3127e185c04665626f17",
+         "interHash" : "48e91d03fd9d279c68a8f768aa02c1c8",
+         "label" : "Assessing Media Bias in Cross-Linguistic and Cross-National Populations",
+         "user" : "hotho",
+         "description" : "",
+         "date" : "2022-01-27 12:25:26",
+         "changeDate" : "2022-01-27 12:30:30",
+         "count" : 5,
+         "pub-type": "article",
+         "journal": "Proceedings of the International AAAI Conference on Web and Social Media",
+         "year": "2021", 
+         "url": "https://ojs.aaai.org/index.php/ICWSM/article/view/18084", 
+         
+         "author": [ 
+            "Allan Sales","Albin Zehe","Leandro Balby Marinho","Adriano Veloso","Andreas Hotho","Janna Omeliyanenko"
+         ],
+         "authors": [
+         	
+            	{"first" : "Allan",	"last" : "Sales"},
+            	{"first" : "Albin",	"last" : "Zehe"},
+            	{"first" : "Leandro Balby",	"last" : "Marinho"},
+            	{"first" : "Adriano",	"last" : "Veloso"},
+            	{"first" : "Andreas",	"last" : "Hotho"},
+            	{"first" : "Janna",	"last" : "Omeliyanenko"}
+         ],
+         "volume": "15","number": "1","pages": "561-572",
+         "abstractnote" : "Media bias is a worldwide concern. Although automated methods exist for the analysis of various forms of media bias, language is still an important barrier toward spotting worldwide differences in reporting. In this paper, we propose a methodology based on word embeddings, lexicon translation, and document similarity to assess media bias in news articles published in different idioms. We model media bias under the perspective of subjective language use, i.e., the more subjective the content of a news article is, the more biased it is. Our core assumption is that news articles reporting the same events, but written in different languages, should have similar levels of subjectivity; otherwise, we may have spotted biased text. Our method consists of using translated versions of subjectivity lexicons that were originally constructed for measuring subjectivity in the Brazilian Portuguese language. We evaluate our approach on two labeled data sets to show that our method is valid and apply our methodology to analyze recent and largely resounded topics, such as the Venezuela crisis and Syrian war, on four distinct idioms: Portuguese, German, English, and Spanish.",
+         
+         "bibtexKey": "sales2021assessing"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/266787c3983ae3127e185c04665626f17/dmir",         
+         "tags" : [
+            "icwsm","sentiment","myown","from:albinzehe","bias","media"
+         ],
+         
+         "intraHash" : "66787c3983ae3127e185c04665626f17",
+         "interHash" : "48e91d03fd9d279c68a8f768aa02c1c8",
+         "label" : "Assessing Media Bias in Cross-Linguistic and Cross-National Populations",
+         "user" : "dmir",
+         "description" : "",
+         "date" : "2021-06-09 03:22:09",
+         "changeDate" : "2021-06-09 03:22:09",
+         "count" : 5,
+         "pub-type": "article",
+         "journal": "Proceedings of the International AAAI Conference on Web and Social Media",
+         "year": "2021", 
+         "url": "https://ojs.aaai.org/index.php/ICWSM/article/view/18084", 
+         
+         "author": [ 
+            "Allan Sales","Albin Zehe","Leandro Balby Marinho","Adriano Veloso","Andreas Hotho","Janna Omeliyanenko"
+         ],
+         "authors": [
+         	
+            	{"first" : "Allan",	"last" : "Sales"},
+            	{"first" : "Albin",	"last" : "Zehe"},
+            	{"first" : "Leandro Balby",	"last" : "Marinho"},
+            	{"first" : "Adriano",	"last" : "Veloso"},
+            	{"first" : "Andreas",	"last" : "Hotho"},
+            	{"first" : "Janna",	"last" : "Omeliyanenko"}
+         ],
+         "volume": "15","number": "1","pages": "561-572",
+         "abstractnote" : "Media bias is a worldwide concern. Although automated methods exist for the analysis of various forms of media bias, language is still an important barrier toward spotting worldwide differences in reporting. In this paper, we propose a methodology based on word embeddings, lexicon translation, and document similarity to assess media bias in news articles published in different idioms. We model media bias under the perspective of subjective language use, i.e., the more subjective the content of a news article is, the more biased it is. Our core assumption is that news articles reporting the same events, but written in different languages, should have similar levels of subjectivity; otherwise, we may have spotted biased text. Our method consists of using translated versions of subjectivity lexicons that were originally constructed for measuring subjectivity in the Brazilian Portuguese language. We evaluate our approach on two labeled data sets to show that our method is valid and apply our methodology to analyze recent and largely resounded topics, such as the Venezuela crisis and Syrian war, on four distinct idioms: Portuguese, German, English, and Spanish.",
+         
+         "bibtexKey": "sales2021assessing"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/266787c3983ae3127e185c04665626f17/jannaom",         
+         "tags" : [
+            "sentiment","nlp","news","myown","bias","media"
+         ],
+         
+         "intraHash" : "66787c3983ae3127e185c04665626f17",
+         "interHash" : "48e91d03fd9d279c68a8f768aa02c1c8",
+         "label" : "Assessing Media Bias in Cross-Linguistic and Cross-National Populations",
+         "user" : "jannaom",
+         "description" : "",
+         "date" : "2021-09-28 19:09:38",
+         "changeDate" : "2021-09-28 19:09:38",
+         "count" : 5,
+         "pub-type": "article",
+         "journal": "Proceedings of the International AAAI Conference on Web and Social Media",
+         "year": "2021", 
+         "url": "https://ojs.aaai.org/index.php/ICWSM/article/view/18084", 
+         
+         "author": [ 
+            "Allan Sales","Albin Zehe","Leandro Balby Marinho","Adriano Veloso","Andreas Hotho","Janna Omeliyanenko"
+         ],
+         "authors": [
+         	
+            	{"first" : "Allan",	"last" : "Sales"},
+            	{"first" : "Albin",	"last" : "Zehe"},
+            	{"first" : "Leandro Balby",	"last" : "Marinho"},
+            	{"first" : "Adriano",	"last" : "Veloso"},
+            	{"first" : "Andreas",	"last" : "Hotho"},
+            	{"first" : "Janna",	"last" : "Omeliyanenko"}
+         ],
+         "volume": "15","number": "1","pages": "561-572",
+         "abstractnote" : "Media bias is a worldwide concern. Although automated methods exist for the analysis of various forms of media bias, language is still an important barrier toward spotting worldwide differences in reporting. In this paper, we propose a methodology based on word embeddings, lexicon translation, and document similarity to assess media bias in news articles published in different idioms. We model media bias under the perspective of subjective language use, i.e., the more subjective the content of a news article is, the more biased it is. Our core assumption is that news articles reporting the same events, but written in different languages, should have similar levels of subjectivity; otherwise, we may have spotted biased text. Our method consists of using translated versions of subjectivity lexicons that were originally constructed for measuring subjectivity in the Brazilian Portuguese language. We evaluate our approach on two labeled data sets to show that our method is valid and apply our methodology to analyze recent and largely resounded topics, such as the Venezuela crisis and Syrian war, on four distinct idioms: Portuguese, German, English, and Spanish.",
+         
+         "bibtexKey": "sales2021assessing"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/266787c3983ae3127e185c04665626f17/albinzehe",         
+         "tags" : [
+            "icwsm","sentiment","myown","bias","media"
+         ],
+         
+         "intraHash" : "66787c3983ae3127e185c04665626f17",
+         "interHash" : "48e91d03fd9d279c68a8f768aa02c1c8",
+         "label" : "Assessing Media Bias in Cross-Linguistic and Cross-National Populations",
+         "user" : "albinzehe",
+         "description" : "",
+         "date" : "2021-06-08 15:59:27",
+         "changeDate" : "2021-06-08 15:59:27",
+         "count" : 5,
+         "pub-type": "article",
+         "journal": "Proceedings of the International AAAI Conference on Web and Social Media",
+         "year": "2021", 
+         "url": "https://ojs.aaai.org/index.php/ICWSM/article/view/18084", 
+         
+         "author": [ 
+            "Allan Sales","Albin Zehe","Leandro Balby Marinho","Adriano Veloso","Andreas Hotho","Janna Omeliyanenko"
+         ],
+         "authors": [
+         	
+            	{"first" : "Allan",	"last" : "Sales"},
+            	{"first" : "Albin",	"last" : "Zehe"},
+            	{"first" : "Leandro Balby",	"last" : "Marinho"},
+            	{"first" : "Adriano",	"last" : "Veloso"},
+            	{"first" : "Andreas",	"last" : "Hotho"},
+            	{"first" : "Janna",	"last" : "Omeliyanenko"}
+         ],
+         "volume": "15","number": "1","pages": "561-572",
+         "abstractnote" : "Media bias is a worldwide concern. Although automated methods exist for the analysis of various forms of media bias, language is still an important barrier toward spotting worldwide differences in reporting. In this paper, we propose a methodology based on word embeddings, lexicon translation, and document similarity to assess media bias in news articles published in different idioms. We model media bias under the perspective of subjective language use, i.e., the more subjective the content of a news article is, the more biased it is. Our core assumption is that news articles reporting the same events, but written in different languages, should have similar levels of subjectivity; otherwise, we may have spotted biased text. Our method consists of using translated versions of subjectivity lexicons that were originally constructed for measuring subjectivity in the Brazilian Portuguese language. We evaluate our approach on two labeled data sets to show that our method is valid and apply our methodology to analyze recent and largely resounded topics, such as the Venezuela crisis and Syrian war, on four distinct idioms: Portuguese, German, English, and Spanish.",
+         
+         "bibtexKey": "sales2021assessing"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/266787c3983ae3127e185c04665626f17/janpf",         
+         "tags" : [
+            "bidt"
+         ],
+         
+         "intraHash" : "66787c3983ae3127e185c04665626f17",
+         "interHash" : "48e91d03fd9d279c68a8f768aa02c1c8",
+         "label" : "Assessing Media Bias in Cross-Linguistic and Cross-National Populations",
+         "user" : "janpf",
+         "description" : "",
+         "date" : "2021-12-15 17:08:41",
+         "changeDate" : "2021-12-15 17:08:41",
+         "count" : 5,
+         "pub-type": "article",
+         "journal": "Proceedings of the International AAAI Conference on Web and Social Media",
+         "year": "2021", 
+         "url": "https://ojs.aaai.org/index.php/ICWSM/article/view/18084", 
+         
+         "author": [ 
+            "Allan Sales","Albin Zehe","Leandro Balby Marinho","Adriano Veloso","Andreas Hotho","Janna Omeliyanenko"
+         ],
+         "authors": [
+         	
+            	{"first" : "Allan",	"last" : "Sales"},
+            	{"first" : "Albin",	"last" : "Zehe"},
+            	{"first" : "Leandro Balby",	"last" : "Marinho"},
+            	{"first" : "Adriano",	"last" : "Veloso"},
+            	{"first" : "Andreas",	"last" : "Hotho"},
+            	{"first" : "Janna",	"last" : "Omeliyanenko"}
+         ],
+         "volume": "15","number": "1","pages": "561-572",
+         "abstractnote" : "Media bias is a worldwide concern. Although automated methods exist for the analysis of various forms of media bias, language is still an important barrier toward spotting worldwide differences in reporting. In this paper, we propose a methodology based on word embeddings, lexicon translation, and document similarity to assess media bias in news articles published in different idioms. We model media bias under the perspective of subjective language use, i.e., the more subjective the content of a news article is, the more biased it is. Our core assumption is that news articles reporting the same events, but written in different languages, should have similar levels of subjectivity; otherwise, we may have spotted biased text. Our method consists of using translated versions of subjectivity lexicons that were originally constructed for measuring subjectivity in the Brazilian Portuguese language. We evaluate our approach on two labeled data sets to show that our method is valid and apply our methodology to analyze recent and largely resounded topics, such as the Venezuela crisis and Syrian war, on four distinct idioms: Portuguese, German, English, and Spanish.",
+         
+         "bibtexKey": "sales2021assessing"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/26b82f2217d170feb97d44af607ac6a47/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "6b82f2217d170feb97d44af607ac6a47",
+         "interHash" : "f6b3a1eb8cad3de2f3922c7ffe1c48f5",
+         "label" : "Investigating bias in traditional media through social media.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2018-11-06 00:00:00",
+         "changeDate" : "2018-11-07 15:47:36",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "WWW (Companion Volume)","publisher":"ACM",
+         "year": "2012", 
+         "url": "http://dblp.uni-trier.de/db/conf/www/www2012c.html#YounusQKSTOP12", 
+         
+         "author": [ 
+            "Arjumand Younus","Muhammad Atif Qureshi","Suneel Kumar Kingrani","Muhammad Saeed","Nasir Touheed","Colm O'Riordan","Gabriella Pasi"
+         ],
+         "authors": [
+         	
+            	{"first" : "Arjumand",	"last" : "Younus"},
+            	{"first" : "Muhammad Atif",	"last" : "Qureshi"},
+            	{"first" : "Suneel Kumar",	"last" : "Kingrani"},
+            	{"first" : "Muhammad",	"last" : "Saeed"},
+            	{"first" : "Nasir",	"last" : "Touheed"},
+            	{"first" : "Colm",	"last" : "O'Riordan"},
+            	{"first" : "Gabriella",	"last" : "Pasi"}
+         ],
+         
+         "editor": [ 
+            "Alain Mille","Fabien L. Gandon","Jacques Misselis","Michael Rabinovich","Steffen Staab"
+         ],
+         "editors": [
+         	
+            	{"first" : "Alain",	"last" : "Mille"},
+            	{"first" : "Fabien L.",	"last" : "Gandon"},
+            	{"first" : "Jacques",	"last" : "Misselis"},
+            	{"first" : "Michael",	"last" : "Rabinovich"},
+            	{"first" : "Steffen",	"last" : "Staab"}
+         ],
+         "pages": "643-644",
+         "ee" : "https://doi.org/10.1145/2187980.2188168",
+         
+         "isbn" : "978-1-4503-1230-1",
+         
+         "bibtexKey": "conf/www/YounusQKSTOP12"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2538377466c841510f61caf1a61f14512/lemmi",         
+         "tags" : [
+            "newspaper_Analysis","ht2015"
+         ],
+         
+         "intraHash" : "538377466c841510f61caf1a61f14512",
+         "interHash" : "f033267d91ed7574c96e4230b43f9cea",
+         "label" : "A measure of media bias",
+         "user" : "lemmi",
+         "description" : "",
+         "date" : "2015-03-27 15:14:13",
+         "changeDate" : "2015-03-27 15:14:13",
+         "count" : 2,
+         "pub-type": "article",
+         "journal": "The Quarterly Journal of Economics","publisher":"JSTOR",
+         "year": "2005", 
+         "url": "", 
+         
+         "author": [ 
+            "Tim Groseclose","Jeffrey Milyo"
+         ],
+         "authors": [
+         	
+            	{"first" : "Tim",	"last" : "Groseclose"},
+            	{"first" : "Jeffrey",	"last" : "Milyo"}
+         ],
+         "pages": "1191--1237",
+         "bibtexKey": "groseclose2005measure"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2c03d42c31e62f0bb69566f4c53f91d27/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "c03d42c31e62f0bb69566f4c53f91d27",
+         "interHash" : "d4c72ff92ffb92d132023d996b8368e3",
+         "label" : "Media bias detection and bias short term impact assessment.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-06-12 00:00:00",
+         "changeDate" : "2020-06-13 11:38:01",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "Array",
+         "year": "2020", 
+         "url": "http://dblp.uni-trier.de/db/journals/array/array6.html#AggarwalSKS20", 
+         
+         "author": [ 
+            "Swati Aggarwal","Tushar Sinha","Yash Kukreti","Siddarth Shikhar"
+         ],
+         "authors": [
+         	
+            	{"first" : "Swati",	"last" : "Aggarwal"},
+            	{"first" : "Tushar",	"last" : "Sinha"},
+            	{"first" : "Yash",	"last" : "Kukreti"},
+            	{"first" : "Siddarth",	"last" : "Shikhar"}
+         ],
+         "volume": "6","pages": "100025",
+         "ee" : "https://doi.org/10.1016/j.array.2020.100025",
+         
+         "bibtexKey": "journals/array/AggarwalSKS20"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2432ebfbe30f34d83d5ea44b4fc8ed9ff/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "432ebfbe30f34d83d5ea44b4fc8ed9ff",
+         "interHash" : "7193c7623d7f25357acab8e2188bafd6",
+         "label" : "Detecting Media Bias in News Articles using Gaussian Bias Distributions.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-10-26 00:00:00",
+         "changeDate" : "2020-10-27 12:32:49",
+         "count" : 2,
+         "pub-type": "article",
+         "journal": "CoRR",
+         "year": "2020", 
+         "url": "http://dblp.uni-trier.de/db/journals/corr/corr2010.html#abs-2010-10649", 
+         
+         "author": [ 
+            "Wei-Fan Chen","Khalid Al Khatib","Benno Stein","Henning Wachsmuth"
+         ],
+         "authors": [
+         	
+            	{"first" : "Wei-Fan",	"last" : "Chen"},
+            	{"first" : "Khalid Al",	"last" : "Khatib"},
+            	{"first" : "Benno",	"last" : "Stein"},
+            	{"first" : "Henning",	"last" : "Wachsmuth"}
+         ],
+         "volume": "abs/2010.10649",
+         "ee" : "https://arxiv.org/abs/2010.10649",
+         
+         "bibtexKey": "journals/corr/abs-2010-10649"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2086a1e0f5e351cf43b82a61bbef77c8b/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "086a1e0f5e351cf43b82a61bbef77c8b",
+         "interHash" : "7193c7623d7f25357acab8e2188bafd6",
+         "label" : "Detecting Media Bias in News Articles using Gaussian Bias Distributions.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-11-12 00:00:00",
+         "changeDate" : "2020-11-13 11:37:36",
+         "count" : 2,
+         "pub-type": "inproceedings",
+         "booktitle": "EMNLP (Findings)","publisher":"Association for Computational Linguistics",
+         "year": "2020", 
+         "url": "http://dblp.uni-trier.de/db/conf/emnlp/emnlp2020f.html#ChenK0W20", 
+         
+         "author": [ 
+            "Wei-Fan Chen","Khalid Al Khatib","Benno Stein","Henning Wachsmuth"
+         ],
+         "authors": [
+         	
+            	{"first" : "Wei-Fan",	"last" : "Chen"},
+            	{"first" : "Khalid Al",	"last" : "Khatib"},
+            	{"first" : "Benno",	"last" : "Stein"},
+            	{"first" : "Henning",	"last" : "Wachsmuth"}
+         ],
+         
+         "editor": [ 
+            "Trevor Cohn","Yulan He","Yang Liu"
+         ],
+         "editors": [
+         	
+            	{"first" : "Trevor",	"last" : "Cohn"},
+            	{"first" : "Yulan",	"last" : "He"},
+            	{"first" : "Yang",	"last" : "Liu"}
+         ],
+         "pages": "4290-4300",
+         "ee" : "https://www.aclweb.org/anthology/2020.findings-emnlp.383/",
+         
+         "isbn" : "978-1-952148-90-3",
+         
+         "bibtexKey": "conf/emnlp/ChenK0W20"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2addfd0d84b4347392dc94a4bec400412/dallmann",         
+         "tags" : [
+            "myown","bias","media"
+         ],
+         
+         "intraHash" : "addfd0d84b4347392dc94a4bec400412",
+         "interHash" : "6b2daa7830c5e504543dcdaefed46285",
+         "label" : "Media Bias in German Online Newspapers",
+         "user" : "dallmann",
+         "description" : "",
+         "date" : "2017-11-17 15:17:06",
+         "changeDate" : "2017-11-17 15:17:06",
+         "count" : 9,
+         "pub-type": "inproceedings",
+         "booktitle": "26th ACM Conference on Hypertext and Social Media","publisher":"ACM","address":"Cyprus, Turkey, September 1-4",
+         "year": "2015", 
+         "url": "", 
+         
+         "author": [ 
+            "Alexander Dallmann","Florian Lemmerich","Daniel Zoller","Andreas Hotho"
+         ],
+         "authors": [
+         	
+            	{"first" : "Alexander",	"last" : "Dallmann"},
+            	{"first" : "Florian",	"last" : "Lemmerich"},
+            	{"first" : "Daniel",	"last" : "Zoller"},
+            	{"first" : "Andreas",	"last" : "Hotho"}
+         ],
+         
+         "bibtexKey": "dallmann2015media"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/25e11f43d036e707b3068e04ed2b9fe58/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "5e11f43d036e707b3068e04ed2b9fe58",
+         "interHash" : "6b2daa7830c5e504543dcdaefed46285",
+         "label" : "Media Bias in German Online Newspapers.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2016-10-11 00:00:00",
+         "changeDate" : "2016-10-12 11:34:43",
+         "count" : 9,
+         "pub-type": "inproceedings",
+         "booktitle": "HT","publisher":"ACM",
+         "year": "2015", 
+         "url": "http://dblp.uni-trier.de/db/conf/ht/ht2015.html#DallmannLZH15", 
+         
+         "author": [ 
+            "Alexander Dallmann","Florian Lemmerich","Daniel Zoller","Andreas Hotho"
+         ],
+         "authors": [
+         	
+            	{"first" : "Alexander",	"last" : "Dallmann"},
+            	{"first" : "Florian",	"last" : "Lemmerich"},
+            	{"first" : "Daniel",	"last" : "Zoller"},
+            	{"first" : "Andreas",	"last" : "Hotho"}
+         ],
+         
+         "editor": [ 
+            "Yeliz Yesilada","Rosta Farzan","Geert-Jan Houben"
+         ],
+         "editors": [
+         	
+            	{"first" : "Yeliz",	"last" : "Yesilada"},
+            	{"first" : "Rosta",	"last" : "Farzan"},
+            	{"first" : "Geert-Jan",	"last" : "Houben"}
+         ],
+         "pages": "133-137",
+         "ee" : "http://doi.acm.org/10.1145/2700171.2791057",
+         
+         "isbn" : "978-1-4503-3395-5",
+         
+         "bibtexKey": "conf/ht/DallmannLZH15"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2addfd0d84b4347392dc94a4bec400412/dmir",         
+         "tags" : [
+            "news","newspaper","myown","german","2015","bias","media","from:hotho"
+         ],
+         
+         "intraHash" : "addfd0d84b4347392dc94a4bec400412",
+         "interHash" : "6b2daa7830c5e504543dcdaefed46285",
+         "label" : "Media Bias in German Online Newspapers",
+         "user" : "dmir",
+         "description" : "",
+         "date" : "2016-10-11 23:38:10",
+         "changeDate" : "2016-10-11 23:38:10",
+         "count" : 9,
+         "pub-type": "inproceedings",
+         "booktitle": "26th ACM Conference on Hypertext and Social Media","publisher":"ACM","address":"Cyprus, Turkey, September 1-4",
+         "year": "2015", 
+         "url": "", 
+         
+         "author": [ 
+            "Alexander Dallmann","Florian Lemmerich","Daniel Zoller","Andreas Hotho"
+         ],
+         "authors": [
+         	
+            	{"first" : "Alexander",	"last" : "Dallmann"},
+            	{"first" : "Florian",	"last" : "Lemmerich"},
+            	{"first" : "Daniel",	"last" : "Zoller"},
+            	{"first" : "Andreas",	"last" : "Hotho"}
+         ],
+         
+         "bibtexKey": "dallmann2015media"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2addfd0d84b4347392dc94a4bec400412/hotho",         
+         "tags" : [
+            "news","newspaper","myown","german","2015","bias","media"
+         ],
+         
+         "intraHash" : "addfd0d84b4347392dc94a4bec400412",
+         "interHash" : "6b2daa7830c5e504543dcdaefed46285",
+         "label" : "Media Bias in German Online Newspapers",
+         "user" : "hotho",
+         "description" : "",
+         "date" : "2015-07-24 17:59:49",
+         "changeDate" : "2016-09-28 14:46:02",
+         "count" : 9,
+         "pub-type": "inproceedings",
+         "booktitle": "26th ACM Conference on Hypertext and Social Media","publisher":"ACM","address":"Cyprus, Turkey, September 1-4",
+         "year": "2015", 
+         "url": "", 
+         
+         "author": [ 
+            "Alexander Dallmann","Florian Lemmerich","Daniel Zoller","Andreas Hotho"
+         ],
+         "authors": [
+         	
+            	{"first" : "Alexander",	"last" : "Dallmann"},
+            	{"first" : "Florian",	"last" : "Lemmerich"},
+            	{"first" : "Daniel",	"last" : "Zoller"},
+            	{"first" : "Andreas",	"last" : "Hotho"}
+         ],
+         
+         "bibtexKey": "dallmann2015media"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2387ba54e523018d7a29f63ebed90c6dd/nosebrain",         
+         "tags" : [
+            "newspaper","myown","german","lwa","bias","online","abstract","media"
+         ],
+         
+         "intraHash" : "387ba54e523018d7a29f63ebed90c6dd",
+         "interHash" : "6b2daa7830c5e504543dcdaefed46285",
+         "label" : "Media Bias in German Online Newspapers",
+         "user" : "nosebrain",
+         "description" : "",
+         "date" : "2015-09-11 14:25:31",
+         "changeDate" : "2015-10-14 00:17:32",
+         "count" : 9,
+         "pub-type": "inproceedings",
+         "booktitle": "Proceedings of the LWA 2015 Workshops: KDML, FGWM, IR, and FGDB. Trier, Germany, 7.-9. October 2015","series": "CEUR Workshop Proceedings","publisher":"CEUR-WS.org",
+         "year": "2015", 
+         "url": "http://ceur-ws.org", 
+         
+         "author": [ 
+            "Alexander Dallmann","Florian Lemmerich","Daniel Zoller","Andreas Hotho"
+         ],
+         "authors": [
+         	
+            	{"first" : "Alexander",	"last" : "Dallmann"},
+            	{"first" : "Florian",	"last" : "Lemmerich"},
+            	{"first" : "Daniel",	"last" : "Zoller"},
+            	{"first" : "Andreas",	"last" : "Hotho"}
+         ],
+         
+         "editor": [ 
+            "R. Bergmann","S. Görg","G. Müller"
+         ],
+         "editors": [
+         	
+            	{"first" : "R.",	"last" : "Bergmann"},
+            	{"first" : "S.",	"last" : "Görg"},
+            	{"first" : "G.",	"last" : "Müller"}
+         ],
+         
+         "bibtexKey": "dallmann2015media"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2addfd0d84b4347392dc94a4bec400412/kde-alumni",         
+         "tags" : [
+            "newspaper","myown","german","2015","bias"
+         ],
+         
+         "intraHash" : "addfd0d84b4347392dc94a4bec400412",
+         "interHash" : "6b2daa7830c5e504543dcdaefed46285",
+         "label" : "Media Bias in German Online Newspapers",
+         "user" : "kde-alumni",
+         "description" : "",
+         "date" : "2015-10-14 11:41:05",
+         "changeDate" : "2015-10-14 11:41:05",
+         "count" : 9,
+         "pub-type": "inproceedings",
+         "booktitle": "26th ACM Conference on Hypertext and Social Media","publisher":"ACM","address":"Cyprus, Turkey, September 1-4",
+         "year": "2015", 
+         "url": "", 
+         
+         "author": [ 
+            "Alexander Dallmann","Florian Lemmerich","Daniel Zoller","Andreas Hotho"
+         ],
+         "authors": [
+         	
+            	{"first" : "Alexander",	"last" : "Dallmann"},
+            	{"first" : "Florian",	"last" : "Lemmerich"},
+            	{"first" : "Daniel",	"last" : "Zoller"},
+            	{"first" : "Andreas",	"last" : "Hotho"}
+         ],
+         
+         "bibtexKey": "dallmann2015media"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/28e0e31eeb129aa10173cd4198e579fe8/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "8e0e31eeb129aa10173cd4198e579fe8",
+         "interHash" : "3e9596e3d4f798e8d4e9ea5068c06d7f",
+         "label" : "Alleviating Media Bias Through Intelligent Agent Blogging",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2018-08-13 00:00:00",
+         "changeDate" : "2018-08-14 15:12:11",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "CoRR",
+         "year": "2009", 
+         "url": "http://dblp.uni-trier.de/db/journals/corr/corr0902.html#abs-0902-0798", 
+         
+         "author": [ 
+            "Ernesto Diaz-Aviles"
+         ],
+         "authors": [
+         	
+            	{"first" : "Ernesto",	"last" : "Diaz-Aviles"}
+         ],
+         "volume": "abs/0902.0798",
+         "ee" : "http://arxiv.org/abs/0902.0798",
+         
+         "bibtexKey": "journals/corr/abs-0902-0798"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/204a42c3fa67e0420f6a50f5efe6566f0/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "04a42c3fa67e0420f6a50f5efe6566f0",
+         "interHash" : "49f6f57eb6f62f8eaa1daf4f7dfe63bd",
+         "label" : "Media Bias Characterization in Brazilian Presidential Elections.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2019-09-17 00:00:00",
+         "changeDate" : "2019-09-18 11:42:33",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "HT","publisher":"ACM",
+         "year": "2019", 
+         "url": "http://dblp.uni-trier.de/db/conf/ht/ht2019.html#SalesBV19", 
+         
+         "author": [ 
+            "Allan Sales","Leandro Balby","Adriano Veloso"
+         ],
+         "authors": [
+         	
+            	{"first" : "Allan",	"last" : "Sales"},
+            	{"first" : "Leandro",	"last" : "Balby"},
+            	{"first" : "Adriano",	"last" : "Veloso"}
+         ],
+         
+         "editor": [ 
+            "Claus Atzenbeck","Jessica Rubart","David E. Millard"
+         ],
+         "editors": [
+         	
+            	{"first" : "Claus",	"last" : "Atzenbeck"},
+            	{"first" : "Jessica",	"last" : "Rubart"},
+            	{"first" : "David E.",	"last" : "Millard"}
+         ],
+         "pages": "231-240",
+         "ee" : "https://doi.org/10.1145/3342220.3343656",
+         
+         "isbn" : "978-1-4503-6885-8",
+         
+         "bibtexKey": "conf/ht/SalesBV19"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2711f83e4273e3cd76987293c5861d45f/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "711f83e4273e3cd76987293c5861d45f",
+         "interHash" : "a8ccb7e93f8d61c683191a7ffac664b4",
+         "label" : "Media Bias Characterization in Brazilian Presidential Elections.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2019-09-17 00:00:00",
+         "changeDate" : "2019-09-18 11:42:33",
+         "count" : 2,
+         "pub-type": "inproceedings",
+         "booktitle": "SIdEWayS@HT","publisher":"ACM",
+         "year": "2019", 
+         "url": "http://dblp.uni-trier.de/db/conf/ht/sideways2019.html#MeloMV19", 
+         
+         "author": [ 
+            "Allan Sales da Costa Melo","Leandro Balby Marinho","Adriano Alonso Veloso"
+         ],
+         "authors": [
+         	
+            	{"first" : "Allan Sales",	"last" : "da Costa Melo"},
+            	{"first" : "Leandro Balby",	"last" : "Marinho"},
+            	{"first" : "Adriano Alonso",	"last" : "Veloso"}
+         ],
+         
+         "editor": [ 
+            "Luigi Di Caro","Mario Cataldi","Claudio Schifanella"
+         ],
+         "editors": [
+         	
+            	{"first" : "Luigi Di",	"last" : "Caro"},
+            	{"first" : "Mario",	"last" : "Cataldi"},
+            	{"first" : "Claudio",	"last" : "Schifanella"}
+         ],
+         "pages": "5-6",
+         "ee" : "https://doi.org/10.1145/3345645.3351107",
+         
+         "isbn" : "978-1-4503-6903-9",
+         
+         "bibtexKey": "conf/ht/MeloMV19"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2f19c9c5cdf9122ef332170df062559b6/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "f19c9c5cdf9122ef332170df062559b6",
+         "interHash" : "61476880ffbcbcbbb9a3500590d398cb",
+         "label" : "Identifying Media Bias by Analyzing Reported Speech.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2018-01-11 00:00:00",
+         "changeDate" : "2019-10-17 13:00:00",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "ICDM","publisher":"IEEE Computer Society",
+         "year": "2017", 
+         "url": "http://dblp.uni-trier.de/db/conf/icdm/icdm2017.html#LazaridouKN17", 
+         
+         "author": [ 
+            "Konstantina Lazaridou","Ralf Krestel","Felix Naumann"
+         ],
+         "authors": [
+         	
+            	{"first" : "Konstantina",	"last" : "Lazaridou"},
+            	{"first" : "Ralf",	"last" : "Krestel"},
+            	{"first" : "Felix",	"last" : "Naumann"}
+         ],
+         
+         "editor": [ 
+            "Vijay Raghavan","Srinivas Aluru","George Karypis","Lucio Miele","Xindong Wu"
+         ],
+         "editors": [
+         	
+            	{"first" : "Vijay",	"last" : "Raghavan"},
+            	{"first" : "Srinivas",	"last" : "Aluru"},
+            	{"first" : "George",	"last" : "Karypis"},
+            	{"first" : "Lucio",	"last" : "Miele"},
+            	{"first" : "Xindong",	"last" : "Wu"}
+         ],
+         "pages": "943-948",
+         "ee" : "http://doi.ieeecomputersociety.org/10.1109/ICDM.2017.119",
+         
+         "isbn" : "978-1-5386-3835-4",
+         
+         "bibtexKey": "conf/icdm/LazaridouKN17"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/27ffd638282addaf581e7581d6b2000e1/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "7ffd638282addaf581e7581d6b2000e1",
+         "interHash" : "fe2a7acf14b4e8e3246b2b523a411fb1",
+         "label" : "A Computational Framework for Media Bias Mitigation.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-04-25 00:00:00",
+         "changeDate" : "2020-04-28 12:04:23",
+         "count" : 3,
+         "pub-type": "article",
+         "journal": "ACM Trans. Interact. Intell. Syst.",
+         "year": "2012", 
+         "url": "http://dblp.uni-trier.de/db/journals/tiis/tiis2.html#ParkKCS12", 
+         
+         "author": [ 
+            "Souneil Park","Seungwoo Kang","Sangyoung Chung","Junehwa Song"
+         ],
+         "authors": [
+         	
+            	{"first" : "Souneil",	"last" : "Park"},
+            	{"first" : "Seungwoo",	"last" : "Kang"},
+            	{"first" : "Sangyoung",	"last" : "Chung"},
+            	{"first" : "Junehwa",	"last" : "Song"}
+         ],
+         "volume": "2","number": "2","pages": "8:1-8:32",
+         "ee" : "https://doi.org/10.1145/2209310.2209311",
+         
+         "bibtexKey": "journals/tiis/ParkKCS12"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/225edc705c8c90b9990d178e6d938c0ad/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "25edc705c8c90b9990d178e6d938c0ad",
+         "interHash" : "e1f37dc75a9be19cfe59ff6843b12d68",
+         "label" : "Detecting and mitigating bias in social media.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2016-11-29 00:00:00",
+         "changeDate" : "2016-11-30 11:34:26",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "ASONAM","publisher":"IEEE Computer Society",
+         "year": "2016", 
+         "url": "http://dblp.uni-trier.de/db/conf/asunam/asonam2016.html#Morstatter16", 
+         
+         "author": [ 
+            "Fred Morstatter"
+         ],
+         "authors": [
+         	
+            	{"first" : "Fred",	"last" : "Morstatter"}
+         ],
+         
+         "editor": [ 
+            "Ravi Kumar","James Caverlee","Hanghang Tong"
+         ],
+         "editors": [
+         	
+            	{"first" : "Ravi",	"last" : "Kumar"},
+            	{"first" : "James",	"last" : "Caverlee"},
+            	{"first" : "Hanghang",	"last" : "Tong"}
+         ],
+         "pages": "1347-1348",
+         "ee" : "http://doi.ieeecomputersociety.org/10.1109/ASONAM.2016.7752412",
+         
+         "isbn" : "978-1-5090-2846-7",
+         
+         "bibtexKey": "conf/asunam/Morstatter16"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2682d9d32780393402824e379ef962909/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "682d9d32780393402824e379ef962909",
+         "interHash" : "a754868dd869b0a72c8ecc40ea6d61ee",
+         "label" : "Search bias quantification: investigating political bias in social media and web search.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2019-09-24 00:00:00",
+         "changeDate" : "2019-09-25 11:38:21",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "Inf. Retr. Journal",
+         "year": "2019", 
+         "url": "http://dblp.uni-trier.de/db/journals/ir/ir22.html#KulshresthaEMZG19", 
+         
+         "author": [ 
+            "Juhi Kulshrestha","Motahhare Eslami","Johnnatan Messias","Muhammad Bilal Zafar","Saptarshi Ghosh","Krishna P. Gummadi","Karrie Karahalios"
+         ],
+         "authors": [
+         	
+            	{"first" : "Juhi",	"last" : "Kulshrestha"},
+            	{"first" : "Motahhare",	"last" : "Eslami"},
+            	{"first" : "Johnnatan",	"last" : "Messias"},
+            	{"first" : "Muhammad Bilal",	"last" : "Zafar"},
+            	{"first" : "Saptarshi",	"last" : "Ghosh"},
+            	{"first" : "Krishna P.",	"last" : "Gummadi"},
+            	{"first" : "Karrie",	"last" : "Karahalios"}
+         ],
+         "volume": "22","number": "1-2","pages": "188-227",
+         "ee" : "https://www.wikidata.org/entity/Q64410623",
+         
+         "bibtexKey": "journals/ir/KulshresthaEMZG19"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/21c47174205d110cafe01629be2203b28/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "1c47174205d110cafe01629be2203b28",
+         "interHash" : "2c73cf6cc21568f3672d1e7c6473dfdb",
+         "label" : "Quantifying Search Bias: Investigating Sources of Bias for Political Searches in Social Media.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2019-09-24 00:00:00",
+         "changeDate" : "2019-09-25 11:38:35",
+         "count" : 2,
+         "pub-type": "article",
+         "journal": "CoRR",
+         "year": "2017", 
+         "url": "http://dblp.uni-trier.de/db/journals/corr/corr1704.html#KulshresthaEMZG17", 
+         
+         "author": [ 
+            "Juhi Kulshrestha","Motahhare Eslami","Johnnatan Messias","Muhammad Bilal Zafar","Saptarshi Ghosh","Krishna P. Gummadi","Karrie Karahalios"
+         ],
+         "authors": [
+         	
+            	{"first" : "Juhi",	"last" : "Kulshrestha"},
+            	{"first" : "Motahhare",	"last" : "Eslami"},
+            	{"first" : "Johnnatan",	"last" : "Messias"},
+            	{"first" : "Muhammad Bilal",	"last" : "Zafar"},
+            	{"first" : "Saptarshi",	"last" : "Ghosh"},
+            	{"first" : "Krishna P.",	"last" : "Gummadi"},
+            	{"first" : "Karrie",	"last" : "Karahalios"}
+         ],
+         "volume": "abs/1704.01347",
+         "ee" : "http://arxiv.org/abs/1704.01347",
+         
+         "bibtexKey": "journals/corr/KulshresthaEMZG17"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2d239ab6d2c48197033e63a3c385a05e1/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "d239ab6d2c48197033e63a3c385a05e1",
+         "interHash" : "2c73cf6cc21568f3672d1e7c6473dfdb",
+         "label" : "Quantifying Search Bias: Investigating Sources of Bias for Political Searches in Social Media.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2019-09-24 00:00:00",
+         "changeDate" : "2019-09-25 11:41:56",
+         "count" : 2,
+         "pub-type": "inproceedings",
+         "booktitle": "CSCW","publisher":"ACM",
+         "year": "2017", 
+         "url": "http://dblp.uni-trier.de/db/conf/cscw/cscw2017.html#KulshresthaEMZG17", 
+         
+         "author": [ 
+            "Juhi Kulshrestha","Motahhare Eslami","Johnnatan Messias","Muhammad Bilal Zafar","Saptarshi Ghosh","Krishna P. Gummadi","Karrie Karahalios"
+         ],
+         "authors": [
+         	
+            	{"first" : "Juhi",	"last" : "Kulshrestha"},
+            	{"first" : "Motahhare",	"last" : "Eslami"},
+            	{"first" : "Johnnatan",	"last" : "Messias"},
+            	{"first" : "Muhammad Bilal",	"last" : "Zafar"},
+            	{"first" : "Saptarshi",	"last" : "Ghosh"},
+            	{"first" : "Krishna P.",	"last" : "Gummadi"},
+            	{"first" : "Karrie",	"last" : "Karahalios"}
+         ],
+         
+         "editor": [ 
+            "Charlotte P. Lee","Steven E. Poltrock","Louise Barkhuus","Marcos Borges","Wendy A. Kellogg"
+         ],
+         "editors": [
+         	
+            	{"first" : "Charlotte P.",	"last" : "Lee"},
+            	{"first" : "Steven E.",	"last" : "Poltrock"},
+            	{"first" : "Louise",	"last" : "Barkhuus"},
+            	{"first" : "Marcos",	"last" : "Borges"},
+            	{"first" : "Wendy A.",	"last" : "Kellogg"}
+         ],
+         "pages": "417-432",
+         "ee" : "http://dl.acm.org/citation.cfm?id=2998321",
+         
+         "isbn" : "978-1-4503-4335-0",
+         
+         "bibtexKey": "conf/cscw/KulshresthaEMZG17"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2672d6c723db77657c6f2ce901047aa85/lemmi",         
+         "tags" : [
+            "newspaper_Analysis","ht2015"
+         ],
+         
+         "intraHash" : "672d6c723db77657c6f2ce901047aa85",
+         "interHash" : "0f218919168a180951974f3ac1d16828",
+         "label" : "Media bias in presidential elections: a meta-analysis",
+         "user" : "lemmi",
+         "description" : "",
+         "date" : "2015-03-27 15:13:08",
+         "changeDate" : "2015-03-27 15:13:08",
+         "count" : 2,
+         "pub-type": "article",
+         "journal": "Journal of communication","publisher":"Wiley Online Library",
+         "year": "2000", 
+         "url": "", 
+         
+         "author": [ 
+            "Dave D'Alessio","Mike Allen"
+         ],
+         "authors": [
+         	
+            	{"first" : "Dave",	"last" : "D'Alessio"},
+            	{"first" : "Mike",	"last" : "Allen"}
+         ],
+         "volume": "50","number": "4","pages": "133--156",
+         "bibtexKey": "d2000media"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/274c4b6976e892ef5e2e58cf64863bbd0/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "74c4b6976e892ef5e2e58cf64863bbd0",
+         "interHash" : "3dcc02ac7ebf5d128d51837db24f7964",
+         "label" : "User-Generated Content and Bias in News Media.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-06-30 00:00:00",
+         "changeDate" : "2020-07-01 11:41:53",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "Manag. Sci.",
+         "year": "2013", 
+         "url": "http://dblp.uni-trier.de/db/journals/mansci/mansci59.html#YildirimGG13", 
+         
+         "author": [ 
+            "Pinar Yildirim","Esther Gal-Or","Tansev Geylani"
+         ],
+         "authors": [
+         	
+            	{"first" : "Pinar",	"last" : "Yildirim"},
+            	{"first" : "Esther",	"last" : "Gal-Or"},
+            	{"first" : "Tansev",	"last" : "Geylani"}
+         ],
+         "volume": "59","number": "12","pages": "2655-2666",
+         "ee" : "https://doi.org/10.1287/mnsc.2013.1746",
+         
+         "bibtexKey": "journals/mansci/YildirimGG13"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2cc2075104a5b2d6ee927da2f69d753e0/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "cc2075104a5b2d6ee927da2f69d753e0",
+         "interHash" : "34ba2f33ede3607835ee7e2ce87ae191",
+         "label" : "Modeling, Quantifying and Visualizing Media Bias on Twitter.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-06-04 00:00:00",
+         "changeDate" : "2020-06-05 11:59:15",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "IEEE Access",
+         "year": "2020", 
+         "url": "http://dblp.uni-trier.de/db/journals/access/access8.html#ZahidKKKN20", 
+         
+         "author": [ 
+            "Anam Zahid","Maham Nasir Khan","Ahmer Latif Khan","Faisal Kamiran","Bilal Nasir"
+         ],
+         "authors": [
+         	
+            	{"first" : "Anam",	"last" : "Zahid"},
+            	{"first" : "Maham Nasir",	"last" : "Khan"},
+            	{"first" : "Ahmer Latif",	"last" : "Khan"},
+            	{"first" : "Faisal",	"last" : "Kamiran"},
+            	{"first" : "Bilal",	"last" : "Nasir"}
+         ],
+         "volume": "8","pages": "81812-81821",
+         "ee" : "https://doi.org/10.1109/ACCESS.2020.2990800",
+         
+         "bibtexKey": "journals/access/ZahidKKKN20"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/26673d2cedd589d960a4e1fff725e4db5/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "6673d2cedd589d960a4e1fff725e4db5",
+         "interHash" : "0a8eadc0179721139fd4e9b597e72104",
+         "label" : "Towards detecting media bias by utilizing user comments.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2018-11-06 00:00:00",
+         "changeDate" : "2018-11-07 13:49:57",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "WebSci","publisher":"ACM",
+         "year": "2016", 
+         "url": "http://dblp.uni-trier.de/db/conf/websci/websci2016.html#Yigit-SertAU16", 
+         
+         "author": [ 
+            "Sevgi Yigit-Sert","Ismail Sengor Altingovde","Özgür Ulusoy"
+         ],
+         "authors": [
+         	
+            	{"first" : "Sevgi",	"last" : "Yigit-Sert"},
+            	{"first" : "Ismail Sengor",	"last" : "Altingovde"},
+            	{"first" : "Özgür",	"last" : "Ulusoy"}
+         ],
+         
+         "editor": [ 
+            "Wolfgang Nejdl","Wendy Hall","Paolo Parigi","Steffen Staab"
+         ],
+         "editors": [
+         	
+            	{"first" : "Wolfgang",	"last" : "Nejdl"},
+            	{"first" : "Wendy",	"last" : "Hall"},
+            	{"first" : "Paolo",	"last" : "Parigi"},
+            	{"first" : "Steffen",	"last" : "Staab"}
+         ],
+         "pages": "374-375",
+         "ee" : "https://doi.org/10.1145/2908131.2908186",
+         
+         "isbn" : "978-1-4503-4208-7",
+         
+         "bibtexKey": "conf/websci/Yigit-SertAU16"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/22a1231679f9de89c9ad8ca4d5e2c0f68/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "2a1231679f9de89c9ad8ca4d5e2c0f68",
+         "interHash" : "a7df2259ab6bcabef1d592e2d2631914",
+         "label" : "Bias Based Navigation for News Articles and Media.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2017-06-05 00:00:00",
+         "changeDate" : "2019-05-15 20:07:18",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "NLDB","series": "Lecture Notes in Computer Science","publisher":"Springer",
+         "year": "2016", 
+         "url": "http://dblp.uni-trier.de/db/conf/nldb/nldb2016.html#PatankarB16", 
+         
+         "author": [ 
+            "Anish Anil Patankar","Joy Bose"
+         ],
+         "authors": [
+         	
+            	{"first" : "Anish Anil",	"last" : "Patankar"},
+            	{"first" : "Joy",	"last" : "Bose"}
+         ],
+         
+         "editor": [ 
+            "Elisabeth Métais","Farid Meziane","Mohamad Saraee","Vijayan Sugumaran","Sunil Vadera"
+         ],
+         "editors": [
+         	
+            	{"first" : "Elisabeth",	"last" : "Métais"},
+            	{"first" : "Farid",	"last" : "Meziane"},
+            	{"first" : "Mohamad",	"last" : "Saraee"},
+            	{"first" : "Vijayan",	"last" : "Sugumaran"},
+            	{"first" : "Sunil",	"last" : "Vadera"}
+         ],
+         "volume": "9612","pages": "465-470",
+         "ee" : "https://doi.org/10.1007/978-3-319-41754-7_50",
+         
+         "isbn" : "978-3-319-41753-0",
+         
+         "bibtexKey": "conf/nldb/PatankarB16"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2cdac7eddaa01caf249542ff89bd69fec/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "cdac7eddaa01caf249542ff89bd69fec",
+         "interHash" : "cfee05405e79ae46d3ed8bc3d011d526",
+         "label" : "Neutral Bots Reveal Political Bias on Social Media.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-05-22 00:00:00",
+         "changeDate" : "2020-05-23 12:24:05",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "CoRR",
+         "year": "2020", 
+         "url": "http://dblp.uni-trier.de/db/journals/corr/corr2005.html#abs-2005-08141", 
+         
+         "author": [ 
+            "Wen Chen","Diogo Pacheco","Kai-Cheng Yang","Filippo Menczer"
+         ],
+         "authors": [
+         	
+            	{"first" : "Wen",	"last" : "Chen"},
+            	{"first" : "Diogo",	"last" : "Pacheco"},
+            	{"first" : "Kai-Cheng",	"last" : "Yang"},
+            	{"first" : "Filippo",	"last" : "Menczer"}
+         ],
+         "volume": "abs/2005.08141",
+         "ee" : "https://arxiv.org/abs/2005.08141",
+         
+         "bibtexKey": "journals/corr/abs-2005-08141"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/292b737b98a61ee80398f2f923fc0d30d/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "92b737b98a61ee80398f2f923fc0d30d",
+         "interHash" : "9336ef8a074d9275563df4a30dedefa6",
+         "label" : "Newsalyze: Enabling News Consumers to Understand Media Bias.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-08-03 00:00:00",
+         "changeDate" : "2020-08-11 11:43:14",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "JCDL","publisher":"ACM",
+         "year": "2020", 
+         "url": "http://dblp.uni-trier.de/db/conf/jcdl/jcdl2020.html#HamborgZDG20", 
+         
+         "author": [ 
+            "Felix Hamborg","Anastasia Zhukova","Karsten Donnay","Bela Gipp"
+         ],
+         "authors": [
+         	
+            	{"first" : "Felix",	"last" : "Hamborg"},
+            	{"first" : "Anastasia",	"last" : "Zhukova"},
+            	{"first" : "Karsten",	"last" : "Donnay"},
+            	{"first" : "Bela",	"last" : "Gipp"}
+         ],
+         
+         "editor": [ 
+            "Ruhua Huang","Dan Wu","Gary Marchionini","Daqing He","Sally Jo Cunningham","Preben Hansen"
+         ],
+         "editors": [
+         	
+            	{"first" : "Ruhua",	"last" : "Huang"},
+            	{"first" : "Dan",	"last" : "Wu"},
+            	{"first" : "Gary",	"last" : "Marchionini"},
+            	{"first" : "Daqing",	"last" : "He"},
+            	{"first" : "Sally Jo",	"last" : "Cunningham"},
+            	{"first" : "Preben",	"last" : "Hansen"}
+         ],
+         "pages": "455-456",
+         "ee" : "https://doi.org/10.1145/3383583.3398561",
+         
+         "isbn" : "978-1-4503-7585-6",
+         
+         "bibtexKey": "conf/jcdl/HamborgZDG20"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/28e546ccf0312eed06a3328f4699f95c8/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "8e546ccf0312eed06a3328f4699f95c8",
+         "interHash" : "b88ac51ce3a887c0c9b0b9ccba9b090d",
+         "label" : "Media Bias Monitor: Quantifying Biases of Social Media News Outlets at Large-Scale.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-05-27 00:00:00",
+         "changeDate" : "2020-05-28 11:57:58",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "ICWSM","publisher":"AAAI Press",
+         "year": "2018", 
+         "url": "http://dblp.uni-trier.de/db/conf/icwsm/icwsm2018.html#RibeiroHBCKBG18", 
+         
+         "author": [ 
+            "Filipe Nunes Ribeiro","Lucas Henrique C. Lima","Fabrício Benevenuto","Abhijnan Chakraborty","Juhi Kulshrestha","Mahmoudreza Babaei","Krishna P. Gummadi"
+         ],
+         "authors": [
+         	
+            	{"first" : "Filipe Nunes",	"last" : "Ribeiro"},
+            	{"first" : "Lucas Henrique C.",	"last" : "Lima"},
+            	{"first" : "Fabrício",	"last" : "Benevenuto"},
+            	{"first" : "Abhijnan",	"last" : "Chakraborty"},
+            	{"first" : "Juhi",	"last" : "Kulshrestha"},
+            	{"first" : "Mahmoudreza",	"last" : "Babaei"},
+            	{"first" : "Krishna P.",	"last" : "Gummadi"}
+         ],
+         "pages": "290-299",
+         "ee" : "https://aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17878",
+         
+         "isbn" : "978-1-57735-798-8",
+         
+         "bibtexKey": "conf/icwsm/RibeiroHBCKBG18"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2c97ee77e01cc18a4c8b9e567c4a657da/nosebrain",         
+         "tags" : [
+            "news","bias","statement","gatekeeping","media","coverage"
+         ],
+         
+         "intraHash" : "c97ee77e01cc18a4c8b9e567c4a657da",
+         "interHash" : "9bfee918699941ec790691a9d01bbc29",
+         "label" : "Social media news communities: gatekeeping, coverage, and statement bias.",
+         "user" : "nosebrain",
+         "description" : "",
+         "date" : "2015-04-19 15:52:25",
+         "changeDate" : "2015-04-19 15:52:25",
+         "count" : 2,
+         "pub-type": "inproceedings",
+         "booktitle": "CIKM","publisher":"ACM",
+         "year": "2013", 
+         "url": "http://dblp.uni-trier.de/db/conf/cikm/cikm2013.html#Saez-TrumperCL13", 
+         
+         "author": [ 
+            "Diego Sáez-Trumper","Carlos Castillo","Mounia Lalmas"
+         ],
+         "authors": [
+         	
+            	{"first" : "Diego",	"last" : "Sáez-Trumper"},
+            	{"first" : "Carlos",	"last" : "Castillo"},
+            	{"first" : "Mounia",	"last" : "Lalmas"}
+         ],
+         
+         "editor": [ 
+            "Qi He","Arun Iyengar","Wolfgang Nejdl","Jian Pei","Rajeev Rastogi"
+         ],
+         "editors": [
+         	
+            	{"first" : "Qi",	"last" : "He"},
+            	{"first" : "Arun",	"last" : "Iyengar"},
+            	{"first" : "Wolfgang",	"last" : "Nejdl"},
+            	{"first" : "Jian",	"last" : "Pei"},
+            	{"first" : "Rajeev",	"last" : "Rastogi"}
+         ],
+         "pages": "1679-1684",
+         "ee" : "http://doi.acm.org/10.1145/2505515.2505623",
+         
+         "isbn" : "978-1-4503-2263-8",
+         
+         "bibtexKey": "seztrumper2013social"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/24af901ef070f0fb80d3d79c2a8196d1b/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "4af901ef070f0fb80d3d79c2a8196d1b",
+         "interHash" : "4422e4c76306dce261a8f60f8dc3ef04",
+         "label" : "More Voices Than Ever? Quantifying Media Bias in Networks",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2018-08-13 00:00:00",
+         "changeDate" : "2018-08-14 12:16:52",
+         "count" : 2,
+         "pub-type": "article",
+         "journal": "CoRR",
+         "year": "2011", 
+         "url": "http://dblp.uni-trier.de/db/journals/corr/corr1111.html#abs-1111-1227", 
+         
+         "author": [ 
+            "Yu-Ru Lin","James P. Bagrow","David Lazer"
+         ],
+         "authors": [
+         	
+            	{"first" : "Yu-Ru",	"last" : "Lin"},
+            	{"first" : "James P.",	"last" : "Bagrow"},
+            	{"first" : "David",	"last" : "Lazer"}
+         ],
+         "volume": "abs/1111.1227",
+         "ee" : "http://arxiv.org/abs/1111.1227",
+         
+         "bibtexKey": "journals/corr/abs-1111-1227"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/21c4cbf5564b2259fe2383177e20b7242/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "1c4cbf5564b2259fe2383177e20b7242",
+         "interHash" : "fc523ad54ab23f6ac49228cc11e42d2f",
+         "label" : "Regional Sentiment Bias in Social Media Reporting During Crises.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-03-13 00:00:00",
+         "changeDate" : "2020-03-14 12:14:11",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "Inf. Syst. Frontiers",
+         "year": "2018", 
+         "url": "http://dblp.uni-trier.de/db/journals/isf/isf20.html#SmithMMO18", 
+         
+         "author": [ 
+            "Karin Sim Smith","Richard McCreadie","Craig MacDonald","Iadh Ounis"
+         ],
+         "authors": [
+         	
+            	{"first" : "Karin Sim",	"last" : "Smith"},
+            	{"first" : "Richard",	"last" : "McCreadie"},
+            	{"first" : "Craig",	"last" : "MacDonald"},
+            	{"first" : "Iadh",	"last" : "Ounis"}
+         ],
+         "volume": "20","number": "5","pages": "1013-1025",
+         "ee" : "https://doi.org/10.1007/s10796-018-9827-x",
+         
+         "bibtexKey": "journals/isf/SmithMMO18"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2c97ee77e01cc18a4c8b9e567c4a657da/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "c97ee77e01cc18a4c8b9e567c4a657da",
+         "interHash" : "9bfee918699941ec790691a9d01bbc29",
+         "label" : "Social media news communities: gatekeeping, coverage, and statement bias.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2018-11-06 00:00:00",
+         "changeDate" : "2018-11-07 16:49:46",
+         "count" : 2,
+         "pub-type": "inproceedings",
+         "booktitle": "CIKM","publisher":"ACM",
+         "year": "2013", 
+         "url": "http://dblp.uni-trier.de/db/conf/cikm/cikm2013.html#Saez-TrumperCL13", 
+         
+         "author": [ 
+            "Diego Sáez-Trumper","Carlos Castillo","Mounia Lalmas"
+         ],
+         "authors": [
+         	
+            	{"first" : "Diego",	"last" : "Sáez-Trumper"},
+            	{"first" : "Carlos",	"last" : "Castillo"},
+            	{"first" : "Mounia",	"last" : "Lalmas"}
+         ],
+         
+         "editor": [ 
+            "Qi He","Arun Iyengar","Wolfgang Nejdl","Jian Pei","Rajeev Rastogi"
+         ],
+         "editors": [
+         	
+            	{"first" : "Qi",	"last" : "He"},
+            	{"first" : "Arun",	"last" : "Iyengar"},
+            	{"first" : "Wolfgang",	"last" : "Nejdl"},
+            	{"first" : "Jian",	"last" : "Pei"},
+            	{"first" : "Rajeev",	"last" : "Rastogi"}
+         ],
+         "pages": "1679-1684",
+         "ee" : "https://doi.org/10.1145/2505515.2505623",
+         
+         "isbn" : "978-1-4503-2263-8",
+         
+         "bibtexKey": "conf/cikm/Saez-TrumperCL13"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2d2087b76880f52f54e5dff69000e227a/smicha",         
+         "tags" : [
+            "bias","Media"
+         ],
+         
+         "intraHash" : "d2087b76880f52f54e5dff69000e227a",
+         "interHash" : "dbfd916d70ba58b9cb84271e70b2c03a",
+         "label" : "Political polarization and the electoral effects of media bias",
+         "user" : "smicha",
+         "description" : "",
+         "date" : "2008-04-28 13:05:01",
+         "changeDate" : "2008-04-28 13:05:04",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "Journal of Public Economics",
+         "year": "2008", 
+         "url": "http://www.sciencedirect.com/science/article/B6V76-4RR1NNW-1/1/2c542396a1603592c12897b15f2aa8a7", 
+         
+         "author": [ 
+            "Dan Bernhardt","Stefan Krasa","Mattias Polborn"
+         ],
+         "authors": [
+         	
+            	{"first" : "Dan",	"last" : "Bernhardt"},
+            	{"first" : "Stefan",	"last" : "Krasa"},
+            	{"first" : "Mattias",	"last" : "Polborn"}
+         ],
+         "volume": "92","number": "5-6","pages": "1092--1104",
+         "bibtexKey": "Bernhardt2008"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2324ee413685f3edb95f80535151c76fd/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "324ee413685f3edb95f80535151c76fd",
+         "interHash" : "4422e4c76306dce261a8f60f8dc3ef04",
+         "label" : "More Voices Than Ever? Quantifying Media Bias in Networks.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2012-01-04 00:00:00",
+         "changeDate" : "2019-09-24 11:46:10",
+         "count" : 2,
+         "pub-type": "inproceedings",
+         "booktitle": "ICWSM","publisher":"The AAAI Press",
+         "year": "2011", 
+         "url": "http://dblp.uni-trier.de/db/conf/icwsm/icwsm2011.html#LinBL11", 
+         
+         "author": [ 
+            "Yu-Ru Lin","James P. Bagrow","David Lazer"
+         ],
+         "authors": [
+         	
+            	{"first" : "Yu-Ru",	"last" : "Lin"},
+            	{"first" : "James P.",	"last" : "Bagrow"},
+            	{"first" : "David",	"last" : "Lazer"}
+         ],
+         
+         "editor": [ 
+            "Lada A. Adamic","Ricardo Baeza-Yates","Scott Counts"
+         ],
+         "editors": [
+         	
+            	{"first" : "Lada A.",	"last" : "Adamic"},
+            	{"first" : "Ricardo",	"last" : "Baeza-Yates"},
+            	{"first" : "Scott",	"last" : "Counts"}
+         ],
+         
+         "ee" : "http://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/view/2851",
+         
+         "bibtexKey": "conf/icwsm/LinBL11"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2715c0ab6bafd0f2c570b5d7db167e331/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "715c0ab6bafd0f2c570b5d7db167e331",
+         "interHash" : "8d70f7548b3e5be29dadcc8a49742d92",
+         "label" : "Discovering, assessing, and mitigating data bias in social media.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-02-22 00:00:00",
+         "changeDate" : "2020-02-25 14:17:13",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "Online Soc. Networks Media",
+         "year": "2017", 
+         "url": "http://dblp.uni-trier.de/db/journals/osnm/osnm1.html#Morstatter017", 
+         
+         "author": [ 
+            "Fred Morstatter","Huan Liu"
+         ],
+         "authors": [
+         	
+            	{"first" : "Fred",	"last" : "Morstatter"},
+            	{"first" : "Huan",	"last" : "Liu"}
+         ],
+         "volume": "1","pages": "1-13",
+         "ee" : "https://doi.org/10.1016/j.osnem.2017.01.001",
+         
+         "bibtexKey": "journals/osnm/Morstatter017"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/28424455155ecbfd2f614b04e6c07728a/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "8424455155ecbfd2f614b04e6c07728a",
+         "interHash" : "4af4243dc8700596a4f63d42f2349f35",
+         "label" : "Calibrating User Bias In Sentiment Estimation From Social Media.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2019-01-27 00:00:00",
+         "changeDate" : "2020-03-20 11:49:51",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "BigData","publisher":"IEEE",
+         "year": "2018", 
+         "url": "http://dblp.uni-trier.de/db/conf/bigdataconf/bigdataconf2018.html#KangaslahtiK18", 
+         
+         "author": [ 
+            "Sara Kangaslahti","Anoop Kumar"
+         ],
+         "authors": [
+         	
+            	{"first" : "Sara",	"last" : "Kangaslahti"},
+            	{"first" : "Anoop",	"last" : "Kumar"}
+         ],
+         
+         "editor": [ 
+            "Naoki Abe","Huan Liu","Calton Pu","Xiaohua Hu","Nesreen K. Ahmed","Mu Qiao","Yang Song","Donald Kossmann","Bing Liu","Kisung Lee","Jiliang Tang","Jingrui He","Jeffrey S. Saltz"
+         ],
+         "editors": [
+         	
+            	{"first" : "Naoki",	"last" : "Abe"},
+            	{"first" : "Huan",	"last" : "Liu"},
+            	{"first" : "Calton",	"last" : "Pu"},
+            	{"first" : "Xiaohua",	"last" : "Hu"},
+            	{"first" : "Nesreen K.",	"last" : "Ahmed"},
+            	{"first" : "Mu",	"last" : "Qiao"},
+            	{"first" : "Yang",	"last" : "Song"},
+            	{"first" : "Donald",	"last" : "Kossmann"},
+            	{"first" : "Bing",	"last" : "Liu"},
+            	{"first" : "Kisung",	"last" : "Lee"},
+            	{"first" : "Jiliang",	"last" : "Tang"},
+            	{"first" : "Jingrui",	"last" : "He"},
+            	{"first" : "Jeffrey S.",	"last" : "Saltz"}
+         ],
+         "pages": "3682-3690",
+         "ee" : "https://doi.org/10.1109/BigData.2018.8622367",
+         
+         "isbn" : "978-1-5386-5035-6",
+         
+         "bibtexKey": "conf/bigdataconf/KangaslahtiK18"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/20953420ae5ea86ee57dbb39311026d80/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "0953420ae5ea86ee57dbb39311026d80",
+         "interHash" : "bf5f46ca9044f3a81f1938841bcf7523",
+         "label" : "One Bias Fits All? Three Types of Media Bias and Their Effects on Party Preferences.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-10-26 00:00:00",
+         "changeDate" : "2020-10-27 12:54:27",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "Commun. Res.",
+         "year": "2017", 
+         "url": "http://dblp.uni-trier.de/db/journals/commres/commres44.html#EberlBW17", 
+         
+         "author": [ 
+            "Jakob-Moritz Eberl","Hajo G. Boomgaarden","Markus Wagner"
+         ],
+         "authors": [
+         	
+            	{"first" : "Jakob-Moritz",	"last" : "Eberl"},
+            	{"first" : "Hajo G.",	"last" : "Boomgaarden"},
+            	{"first" : "Markus",	"last" : "Wagner"}
+         ],
+         "volume": "44","number": "8","pages": "1125-1148",
+         "ee" : "https://www.wikidata.org/entity/Q56051153",
+         
+         "bibtexKey": "journals/commres/EberlBW17"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2bb40853852659634dc3ab1efca5830bc/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "bb40853852659634dc3ab1efca5830bc",
+         "interHash" : "3bd7977af9f094527a7ed0c0f46d2d34",
+         "label" : "Automatic Analysis of Television News: Media, People, Framing and Bias.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2018-08-13 00:00:00",
+         "changeDate" : "2018-08-14 12:41:34",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "CoRR",
+         "year": "2013", 
+         "url": "http://dblp.uni-trier.de/db/journals/corr/corr1307.html#CastilloMMK13", 
+         
+         "author": [ 
+            "Carlos Castillo","Gianmarco De Francisci Morales","Marcelo Mendoza","Nasir Khan"
+         ],
+         "authors": [
+         	
+            	{"first" : "Carlos",	"last" : "Castillo"},
+            	{"first" : "Gianmarco De Francisci",	"last" : "Morales"},
+            	{"first" : "Marcelo",	"last" : "Mendoza"},
+            	{"first" : "Nasir",	"last" : "Khan"}
+         ],
+         "volume": "abs/1307.4879",
+         "ee" : "http://arxiv.org/abs/1307.4879",
+         
+         "bibtexKey": "journals/corr/CastilloMMK13"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2bec9fe7d2eddb160011a0f69249061ad/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "bec9fe7d2eddb160011a0f69249061ad",
+         "interHash" : "205f3a6ed2c7270433a2dab272d2983d",
+         "label" : "Predicting Factuality of Reporting and Bias of News Media Sources.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2018-10-30 00:00:00",
+         "changeDate" : "2018-10-31 11:37:47",
+         "count" : 2,
+         "pub-type": "article",
+         "journal": "CoRR",
+         "year": "2018", 
+         "url": "http://dblp.uni-trier.de/db/journals/corr/corr1810.html#abs-1810-01765", 
+         
+         "author": [ 
+            "Ramy Baly","Georgi Karadzhov","Dimitar Alexandrov","James R. Glass","Preslav Nakov"
+         ],
+         "authors": [
+         	
+            	{"first" : "Ramy",	"last" : "Baly"},
+            	{"first" : "Georgi",	"last" : "Karadzhov"},
+            	{"first" : "Dimitar",	"last" : "Alexandrov"},
+            	{"first" : "James R.",	"last" : "Glass"},
+            	{"first" : "Preslav",	"last" : "Nakov"}
+         ],
+         "volume": "abs/1810.01765",
+         "ee" : "http://arxiv.org/abs/1810.01765",
+         
+         "bibtexKey": "journals/corr/abs-1810-01765"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2cfe50c1d0526787d209472702b7e56d7/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "cfe50c1d0526787d209472702b7e56d7",
+         "interHash" : "34437e28374879d0b81b19bbe3917915",
+         "label" : "NewsCube: delivering multiple aspects of news to mitigate media bias.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2018-11-06 00:00:00",
+         "changeDate" : "2018-11-07 17:00:40",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "CHI","publisher":"ACM",
+         "year": "2009", 
+         "url": "http://dblp.uni-trier.de/db/conf/chi/chi2009.html#ParkKCS09", 
+         
+         "author": [ 
+            "Souneil Park","Seungwoo Kang","Sangyoung Chung","Junehwa Song"
+         ],
+         "authors": [
+         	
+            	{"first" : "Souneil",	"last" : "Park"},
+            	{"first" : "Seungwoo",	"last" : "Kang"},
+            	{"first" : "Sangyoung",	"last" : "Chung"},
+            	{"first" : "Junehwa",	"last" : "Song"}
+         ],
+         
+         "editor": [ 
+            "Dan R. Olsen Jr.","Richard B. Arthur","Ken Hinckley","Meredith Ringel Morris","Scott E. Hudson","Saul Greenberg"
+         ],
+         "editors": [
+         	
+            	{"first" : "Dan R. Olsen",	"last" : "Jr."},
+            	{"first" : "Richard B.",	"last" : "Arthur"},
+            	{"first" : "Ken",	"last" : "Hinckley"},
+            	{"first" : "Meredith Ringel",	"last" : "Morris"},
+            	{"first" : "Scott E.",	"last" : "Hudson"},
+            	{"first" : "Saul",	"last" : "Greenberg"}
+         ],
+         "pages": "443-452",
+         "ee" : "https://doi.org/10.1145/1518701.1518772",
+         
+         "isbn" : "978-1-60558-246-7",
+         
+         "bibtexKey": "conf/chi/ParkKCS09"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/235de41e4e727ef3a3b760c2d261f5ea7/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "35de41e4e727ef3a3b760c2d261f5ea7",
+         "interHash" : "c1bfb54ac808befc11604e18e2dbe7e9",
+         "label" : "Racial Bias in Social Media Customer Service: Evidence from Twitter.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2018-12-03 00:00:00",
+         "changeDate" : "2019-01-23 11:37:58",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "ICIS","publisher":"Association for Information Systems",
+         "year": "2018", 
+         "url": "http://dblp.uni-trier.de/db/conf/icis/icis2018.html#GunarathneRS18", 
+         
+         "author": [ 
+            "Priyanga Gunarathne","Huaxia Rui","Abraham Seidmann"
+         ],
+         "authors": [
+         	
+            	{"first" : "Priyanga",	"last" : "Gunarathne"},
+            	{"first" : "Huaxia",	"last" : "Rui"},
+            	{"first" : "Abraham",	"last" : "Seidmann"}
+         ],
+         
+         "editor": [ 
+            "Jan Pries-Heje","Sudha Ram","Michael Rosemann"
+         ],
+         "editors": [
+         	
+            	{"first" : "Jan",	"last" : "Pries-Heje"},
+            	{"first" : "Sudha",	"last" : "Ram"},
+            	{"first" : "Michael",	"last" : "Rosemann"}
+         ],
+         
+         "ee" : "https://aisel.aisnet.org/icis2018/social/Presentations/14",
+         
+         "bibtexKey": "conf/icis/GunarathneRS18"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/258cacae0943cbcbc15c8d7667509f12b/jpooley",         
+         "tags" : [
+            "intellectual","institutional","internalist","united-kingdom","glasgow-media-group","journalism","externalist","glasgow","1980s"
+         ],
+         
+         "intraHash" : "58cacae0943cbcbc15c8d7667509f12b",
+         "interHash" : "11bade00eb1197af855c490158516390",
+         "label" : "Research Evidence and Media Bias: Reflections on a 1980s Dispute",
+         "user" : "jpooley",
+         "description" : "",
+         "date" : "2019-08-29 01:56:31",
+         "changeDate" : "2019-08-29 01:56:31",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "Media, Culture and Society",
+         "year": "2006", 
+         "url": "", 
+         
+         "author": [ 
+            "Adrian Quinn"
+         ],
+         "authors": [
+         	
+            	{"first" : "Adrian",	"last" : "Quinn"}
+         ],
+         "volume": "28","number": "3","pages": "457--465","abstract": "In the first of two essays examining the history of the Glasgow University Media Group, Adrian Quinn looks at the group's relationship with Independent Television News.",
+         "bibtexKey": "quinn_research_2006"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/24a8b4567ce1d9d94136087a87eba49ab/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "4a8b4567ce1d9d94136087a87eba49ab",
+         "interHash" : "398133b42e5446c030294d1ac4b8ee89",
+         "label" : "Understanding Demographic Bias and Representation in Social Media Health Data.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2019-08-08 00:00:00",
+         "changeDate" : "2019-08-09 11:47:39",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "WebSci (Companion)","publisher":"ACM",
+         "year": "2019", 
+         "url": "http://dblp.uni-trier.de/db/conf/websci/websci2019c.html#CesareGN19", 
+         
+         "author": [ 
+            "Nina Cesare","Christan Grant","Elaine O. Nsoesie"
+         ],
+         "authors": [
+         	
+            	{"first" : "Nina",	"last" : "Cesare"},
+            	{"first" : "Christan",	"last" : "Grant"},
+            	{"first" : "Elaine O.",	"last" : "Nsoesie"}
+         ],
+         
+         "editor": [ 
+            "Paolo Boldi","Brooke Foucault Welles","Katharina Kinder-Kurlanda","Christo Wilson","Isabella Peters","Wagner Meira Jr."
+         ],
+         "editors": [
+         	
+            	{"first" : "Paolo",	"last" : "Boldi"},
+            	{"first" : "Brooke Foucault",	"last" : "Welles"},
+            	{"first" : "Katharina",	"last" : "Kinder-Kurlanda"},
+            	{"first" : "Christo",	"last" : "Wilson"},
+            	{"first" : "Isabella",	"last" : "Peters"},
+            	{"first" : "Wagner Meira",	"last" : "Jr."}
+         ],
+         "pages": "7-9",
+         "ee" : "https://doi.org/10.1145/3328413.3328415",
+         
+         "isbn" : "978-1-4503-6174-3",
+         
+         "bibtexKey": "conf/websci/CesareGN19"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/29d2e8951a7903435af7991cc8a3a0ba9/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "9d2e8951a7903435af7991cc8a3a0ba9",
+         "interHash" : "205f3a6ed2c7270433a2dab272d2983d",
+         "label" : "Predicting Factuality of Reporting and Bias of News Media Sources.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-01-28 00:00:00",
+         "changeDate" : "2020-01-29 11:46:04",
+         "count" : 2,
+         "pub-type": "inproceedings",
+         "booktitle": "EMNLP","publisher":"Association for Computational Linguistics",
+         "year": "2018", 
+         "url": "http://dblp.uni-trier.de/db/conf/emnlp/emnlp2018.html#BalyKAGN18", 
+         
+         "author": [ 
+            "Ramy Baly","Georgi Karadzhov","Dimitar Alexandrov","James R. Glass","Preslav Nakov"
+         ],
+         "authors": [
+         	
+            	{"first" : "Ramy",	"last" : "Baly"},
+            	{"first" : "Georgi",	"last" : "Karadzhov"},
+            	{"first" : "Dimitar",	"last" : "Alexandrov"},
+            	{"first" : "James R.",	"last" : "Glass"},
+            	{"first" : "Preslav",	"last" : "Nakov"}
+         ],
+         
+         "editor": [ 
+            "Ellen Riloff","David Chiang","Julia Hockenmaier","Jun'ichi Tsujii"
+         ],
+         "editors": [
+         	
+            	{"first" : "Ellen",	"last" : "Riloff"},
+            	{"first" : "David",	"last" : "Chiang"},
+            	{"first" : "Julia",	"last" : "Hockenmaier"},
+            	{"first" : "Jun'ichi",	"last" : "Tsujii"}
+         ],
+         "pages": "3528-3539",
+         "ee" : "https://www.aclweb.org/anthology/D18-1389/",
+         
+         "isbn" : "978-1-948087-84-1",
+         
+         "bibtexKey": "conf/emnlp/BalyKAGN18"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/21efda0341cfd5d49276d90b5943f6e9c/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "1efda0341cfd5d49276d90b5943f6e9c",
+         "interHash" : "e4102ea167b6def4fb51399a747898c7",
+         "label" : "Approximate Bias Compensation for Rendering Scenes with Heterogeneous Participating Media.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2013-07-17 00:00:00",
+         "changeDate" : "2013-08-13 14:06:33",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "Comput. Graph. Forum",
+         "year": "2012", 
+         "url": "http://dblp.uni-trier.de/db/journals/cgf/cgf31.html#EngelhardtNSD12", 
+         
+         "author": [ 
+            "Thomas Engelhardt","Jan Novák","Thorsten-Walther Schmidt","Carsten Dachsbacher"
+         ],
+         "authors": [
+         	
+            	{"first" : "Thomas",	"last" : "Engelhardt"},
+            	{"first" : "Jan",	"last" : "Novák"},
+            	{"first" : "Thorsten-Walther",	"last" : "Schmidt"},
+            	{"first" : "Carsten",	"last" : "Dachsbacher"}
+         ],
+         "volume": "31","number": "7-2","pages": "2145-2154",
+         "ee" : "http://dx.doi.org/10.1111/j.1467-8659.2012.03207.x",
+         
+         "bibtexKey": "journals/cgf/EngelhardtNSD12"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/271a3a7902694145d8bec0903b72720b2/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "71a3a7902694145d8bec0903b72720b2",
+         "interHash" : "04e41f41aaf8b13cfeb14660248a1eeb",
+         "label" : "The Nature of Real and Perceived Bias in Chilean Media.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2018-11-06 00:00:00",
+         "changeDate" : "2019-06-04 12:59:49",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "HT","publisher":"ACM",
+         "year": "2017", 
+         "url": "http://dblp.uni-trier.de/db/conf/ht/ht2017.html#ElejaldeFH17", 
+         
+         "author": [ 
+            "Erick Elejalde","Leo Ferres","Eelco Herder"
+         ],
+         "authors": [
+         	
+            	{"first" : "Erick",	"last" : "Elejalde"},
+            	{"first" : "Leo",	"last" : "Ferres"},
+            	{"first" : "Eelco",	"last" : "Herder"}
+         ],
+         
+         "editor": [ 
+            "Peter Dolog","Peter Vojtás","Francesco Bonchi","Denis Helic"
+         ],
+         "editors": [
+         	
+            	{"first" : "Peter",	"last" : "Dolog"},
+            	{"first" : "Peter",	"last" : "Vojtás"},
+            	{"first" : "Francesco",	"last" : "Bonchi"},
+            	{"first" : "Denis",	"last" : "Helic"}
+         ],
+         "pages": "95-104",
+         "ee" : "https://doi.org/10.1145/3078714.3078724",
+         
+         "isbn" : "978-1-4503-4708-2",
+         
+         "bibtexKey": "conf/ht/ElejaldeFH17"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/26e4051a38829bbf1b9092cfcfd4898c0/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "6e4051a38829bbf1b9092cfcfd4898c0",
+         "interHash" : "ccf0a88c5ea48a09e8e22f36f1919bf6",
+         "label" : "Exploring Media Bias and Toxicity in South Asian Political Discourse.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2019-08-29 00:00:00",
+         "changeDate" : "2019-08-30 11:38:40",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "CoRR",
+         "year": "2018", 
+         "url": "http://dblp.uni-trier.de/db/journals/corr/corr1811.html#abs-1811-06693", 
+         
+         "author": [ 
+            "Adnan Qayyum","Zafar Gilani","Siddique Latif","Junaid Qadir","Jat Singh"
+         ],
+         "authors": [
+         	
+            	{"first" : "Adnan",	"last" : "Qayyum"},
+            	{"first" : "Zafar",	"last" : "Gilani"},
+            	{"first" : "Siddique",	"last" : "Latif"},
+            	{"first" : "Junaid",	"last" : "Qadir"},
+            	{"first" : "Jat",	"last" : "Singh"}
+         ],
+         "volume": "abs/1811.06693",
+         "ee" : "http://arxiv.org/abs/1811.06693",
+         
+         "bibtexKey": "journals/corr/abs-1811-06693"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/218cb03b1e4dd70e69a50cb9a03e7fcbc/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "18cb03b1e4dd70e69a50cb9a03e7fcbc",
+         "interHash" : "bc1db2030846be158553908b535268ca",
+         "label" : "In Plain Sight: Media Bias Through the Lens of Factual Reporting.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2019-12-12 00:00:00",
+         "changeDate" : "2019-12-13 11:40:26",
+         "count" : 2,
+         "pub-type": "inproceedings",
+         "booktitle": "EMNLP/IJCNLP (1)","publisher":"Association for Computational Linguistics",
+         "year": "2019", 
+         "url": "http://dblp.uni-trier.de/db/conf/emnlp/emnlp2019-1.html#FanWSSCHW19", 
+         
+         "author": [ 
+            "Lisa Fan","Marshall White","Eva Sharma","Ruisi Su","Prafulla Kumar Choubey","Ruihong Huang","Lu Wang"
+         ],
+         "authors": [
+         	
+            	{"first" : "Lisa",	"last" : "Fan"},
+            	{"first" : "Marshall",	"last" : "White"},
+            	{"first" : "Eva",	"last" : "Sharma"},
+            	{"first" : "Ruisi",	"last" : "Su"},
+            	{"first" : "Prafulla Kumar",	"last" : "Choubey"},
+            	{"first" : "Ruihong",	"last" : "Huang"},
+            	{"first" : "Lu",	"last" : "Wang"}
+         ],
+         
+         "editor": [ 
+            "Kentaro Inui","Jing Jiang","Vincent Ng","Xiaojun Wan"
+         ],
+         "editors": [
+         	
+            	{"first" : "Kentaro",	"last" : "Inui"},
+            	{"first" : "Jing",	"last" : "Jiang"},
+            	{"first" : "Vincent",	"last" : "Ng"},
+            	{"first" : "Xiaojun",	"last" : "Wan"}
+         ],
+         "pages": "6342-6348",
+         "ee" : "https://doi.org/10.18653/v1/D19-1664",
+         
+         "isbn" : "978-1-950737-90-1",
+         
+         "bibtexKey": "conf/emnlp/FanWSSCHW19"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/250713c98c52837a27ed700f9a001d7ce/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "50713c98c52837a27ed700f9a001d7ce",
+         "interHash" : "9da0f0d3c3c5fffc35363741bd6e119f",
+         "label" : "Exploiting Class Bias for Discovery of Topical Experts in Social Media.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2017-05-26 00:00:00",
+         "changeDate" : "2019-10-17 12:58:39",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "ICDM Workshops","publisher":"IEEE Computer Society",
+         "year": "2015", 
+         "url": "http://dblp.uni-trier.de/db/conf/icdm/icdm2015w.html#ChepurnaM15", 
+         
+         "author": [ 
+            "Iuliia Chepurna","Masoud Makrehchi"
+         ],
+         "authors": [
+         	
+            	{"first" : "Iuliia",	"last" : "Chepurna"},
+            	{"first" : "Masoud",	"last" : "Makrehchi"}
+         ],
+         "pages": "64-71",
+         "ee" : "http://doi.ieeecomputersociety.org/10.1109/ICDMW.2015.198",
+         
+         "isbn" : "978-1-4673-8493-3",
+         
+         "bibtexKey": "conf/icdm/ChepurnaM15"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2185571f92742c3cf0f453983aed55648/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "185571f92742c3cf0f453983aed55648",
+         "interHash" : "74869311a212f66a0199d242abe569e7",
+         "label" : "A Link-based Approach to Detect Media Bias in News Websites.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2019-05-16 00:00:00",
+         "changeDate" : "2019-09-24 11:43:48",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "WWW (Companion Volume)","publisher":"ACM",
+         "year": "2019", 
+         "url": "http://dblp.uni-trier.de/db/conf/www/www2019c.html#AiresNN19", 
+         
+         "author": [ 
+            "Victória Patrícia Aires","Fabíola G. Nakamura","Eduardo Freire Nakamura"
+         ],
+         "authors": [
+         	
+            	{"first" : "Victória Patrícia",	"last" : "Aires"},
+            	{"first" : "Fabíola G.",	"last" : "Nakamura"},
+            	{"first" : "Eduardo Freire",	"last" : "Nakamura"}
+         ],
+         
+         "editor": [ 
+            "Sihem Amer-Yahia","Mohammad Mahdian","Ashish Goel","Geert-Jan Houben","Kristina Lerman","Julian J. McAuley","Ricardo Baeza-Yates","Leila Zia"
+         ],
+         "editors": [
+         	
+            	{"first" : "Sihem",	"last" : "Amer-Yahia"},
+            	{"first" : "Mohammad",	"last" : "Mahdian"},
+            	{"first" : "Ashish",	"last" : "Goel"},
+            	{"first" : "Geert-Jan",	"last" : "Houben"},
+            	{"first" : "Kristina",	"last" : "Lerman"},
+            	{"first" : "Julian J.",	"last" : "McAuley"},
+            	{"first" : "Ricardo",	"last" : "Baeza-Yates"},
+            	{"first" : "Leila",	"last" : "Zia"}
+         ],
+         "pages": "742-745",
+         "ee" : "https://doi.org/10.1145/3308560.3316460",
+         
+         "isbn" : "978-1-4503-6675-5",
+         
+         "bibtexKey": "conf/www/AiresNN19"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2861d3e48a2eaca47cf124720de3c17ff/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "861d3e48a2eaca47cf124720de3c17ff",
+         "interHash" : "bfed9477fffbc02e82bdea5cdd1ba47b",
+         "label" : "An Integrated Approach to Detect Media Bias in German News Articles.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-08-03 00:00:00",
+         "changeDate" : "2020-08-11 11:43:14",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "JCDL","publisher":"ACM",
+         "year": "2020", 
+         "url": "http://dblp.uni-trier.de/db/conf/jcdl/jcdl2020.html#SpindeHG20", 
+         
+         "author": [ 
+            "Timo Spinde","Felix Hamborg","Bela Gipp"
+         ],
+         "authors": [
+         	
+            	{"first" : "Timo",	"last" : "Spinde"},
+            	{"first" : "Felix",	"last" : "Hamborg"},
+            	{"first" : "Bela",	"last" : "Gipp"}
+         ],
+         
+         "editor": [ 
+            "Ruhua Huang","Dan Wu","Gary Marchionini","Daqing He","Sally Jo Cunningham","Preben Hansen"
+         ],
+         "editors": [
+         	
+            	{"first" : "Ruhua",	"last" : "Huang"},
+            	{"first" : "Dan",	"last" : "Wu"},
+            	{"first" : "Gary",	"last" : "Marchionini"},
+            	{"first" : "Daqing",	"last" : "He"},
+            	{"first" : "Sally Jo",	"last" : "Cunningham"},
+            	{"first" : "Preben",	"last" : "Hansen"}
+         ],
+         "pages": "505-506",
+         "ee" : "https://doi.org/10.1145/3383583.3398585",
+         
+         "isbn" : "978-1-4503-7585-6",
+         
+         "bibtexKey": "conf/jcdl/SpindeHG20"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/24ecd1cdd714bc23c7fcc432a04d6189b/alediehl",         
+         "tags" : [
+            "vgiscience"
+         ],
+         
+         "intraHash" : "4ecd1cdd714bc23c7fcc432a04d6189b",
+         "interHash" : "e20e03ccef665bea2b81776ce3a69fba",
+         "label" : "Bias- and Uncertainty-based Visual Analysis of Bubbles in Social Media",
+         "user" : "alediehl",
+         "description" : "",
+         "date" : "2019-03-14 12:09:32",
+         "changeDate" : "2019-03-14 12:12:07",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "Journal of Computer Languages, Elsevier (under review)",
+         "year": "2019", 
+         "url": "", 
+         
+         "author": [ 
+            "Alexandra Diehl","Nida Cilasun","Daniel Seebacher","Siming Chen","Daniel Keim","Tobias Schreck"
+         ],
+         "authors": [
+         	
+            	{"first" : "Alexandra",	"last" : "Diehl"},
+            	{"first" : "Nida",	"last" : "Cilasun"},
+            	{"first" : "Daniel",	"last" : "Seebacher"},
+            	{"first" : "Siming",	"last" : "Chen"},
+            	{"first" : "Daniel",	"last" : "Keim"},
+            	{"first" : "Tobias",	"last" : "Schreck"}
+         ],
+         
+         "bibtexKey": "diehl2019"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/276e73ce43eb3b5c323925ffca10fd00f/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "76e73ce43eb3b5c323925ffca10fd00f",
+         "interHash" : "bc1db2030846be158553908b535268ca",
+         "label" : "In Plain Sight: Media Bias Through the Lens of Factual Reporting.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2019-09-17 00:00:00",
+         "changeDate" : "2019-09-18 11:38:33",
+         "count" : 2,
+         "pub-type": "article",
+         "journal": "CoRR",
+         "year": "2019", 
+         "url": "http://dblp.uni-trier.de/db/journals/corr/corr1909.html#abs-1909-02670", 
+         
+         "author": [ 
+            "Lisa Fan","Marshall White","Eva Sharma","Ruisi Su","Prafulla Kumar Choubey","Ruihong Huang","Lu Wang"
+         ],
+         "authors": [
+         	
+            	{"first" : "Lisa",	"last" : "Fan"},
+            	{"first" : "Marshall",	"last" : "White"},
+            	{"first" : "Eva",	"last" : "Sharma"},
+            	{"first" : "Ruisi",	"last" : "Su"},
+            	{"first" : "Prafulla Kumar",	"last" : "Choubey"},
+            	{"first" : "Ruihong",	"last" : "Huang"},
+            	{"first" : "Lu",	"last" : "Wang"}
+         ],
+         "volume": "abs/1909.02670",
+         "ee" : "http://arxiv.org/abs/1909.02670",
+         
+         "bibtexKey": "journals/corr/abs-1909-02670"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/27200f7db1addcfe6360e9b05c6698b7b/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "7200f7db1addcfe6360e9b05c6698b7b",
+         "interHash" : "507aaf3bd6e40174afefb4d500bb2557",
+         "label" : "Media Bias, the Social Sciences, and NLP: Automating Frame Analyses to Identify Bias by Word Choice and Labeling.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-06-25 00:00:00",
+         "changeDate" : "2020-06-26 11:40:02",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "ACL (student)","publisher":"Association for Computational Linguistics",
+         "year": "2020", 
+         "url": "http://dblp.uni-trier.de/db/conf/acl/acl2020-s.html#Hamborg20", 
+         
+         "author": [ 
+            "Felix Hamborg"
+         ],
+         "authors": [
+         	
+            	{"first" : "Felix",	"last" : "Hamborg"}
+         ],
+         
+         "editor": [ 
+            "Shruti Rijhwani","Jiangming Liu","Yizhong Wang","Rotem Dror"
+         ],
+         "editors": [
+         	
+            	{"first" : "Shruti",	"last" : "Rijhwani"},
+            	{"first" : "Jiangming",	"last" : "Liu"},
+            	{"first" : "Yizhong",	"last" : "Wang"},
+            	{"first" : "Rotem",	"last" : "Dror"}
+         ],
+         "pages": "79-87",
+         "ee" : "https://www.aclweb.org/anthology/2020.acl-srw.12/",
+         
+         "isbn" : "978-1-952148-03-3",
+         
+         "bibtexKey": "conf/acl/Hamborg20"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2f9db9980fc5e92b37bf8fc7ac6e79f3e/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "f9db9980fc5e92b37bf8fc7ac6e79f3e",
+         "interHash" : "58355335bf06abe22f9aad9371c4314b",
+         "label" : "Be Careful What You Read - Evidence of Demand-driven Media Bias.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-04-09 00:00:00",
+         "changeDate" : "2020-04-10 11:56:58",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "AMCIS","publisher":"Association for Information Systems",
+         "year": "2018", 
+         "url": "http://dblp.uni-trier.de/db/conf/amcis/amcis2018.html#DongRN18", 
+         
+         "author": [ 
+            "Hang Dong","Jie Ren","Jeffrey Nickerson"
+         ],
+         "authors": [
+         	
+            	{"first" : "Hang",	"last" : "Dong"},
+            	{"first" : "Jie",	"last" : "Ren"},
+            	{"first" : "Jeffrey",	"last" : "Nickerson"}
+         ],
+         
+         "ee" : "https://aisel.aisnet.org/amcis2018/SocialComputing/Presentations/2",
+         
+         "isbn" : "978-0-9966831-6-6",
+         
+         "bibtexKey": "conf/amcis/DongRN18"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2418df4b2a7acd27f046e74d7b184e965/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "418df4b2a7acd27f046e74d7b184e965",
+         "interHash" : "90ff499dcb5ed2b6b3b4477e9631a1aa",
+         "label" : "Uncovering Gender Bias in Media Coverage of Politicians with Machine Learning.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-05-22 00:00:00",
+         "changeDate" : "2020-05-23 12:25:17",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "CoRR",
+         "year": "2020", 
+         "url": "http://dblp.uni-trier.de/db/journals/corr/corr2005.html#abs-2005-07734", 
+         
+         "author": [ 
+            "Susan Leavy"
+         ],
+         "authors": [
+         	
+            	{"first" : "Susan",	"last" : "Leavy"}
+         ],
+         "volume": "abs/2005.07734",
+         "ee" : "https://arxiv.org/abs/2005.07734",
+         
+         "bibtexKey": "journals/corr/abs-2005-07734"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/27aa470dfbd3c9732095efaa6db64db0a/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "7aa470dfbd3c9732095efaa6db64db0a",
+         "interHash" : "12d51c768aaffcaf6d853332bc0dc441",
+         "label" : "News articles similarity for automatic media bias detection in Polish news portals.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2019-05-10 00:00:00",
+         "changeDate" : "2019-10-10 11:39:46",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "FedCSIS","series": "Annals of Computer Science and Information Systems",
+         "year": "2018", 
+         "url": "http://dblp.uni-trier.de/db/conf/fedcsis/fedcsis2018.html#BaraniakS18", 
+         
+         "author": [ 
+            "Katarzyna Baraniak","Marcin Sydow"
+         ],
+         "authors": [
+         	
+            	{"first" : "Katarzyna",	"last" : "Baraniak"},
+            	{"first" : "Marcin",	"last" : "Sydow"}
+         ],
+         
+         "editor": [ 
+            "Maria Ganzha","Leszek A. Maciaszek","Marcin Paprzycki"
+         ],
+         "editors": [
+         	
+            	{"first" : "Maria",	"last" : "Ganzha"},
+            	{"first" : "Leszek A.",	"last" : "Maciaszek"},
+            	{"first" : "Marcin",	"last" : "Paprzycki"}
+         ],
+         "volume": "15","pages": "21-24",
+         "ee" : "https://doi.org/10.15439/2018F359",
+         
+         "isbn" : "978-83-949419-7-0",
+         
+         "bibtexKey": "conf/fedcsis/BaraniakS18"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2d464b4cbc9b4ec54b9d828762ba0f3de/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "d464b4cbc9b4ec54b9d828762ba0f3de",
+         "interHash" : "1371012929cab179efffe19bd93f4a23",
+         "label" : "Addressing Selection Bias in Event Studies with General-Purpose Social Media Panels.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-10-26 00:00:00",
+         "changeDate" : "2020-10-27 11:48:38",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "ACM J. Data Inf. Qual.",
+         "year": "2018", 
+         "url": "http://dblp.uni-trier.de/db/journals/jdiq/jdiq10.html#ZhangHR18", 
+         
+         "author": [ 
+            "Han Zhang","Shawndra Hill","David Rothschild"
+         ],
+         "authors": [
+         	
+            	{"first" : "Han",	"last" : "Zhang"},
+            	{"first" : "Shawndra",	"last" : "Hill"},
+            	{"first" : "David",	"last" : "Rothschild"}
+         ],
+         "volume": "10","number": "1","pages": "4:1-4:24",
+         "ee" : "https://doi.org/10.1145/3185048",
+         
+         "bibtexKey": "journals/jdiq/ZhangHR18"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/249dec52aba7e9b0543094a3724a36a99/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "49dec52aba7e9b0543094a3724a36a99",
+         "interHash" : "bebf998f818e5fc65686e1b5f287a14a",
+         "label" : "Empirical Evaluation of Three Common Assumptions in Building Political Media Bias Datasets.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-06-10 00:00:00",
+         "changeDate" : "2020-06-11 11:40:22",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "ICWSM","publisher":"AAAI Press",
+         "year": "2020", 
+         "url": "http://dblp.uni-trier.de/db/conf/icwsm/icwsm2020.html#GangulyKAK20", 
+         
+         "author": [ 
+            "Soumen Ganguly","Juhi Kulshrestha","Jisun An","Haewoon Kwak"
+         ],
+         "authors": [
+         	
+            	{"first" : "Soumen",	"last" : "Ganguly"},
+            	{"first" : "Juhi",	"last" : "Kulshrestha"},
+            	{"first" : "Jisun",	"last" : "An"},
+            	{"first" : "Haewoon",	"last" : "Kwak"}
+         ],
+         
+         "editor": [ 
+            "Munmun De Choudhury","Rumi Chunara","Aron Culotta","Brooke Foucault Welles"
+         ],
+         "editors": [
+         	
+            	{"first" : "Munmun De",	"last" : "Choudhury"},
+            	{"first" : "Rumi",	"last" : "Chunara"},
+            	{"first" : "Aron",	"last" : "Culotta"},
+            	{"first" : "Brooke Foucault",	"last" : "Welles"}
+         ],
+         "pages": "939-943",
+         "ee" : "https://aaai.org/ojs/index.php/ICWSM/article/view/7362",
+         
+         "isbn" : "978-1-57735-823-7",
+         
+         "bibtexKey": "conf/icwsm/GangulyKAK20"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/21b3d6b728d8102131e12d31da2a1d893/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "1b3d6b728d8102131e12d31da2a1d893",
+         "interHash" : "4f3fdf80f8da89fa94e4085ccfd530fb",
+         "label" : "A Computational Analysis of News Media Bias: A South African Case Study.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-09-24 00:00:00",
+         "changeDate" : "2020-09-25 12:02:47",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "SAICSIT","publisher":"ACM",
+         "year": "2019", 
+         "url": "http://dblp.uni-trier.de/db/conf/saicsit/saicsit2019.html#CornelissenDSLB19", 
+         
+         "author": [ 
+            "Laurenz A. Cornelissen","Lucia I. Daly","Qhama Sinandile","Heinrich de Lange","Richard J. Barnett"
+         ],
+         "authors": [
+         	
+            	{"first" : "Laurenz A.",	"last" : "Cornelissen"},
+            	{"first" : "Lucia I.",	"last" : "Daly"},
+            	{"first" : "Qhama",	"last" : "Sinandile"},
+            	{"first" : "Heinrich",	"last" : "de Lange"},
+            	{"first" : "Richard J.",	"last" : "Barnett"}
+         ],
+         
+         "editor": [ 
+            "Carina de Villiers","Hanlie Smuts"
+         ],
+         "editors": [
+         	
+            	{"first" : "Carina",	"last" : "de Villiers"},
+            	{"first" : "Hanlie",	"last" : "Smuts"}
+         ],
+         "pages": "25:1-25:10",
+         "ee" : "https://doi.org/10.1145/3351108.3351134",
+         
+         "isbn" : "978-1-4503-7265-7",
+         
+         "bibtexKey": "conf/saicsit/CornelissenDSLB19"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/23d2df66ba66d71cb8e072f8e5778cd5f/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "3d2df66ba66d71cb8e072f8e5778cd5f",
+         "interHash" : "2aa7febaf8802c06c06b3df07c8e4dbc",
+         "label" : "Improving social media measurement in surveys: Avoiding acquiescence bias in Facebook research.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-02-18 00:00:00",
+         "changeDate" : "2020-02-19 11:54:21",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "Comput. Hum. Behav.",
+         "year": "2016", 
+         "url": "http://dblp.uni-trier.de/db/journals/chb/chb57.html#KuruP16", 
+         
+         "author": [ 
+            "Ozan Kuru","Josh Pasek"
+         ],
+         "authors": [
+         	
+            	{"first" : "Ozan",	"last" : "Kuru"},
+            	{"first" : "Josh",	"last" : "Pasek"}
+         ],
+         "volume": "57","pages": "82-92",
+         "ee" : "https://www.wikidata.org/entity/Q57516386",
+         
+         "bibtexKey": "journals/chb/KuruP16"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2ef3a66fef9c95b0b6e280195f2e70ce9/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "ef3a66fef9c95b0b6e280195f2e70ce9",
+         "interHash" : "b588a1bdf7c720efb5ef5fb3f9e9b4ab",
+         "label" : "Automated identification of media bias in news articles: an interdisciplinary literature review.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-09-11 00:00:00",
+         "changeDate" : "2020-09-12 11:36:39",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "Int. J. Digit. Libr.",
+         "year": "2019", 
+         "url": "http://dblp.uni-trier.de/db/journals/jodl/jodl20.html#HamborgDG19", 
+         
+         "author": [ 
+            "Felix Hamborg","Karsten Donnay","Bela Gipp"
+         ],
+         "authors": [
+         	
+            	{"first" : "Felix",	"last" : "Hamborg"},
+            	{"first" : "Karsten",	"last" : "Donnay"},
+            	{"first" : "Bela",	"last" : "Gipp"}
+         ],
+         "volume": "20","number": "4","pages": "391-415",
+         "ee" : "https://doi.org/10.1007/s00799-018-0261-y",
+         
+         "bibtexKey": "journals/jodl/HamborgDG19"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2046b3ef18dc4b17ed088c05496cf2ce6/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "046b3ef18dc4b17ed088c05496cf2ce6",
+         "interHash" : "b589ce76d64d9e8136295b91a6524926",
+         "label" : "Longitudinal gender and age bias in a prominent amateur new media community.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-09-17 00:00:00",
+         "changeDate" : "2020-09-18 11:39:45",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "New Media Soc.",
+         "year": "2012", 
+         "url": "http://dblp.uni-trier.de/db/journals/nms/nms14.html#WarrenSK12", 
+         
+         "author": [ 
+            "Jonathan Warren","Sharon Stoerger","Ken Kelley"
+         ],
+         "authors": [
+         	
+            	{"first" : "Jonathan",	"last" : "Warren"},
+            	{"first" : "Sharon",	"last" : "Stoerger"},
+            	{"first" : "Ken",	"last" : "Kelley"}
+         ],
+         "volume": "14","number": "1","pages": "7-27",
+         "ee" : "https://doi.org/10.1177/1461444811410390",
+         
+         "bibtexKey": "journals/nms/WarrenSK12"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2124300daf4a0ad6b2d510bd7bfa7033f/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "124300daf4a0ad6b2d510bd7bfa7033f",
+         "interHash" : "eb1a1398cb6fb5915670c4bec0f114a6",
+         "label" : "Geographical Bias on Social Media and Geo-local Contents System with Mobile Devices.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2014-07-23 00:00:00",
+         "changeDate" : "2015-06-19 10:01:01",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "HICSS","publisher":"IEEE Computer Society",
+         "year": "2012", 
+         "url": "http://dblp.uni-trier.de/db/conf/hicss/hicss2012.html#Ishida12", 
+         
+         "author": [ 
+            "Kazunari Ishida"
+         ],
+         "authors": [
+         	
+            	{"first" : "Kazunari",	"last" : "Ishida"}
+         ],
+         "pages": "1790-1796",
+         "ee" : "http://doi.ieeecomputersociety.org/10.1109/HICSS.2012.292",
+         
+         "isbn" : "978-0-7695-4525-7",
+         
+         "bibtexKey": "conf/hicss/Ishida12"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/26dbb42be338cfe016b1a8620e4ea534e/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "6dbb42be338cfe016b1a8620e4ea534e",
+         "interHash" : "e06bc79f8520a569cfc9a09c3e4d95ef",
+         "label" : "Automated Identification of Media Bias by Word Choice and Labeling in News Articles.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2019-08-13 00:00:00",
+         "changeDate" : "2019-10-17 14:58:55",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "JCDL","publisher":"IEEE",
+         "year": "2019", 
+         "url": "http://dblp.uni-trier.de/db/conf/jcdl/jcdl2019.html#HamborgZG19", 
+         
+         "author": [ 
+            "Felix Hamborg","Anastasia Zhukova","Bela Gipp"
+         ],
+         "authors": [
+         	
+            	{"first" : "Felix",	"last" : "Hamborg"},
+            	{"first" : "Anastasia",	"last" : "Zhukova"},
+            	{"first" : "Bela",	"last" : "Gipp"}
+         ],
+         
+         "editor": [ 
+            "Maria Bonn","Dan Wu","J. Stephen Downie","Alain Martaus"
+         ],
+         "editors": [
+         	
+            	{"first" : "Maria",	"last" : "Bonn"},
+            	{"first" : "Dan",	"last" : "Wu"},
+            	{"first" : "J. Stephen",	"last" : "Downie"},
+            	{"first" : "Alain",	"last" : "Martaus"}
+         ],
+         "pages": "196-205",
+         "ee" : "https://doi.org/10.1109/JCDL.2019.00036",
+         
+         "isbn" : "978-1-7281-1547-4",
+         
+         "bibtexKey": "conf/jcdl/HamborgZG19"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/26bdc1fd3d1864f335a26a01592df443e/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "6bdc1fd3d1864f335a26a01592df443e",
+         "interHash" : "f0e9eabdce94a015445b68a5e0badcc0",
+         "label" : "The Impact of Media Richness, Suspicion, and Perceived Truth Bias on Deception Detection.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2014-07-21 00:00:00",
+         "changeDate" : "2015-06-19 10:07:42",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "HICSS","publisher":"IEEE Computer Society",
+         "year": "2005", 
+         "url": "http://dblp.uni-trier.de/db/conf/hicss/hicss2005-1.html#BoyleR05", 
+         
+         "author": [ 
+            "Randall J. Boyle","Cynthia P. Ruppel"
+         ],
+         "authors": [
+         	
+            	{"first" : "Randall J.",	"last" : "Boyle"},
+            	{"first" : "Cynthia P.",	"last" : "Ruppel"}
+         ],
+         
+         "ee" : "http://doi.ieeecomputersociety.org/10.1109/HICSS.2005.598",
+         
+         "isbn" : "0-7695-2268-8",
+         
+         "bibtexKey": "conf/hicss/BoyleR05"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2388548c8c6e71aacf1bbbb9707148338/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "388548c8c6e71aacf1bbbb9707148338",
+         "interHash" : "75fe98420d6732408e4f2649432e9c15",
+         "label" : "An Evaluation of Structural Characteristics of Networks to Identify Media Bias in News Portals.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-11-30 00:00:00",
+         "changeDate" : "2020-12-01 11:35:53",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "WebMedia","publisher":"ACM",
+         "year": "2020", 
+         "url": "http://dblp.uni-trier.de/db/conf/webmedia/webmedia2020.html#AiresSNN20", 
+         
+         "author": [ 
+            "Victória Patrícia Aires","Altigran Soares da Silva","Fabíola Guerra Nakamura","Eduardo Freire Nakamura"
+         ],
+         "authors": [
+         	
+            	{"first" : "Victória Patrícia",	"last" : "Aires"},
+            	{"first" : "Altigran Soares",	"last" : "da Silva"},
+            	{"first" : "Fabíola Guerra",	"last" : "Nakamura"},
+            	{"first" : "Eduardo Freire",	"last" : "Nakamura"}
+         ],
+         
+         "editor": [ 
+            "Carlos de Salles Soares Neto"
+         ],
+         "editors": [
+         	
+            	{"first" : "Carlos",	"last" : "de Salles Soares Neto"}
+         ],
+         "pages": "225-232",
+         "ee" : "https://doi.org/10.1145/3428658.3431077",
+         
+         "isbn" : "978-1-4503-8196-3",
+         
+         "bibtexKey": "conf/webmedia/AiresSNN20"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/208acee1b49c08727c69edf9521186ab0/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "08acee1b49c08727c69edf9521186ab0",
+         "interHash" : "98cfc9807c1596076cf2290dd17a6b77",
+         "label" : "CaptureBias: Supporting Media Scholars with Ambiguity-Aware Bias Representation for News Videos (short paper).",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2019-05-28 00:00:00",
+         "changeDate" : "2020-02-13 12:02:11",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "SAD/CrowdBias@HCOMP","series": "CEUR Workshop Proceedings","publisher":"CEUR-WS.org",
+         "year": "2018", 
+         "url": "http://dblp.uni-trier.de/db/conf/hcomp/sad2018.html#JongMABVODB18", 
+         
+         "author": [ 
+            "Markus de Jong","Panagiotis Mavridis","Lora Aroyo","Alessandro Bozzon","Jesse de Vos","Johan Oomen","Antoaneta Dimitrova","Alec Badenoch"
+         ],
+         "authors": [
+         	
+            	{"first" : "Markus",	"last" : "de Jong"},
+            	{"first" : "Panagiotis",	"last" : "Mavridis"},
+            	{"first" : "Lora",	"last" : "Aroyo"},
+            	{"first" : "Alessandro",	"last" : "Bozzon"},
+            	{"first" : "Jesse",	"last" : "de Vos"},
+            	{"first" : "Johan",	"last" : "Oomen"},
+            	{"first" : "Antoaneta",	"last" : "Dimitrova"},
+            	{"first" : "Alec",	"last" : "Badenoch"}
+         ],
+         
+         "editor": [ 
+            "Lora Aroyo","Anca Dumitrache","Praveen Paritosh","Alexander J. Quinn","Chris Welty","Alessandro Checco","Gianluca Demartini","Ujwal Gadiraju","Cristina Sarasua"
+         ],
+         "editors": [
+         	
+            	{"first" : "Lora",	"last" : "Aroyo"},
+            	{"first" : "Anca",	"last" : "Dumitrache"},
+            	{"first" : "Praveen",	"last" : "Paritosh"},
+            	{"first" : "Alexander J.",	"last" : "Quinn"},
+            	{"first" : "Chris",	"last" : "Welty"},
+            	{"first" : "Alessandro",	"last" : "Checco"},
+            	{"first" : "Gianluca",	"last" : "Demartini"},
+            	{"first" : "Ujwal",	"last" : "Gadiraju"},
+            	{"first" : "Cristina",	"last" : "Sarasua"}
+         ],
+         "volume": "2276","pages": "32-40",
+         "ee" : "http://ceur-ws.org/Vol-2276/paper4.pdf",
+         
+         "bibtexKey": "conf/hcomp/JongMABVODB18"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2f1a3428fbb9609e6cc14dfff9338446d/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "f1a3428fbb9609e6cc14dfff9338446d",
+         "interHash" : "d8d05616363348825e229442203d4dff",
+         "label" : "Hate Speech Detection and Racial Bias Mitigation in Social Media based on BERT model.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-08-21 00:00:00",
+         "changeDate" : "2020-08-22 11:35:58",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "CoRR",
+         "year": "2020", 
+         "url": "http://dblp.uni-trier.de/db/journals/corr/corr2008.html#abs-2008-06460", 
+         
+         "author": [ 
+            "Marzieh Mozafari","Reza Farahbakhsh","Noël Crespi"
+         ],
+         "authors": [
+         	
+            	{"first" : "Marzieh",	"last" : "Mozafari"},
+            	{"first" : "Reza",	"last" : "Farahbakhsh"},
+            	{"first" : "Noël",	"last" : "Crespi"}
+         ],
+         "volume": "abs/2008.06460",
+         "ee" : "https://arxiv.org/abs/2008.06460",
+         
+         "bibtexKey": "journals/corr/abs-2008-06460"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/20ce0e2e6d812adf6ef21f135c414dcda/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "0ce0e2e6d812adf6ef21f135c414dcda",
+         "interHash" : "dbfea051cca69db2c363cb4ec3db615e",
+         "label" : "Political communication on social media: A tale of hyperactive users and bias in recommender systems.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-03-19 00:00:00",
+         "changeDate" : "2020-03-20 11:48:16",
+         "count" : 2,
+         "pub-type": "article",
+         "journal": "Online Soc. Networks Media",
+         "year": "2020", 
+         "url": "http://dblp.uni-trier.de/db/journals/osnm/osnm15.html#Papakyriakopoulos20", 
+         
+         "author": [ 
+            "Orestis Papakyriakopoulos","Juan Carlos Medina Serrano","Simon Hegelich"
+         ],
+         "authors": [
+         	
+            	{"first" : "Orestis",	"last" : "Papakyriakopoulos"},
+            	{"first" : "Juan Carlos Medina",	"last" : "Serrano"},
+            	{"first" : "Simon",	"last" : "Hegelich"}
+         ],
+         "volume": "15","pages": "100058",
+         "ee" : "https://doi.org/10.1016/j.osnem.2019.100058",
+         
+         "bibtexKey": "journals/osnm/Papakyriakopoulos20"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2700054bd4d5024a0628e59c063bb811c/meneteqel",         
+         "tags" : [
+            "computational_social_science","hyperactive_users","topic_modeling","political_communication","political_data_science","recommender_systems","agenda_setting","algorithmic_bias","recommendation_systems","social_media"
+         ],
+         
+         "intraHash" : "700054bd4d5024a0628e59c063bb811c",
+         "interHash" : "dbfea051cca69db2c363cb4ec3db615e",
+         "label" : "Political communication on social media: A tale of hyperactive users and bias in recommender systems",
+         "user" : "meneteqel",
+         "description" : "",
+         "date" : "2019-12-28 16:16:22",
+         "changeDate" : "2019-12-28 16:16:22",
+         "count" : 2,
+         "pub-type": "article",
+         "journal": "Online Social Networks and Media","publisher":"Elsevier BV",
+         "year": "2020", 
+         "url": "https://www.sciencedirect.com/science/article/pii/S2468696419300886", 
+         
+         "author": [ 
+            "Orestis Papakyriakopoulos","Juan Carlos Medina Serrano","Simon Hegelich"
+         ],
+         "authors": [
+         	
+            	{"first" : "Orestis",	"last" : "Papakyriakopoulos"},
+            	{"first" : "Juan Carlos Medina",	"last" : "Serrano"},
+            	{"first" : "Simon",	"last" : "Hegelich"}
+         ],
+         "volume": "15","pages": "100058","abstract": "A segment of the political discussions on Online Social Networks (OSNs) is shaped by hyperactive users. These are users that are over-proportionally active in relation to the mean. By applying a geometric topic modeling algorithm (GTM) on German users\u2019 political comments and parties\u2019 posts and by analyzing commenting and liking activities, we quantitatively demonstrate that hyperactive users have a significant role in the political discourse: They become opinion leaders, as well as having an agenda-setting effect, thus creating an alternate picture of public opinion. We also show that hyperactive users strongly influence specific types of recommender systems. By training collaborative filtering and deep learning recommendation algorithms on simulated political networks, we illustrate that models provide different suggestions to users, when accounting for or ignoring hyperactive behavior both in the input dataset and in the methodology applied. We attack the trained models with adversarial examples by strategically placing hyperactive users in the network and manipulating the recommender systems\u2019 results. Given that recommender systems are used by all major social networks, that they come with a social influence bias, and given that OSNs are not per se designed to foster political discussions, we discuss the implications for the political discourse and the danger of algorithmic manipulation of political communication.",
+         "language" : "eng",
+         
+         "doi" : "10.1016/j.osnem.2019.100058",
+         
+         "bibtexKey": "papakyriakopoulos2020political"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2c82b8a8c84e022d387ee1aecbd1c8e71/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "c82b8a8c84e022d387ee1aecbd1c8e71",
+         "interHash" : "64f17ba21f796d2efc6484f923ea1e8f",
+         "label" : "On the Unintended Social Bias of Training Language Generation Models with Data from Local Media.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2019-11-11 00:00:00",
+         "changeDate" : "2019-11-12 11:38:48",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "CoRR",
+         "year": "2019", 
+         "url": "http://dblp.uni-trier.de/db/journals/corr/corr1911.html#abs-1911-00461", 
+         
+         "author": [ 
+            "Omar U. Florez"
+         ],
+         "authors": [
+         	
+            	{"first" : "Omar U.",	"last" : "Florez"}
+         ],
+         "volume": "abs/1911.00461",
+         "ee" : "http://arxiv.org/abs/1911.00461",
+         
+         "bibtexKey": "journals/corr/abs-1911-00461"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2bdb67368d47f6d679bb7e695b2da20af/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "bdb67368d47f6d679bb7e695b2da20af",
+         "interHash" : "6aaa762313ab63d7c98eab51ab8fdd0d",
+         "label" : "Do people trust their eyes more than ears?: media bias in detecting cues of expertise.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2018-11-06 00:00:00",
+         "changeDate" : "2018-11-07 16:52:17",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "CHI Extended Abstracts","publisher":"ACM",
+         "year": "2005", 
+         "url": "http://dblp.uni-trier.de/db/conf/chi/chi2005a.html#RiegelsbergerSM05", 
+         
+         "author": [ 
+            "Jens Riegelsberger","Martina Angela Sasse","John D. McCarthy"
+         ],
+         "authors": [
+         	
+            	{"first" : "Jens",	"last" : "Riegelsberger"},
+            	{"first" : "Martina Angela",	"last" : "Sasse"},
+            	{"first" : "John D.",	"last" : "McCarthy"}
+         ],
+         
+         "editor": [ 
+            "Gerrit C. van der Veer","Carolyn Gale"
+         ],
+         "editors": [
+         	
+            	{"first" : "Gerrit C.",	"last" : "van der Veer"},
+            	{"first" : "Carolyn",	"last" : "Gale"}
+         ],
+         "pages": "1745-1748",
+         "ee" : "https://doi.org/10.1145/1056808.1057012",
+         
+         "isbn" : "1-59593-002-7",
+         
+         "bibtexKey": "conf/chi/RiegelsbergerSM05"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2356fa171347b8551cef8289af703290b/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "356fa171347b8551cef8289af703290b",
+         "interHash" : "5577ee4f5aa698492045676acebd098e",
+         "label" : "Female Librarians and Male Computer Programmers? Gender Bias in Occupational Images on Digital Media Platforms.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-11-03 00:00:00",
+         "changeDate" : "2020-11-04 11:35:43",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "CoRR",
+         "year": "2019", 
+         "url": "http://dblp.uni-trier.de/db/journals/corr/corr1912.html#abs-1912-05474", 
+         
+         "author": [ 
+            "Vivek K. Singh","Mary Chayko","Raj Inamdar","Diana Floegel"
+         ],
+         "authors": [
+         	
+            	{"first" : "Vivek K.",	"last" : "Singh"},
+            	{"first" : "Mary",	"last" : "Chayko"},
+            	{"first" : "Raj",	"last" : "Inamdar"},
+            	{"first" : "Diana",	"last" : "Floegel"}
+         ],
+         "volume": "abs/1912.05474",
+         "ee" : "http://arxiv.org/abs/1912.05474",
+         
+         "bibtexKey": "journals/corr/abs-1912-05474"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2b11c3e6abce67f4a5a5df8db373aa00b/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "b11c3e6abce67f4a5a5df8db373aa00b",
+         "interHash" : "dcc22f34c7993bda8e3744b5c0ecb702",
+         "label" : "Female librarians and male computer programmers? Gender bias in occupational images on digital media platforms.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-11-07 00:00:00",
+         "changeDate" : "2020-11-09 11:34:30",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "J. Assoc. Inf. Sci. Technol.",
+         "year": "2020", 
+         "url": "http://dblp.uni-trier.de/db/journals/jasis/jasis71.html#SinghCIF20", 
+         
+         "author": [ 
+            "Vivek K. Singh","Mary Chayko","Raj Inamdar","Diana Floegel"
+         ],
+         "authors": [
+         	
+            	{"first" : "Vivek K.",	"last" : "Singh"},
+            	{"first" : "Mary",	"last" : "Chayko"},
+            	{"first" : "Raj",	"last" : "Inamdar"},
+            	{"first" : "Diana",	"last" : "Floegel"}
+         ],
+         "volume": "71","number": "11","pages": "1281-1294",
+         "ee" : "https://doi.org/10.1002/asi.24335",
+         
+         "bibtexKey": "journals/jasis/SinghCIF20"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2bb370a0ea1641324815176fd7aa8411d/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "bb370a0ea1641324815176fd7aa8411d",
+         "interHash" : "914613ee9c248381a1bf36689a952c8b",
+         "label" : "BiasWatch: A Lightweight System for Discovering and Tracking Topic-Sensitive Opinion Bias in Social Media.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2018-11-06 00:00:00",
+         "changeDate" : "2019-04-17 11:42:46",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "CIKM","publisher":"ACM",
+         "year": "2015", 
+         "url": "http://dblp.uni-trier.de/db/conf/cikm/cikm2015.html#LuCN15", 
+         
+         "author": [ 
+            "Haokai Lu","James Caverlee","Wei Niu"
+         ],
+         "authors": [
+         	
+            	{"first" : "Haokai",	"last" : "Lu"},
+            	{"first" : "James",	"last" : "Caverlee"},
+            	{"first" : "Wei",	"last" : "Niu"}
+         ],
+         
+         "editor": [ 
+            "James Bailey","Alistair Moffat","Charu C. Aggarwal","Maarten de Rijke","Ravi Kumar","Vanessa Murdock","Timos K. Sellis","Jeffrey Xu Yu"
+         ],
+         "editors": [
+         	
+            	{"first" : "James",	"last" : "Bailey"},
+            	{"first" : "Alistair",	"last" : "Moffat"},
+            	{"first" : "Charu C.",	"last" : "Aggarwal"},
+            	{"first" : "Maarten",	"last" : "de Rijke"},
+            	{"first" : "Ravi",	"last" : "Kumar"},
+            	{"first" : "Vanessa",	"last" : "Murdock"},
+            	{"first" : "Timos K.",	"last" : "Sellis"},
+            	{"first" : "Jeffrey Xu",	"last" : "Yu"}
+         ],
+         "pages": "213-222",
+         "ee" : "https://doi.org/10.1145/2806416.2806573",
+         
+         "isbn" : "978-1-4503-3794-6",
+         
+         "bibtexKey": "conf/cikm/LuCN15"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/26887c5493f14b93afe3a0e11dd73fc38/zoe-jordn-martn",         
+         "tags" : [
+            "manipulación","inclinación_política","traducción","de_las_masas","traducción_mediática","medios_de_comunicación","manipulación_política"
+         ],
+         
+         "intraHash" : "6887c5493f14b93afe3a0e11dd73fc38",
+         "interHash" : "93d975ede2f0dfa23105c777ef560882",
+         "label" : "Exposing Political Manipulation and Bias in Mediatised Translations The Translation-centred Political Mass Communication Model",
+         "user" : "zoe-jordn-martn",
+         "description" : "",
+         "date" : "2015-12-05 13:28:31",
+         "changeDate" : "2015-12-07 09:35:40",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "inTRAlinea",
+         "year": "2013", 
+         "url": "http://www.intralinea.org/archive/article/1914", 
+         
+         "author": [ 
+            "Mátyáas Bánhegyi"
+         ],
+         "authors": [
+         	
+            	{"first" : "Mátyáas",	"last" : "Bánhegyi"}
+         ],
+         "volume": "15","abstract": "The study explores political communication to uncover how the media, and within it the press, tries to manipulate its audience also using translation as a tool to this end. The paper discusses crucial aspects of mediatised communication including reality, the presentation of reality as well as political and party bias. It will be argued that these factors can be incorporated in a theoretical model to assess bias and reality-related aspects of mediatised texts and their translations. The study will conclude by introducing a purely theoretical model, the Translation-centred Political Mass Communication Analytical Model, which facilitates the analysis of source and target texts used in the context of political mass communication.",
+         "mendeley-tags" : "manipulación,manipulación pol\\'ıtica,manipulation,mass comunication,media,mediatisized translation,political bias,political manipulation,traducción,translation",
+         
+         "bibtexKey": "Banhegyi2013"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2e62130dcd2e45038aa8321831b57ba38/ail3s",         
+         "tags" : [
+            "nlp","myown","leibnizailab"
+         ],
+         
+         "intraHash" : "e62130dcd2e45038aa8321831b57ba38",
+         "interHash" : "45f29f5b6b526d8f37b8a4746963909a",
+         "label" : "No Word Embedding Model Is Perfect: Evaluating the Representation  Accuracy for Social Bias in the Media",
+         "user" : "ail3s",
+         "description" : "",
+         "date" : "2022-11-17 09:29:21",
+         "changeDate" : "2022-11-18 12:52:40",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "Proceedings of The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)","publisher":"Association for Computational Linguistics",
+         "year": "2022", 
+         "url": "", 
+         
+         "author": [ 
+            "Maximilian Spliethöver","Maximilian Keiff","Henning Wachsmuth"
+         ],
+         "authors": [
+         	
+            	{"first" : "Maximilian",	"last" : "Spliethöver"},
+            	{"first" : "Maximilian",	"last" : "Keiff"},
+            	{"first" : "Henning",	"last" : "Wachsmuth"}
+         ],
+         
+         "bibtexKey": "Spliethöver_Keiff_Wachsmuth_2022"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/257415091921ff4f533289739183fb742/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "57415091921ff4f533289739183fb742",
+         "interHash" : "3bd249f47ea55f82a741d0f22de39f74",
+         "label" : "Tracking Bias in News Sources Using Social Media: the Russia-Ukraine Maidan Crisis of 2013-2014.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-01-28 00:00:00",
+         "changeDate" : "2020-01-29 11:50:14",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "NLPmJ@EMNLP","publisher":"Association for Computational Linguistics",
+         "year": "2017", 
+         "url": "http://dblp.uni-trier.de/db/conf/emnlp/journalism2017.html#PotashRGRG17", 
+         
+         "author": [ 
+            "Peter Potash","Alexey Romanov","Anna Rumshisky","Mikhail Gronas"
+         ],
+         "authors": [
+         	
+            	{"first" : "Peter",	"last" : "Potash"},
+            	{"first" : "Alexey",	"last" : "Romanov"},
+            	{"first" : "Anna",	"last" : "Rumshisky"},
+            	{"first" : "Mikhail",	"last" : "Gronas"}
+         ],
+         
+         "editor": [ 
+            "Octavian Popescu","Carlo Strapparava"
+         ],
+         "editors": [
+         	
+            	{"first" : "Octavian",	"last" : "Popescu"},
+            	{"first" : "Carlo",	"last" : "Strapparava"}
+         ],
+         "pages": "13-18",
+         "ee" : "https://www.aclweb.org/anthology/W17-4203/",
+         
+         "isbn" : "978-1-945626-88-3",
+         
+         "bibtexKey": "conf/emnlp/PotashRGRG17"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/271d33d933ed6799821397aa8c94ae608/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "71d33d933ed6799821397aa8c94ae608",
+         "interHash" : "4ac7fc922e5f98bb6148f460460ef90f",
+         "label" : "Promoting users' intention to share online health articles on social media: The role of confirmation bias.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-11-07 00:00:00",
+         "changeDate" : "2020-11-09 11:35:00",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "Inf. Process. Manag.",
+         "year": "2020", 
+         "url": "http://dblp.uni-trier.de/db/journals/ipm/ipm57.html#ZhaoFC20", 
+         
+         "author": [ 
+            "Haiping Zhao","Shaoxiong Fu","Xiaoyu Chen"
+         ],
+         "authors": [
+         	
+            	{"first" : "Haiping",	"last" : "Zhao"},
+            	{"first" : "Shaoxiong",	"last" : "Fu"},
+            	{"first" : "Xiaoyu",	"last" : "Chen"}
+         ],
+         "volume": "57","number": "6","pages": "102354",
+         "ee" : "https://doi.org/10.1016/j.ipm.2020.102354",
+         
+         "bibtexKey": "journals/ipm/ZhaoFC20"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2a7189be7a33c43a0027b1d2793e322ab/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "a7189be7a33c43a0027b1d2793e322ab",
+         "interHash" : "9521db2a29b7f08fb8696c560938aede",
+         "label" : "Topic bias in the social media - The representation of political topics in Obama's 'Open for Questions'-campaign in comparison to traditional media and the blogosphere.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-02-06 00:00:00",
+         "changeDate" : "2020-07-24 01:07:23",
+         "count" : 1,
+         "pub-type": "inproceedings",
+         "booktitle": "GI Jahrestagung","series": "LNI","publisher":"GI",
+         "year": "2009", 
+         "url": "http://dblp.uni-trier.de/db/conf/gi/gi2009.html#RiedelH09", 
+         
+         "author": [ 
+            "Anna Riedel","Hendrik Send"
+         ],
+         "authors": [
+         	
+            	{"first" : "Anna",	"last" : "Riedel"},
+            	{"first" : "Hendrik",	"last" : "Send"}
+         ],
+         
+         "editor": [ 
+            "Stefan Fischer","Erik Maehle","Rüdiger Reischuk"
+         ],
+         "editors": [
+         	
+            	{"first" : "Stefan",	"last" : "Fischer"},
+            	{"first" : "Erik",	"last" : "Maehle"},
+            	{"first" : "Rüdiger",	"last" : "Reischuk"}
+         ],
+         "volume": "P-154","pages": "1791-1803",
+         "ee" : "http://subs.emis.de/LNI/Proceedings/Proceedings154/article2683.html",
+         
+         "isbn" : "978-3-88579-248-2",
+         
+         "bibtexKey": "conf/gi/RiedelH09"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2b2f7171a0bb346b7b8fab3c214fb2022/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "b2f7171a0bb346b7b8fab3c214fb2022",
+         "interHash" : "6ef4891f8731a5f4f4ef354a16c665e1",
+         "label" : "Gender Bias in Sharenting: Both Men and Women Mention Sons More Often Than Daughters on Social Media.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2018-08-13 00:00:00",
+         "changeDate" : "2018-08-14 12:08:43",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "CoRR",
+         "year": "2018", 
+         "url": "http://dblp.uni-trier.de/db/journals/corr/corr1803.html#abs-1803-10329", 
+         
+         "author": [ 
+            "Elizaveta Sivak","Ivan Smirnov"
+         ],
+         "authors": [
+         	
+            	{"first" : "Elizaveta",	"last" : "Sivak"},
+            	{"first" : "Ivan",	"last" : "Smirnov"}
+         ],
+         "volume": "abs/1803.10329",
+         "ee" : "http://arxiv.org/abs/1803.10329",
+         
+         "bibtexKey": "journals/corr/abs-1803-10329"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/257585621f7ab645ec129ad215499488a/dblp",         
+         "tags" : [
+            "dblp"
+         ],
+         
+         "intraHash" : "57585621f7ab645ec129ad215499488a",
+         "interHash" : "269fef192a654211483de116266b560f",
+         "label" : "That's Not the Way It Is: How User-Generated Comments on the News Affect Perceived Media Bias.",
+         "user" : "dblp",
+         "description" : "",
+         "date" : "2020-10-01 00:00:00",
+         "changeDate" : "2020-10-02 11:44:03",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "J. Comput. Mediat. Commun.",
+         "year": "2012", 
+         "url": "http://dblp.uni-trier.de/db/journals/jcmc/jcmc18.html#Lee12", 
+         
+         "author": [ 
+            "Eun-Ju Lee"
+         ],
+         "authors": [
+         	
+            	{"first" : "Eun-Ju",	"last" : "Lee"}
+         ],
+         "volume": "18","number": "1","pages": "32-45",
+         "ee" : "https://doi.org/10.1111/j.1083-6101.2012.01597.x",
+         
+         "bibtexKey": "journals/jcmc/Lee12"
+
+      }
+	  
+   ]
+}
