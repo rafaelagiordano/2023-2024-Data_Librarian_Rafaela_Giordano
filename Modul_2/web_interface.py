@@ -9,9 +9,9 @@ if not pt.started():
 
 def init():
 
-    index = pt.IndexFactory.of("/ai_index_mult/data.properties")
+    index = pt.IndexFactory.of("./ai_index_mult/data.properties")
     st.session_state["engine"] = pt.BatchRetrieve(index, wmodel="TF_IDF")
-    st.session_state["data"] = pickle.load(open("/workspace/ai_publications.pkl", "rb"))
+    st.session_state["data"] = pickle.load(open("./ai_publications.pkl", "rb"))
 
 def search(query):
 
