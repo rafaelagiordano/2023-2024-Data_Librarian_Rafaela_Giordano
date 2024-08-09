@@ -1,0 +1,121 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Collapsible Tree Menu</title>
+    <style>
+        ul {
+            list-style-type: none; /* Entfernt die Aufzählungszeichen */
+        }
+        li {
+            color: black; /* Setzt die Textfarbe auf Schwarz */
+        }
+        li:hover {
+            color: #007c6c; /* Ändert die Textfarbe auf Grün Minerva bei Hover */
+        }
+        .nested {
+            display: none;
+        }
+        .active {
+            display: block;
+        }
+        .caret {
+            cursor: pointer;
+            user-select: none;
+            font-weight: bold; /* Hebt die Caret-Items hervor */
+        }
+        .caret::before {
+            content: "B6"; /* Rechts weisendes Dreieck */
+            color: black;
+            display: inline-block;
+            margin-right: 6px;
+        }
+        .caret-down::before {
+            content: "BC"; /* Nach unten weisendes Dreieck */
+        }
+    </style>
+</head>
+<body>
+    <h2>Collapsible Tree Menu</h2>
+    <ul id="myMenu">
+        
+    <li>
+        <span class="caret">Einzelne Länder</span>
+        <ul class="nested">
+            <li>Afrika</li>
+    <li>
+        <span class="caret">Asien</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">Japan</span>
+        <ul class="nested">
+            <li>OA/Jap: I</li><li>OA/Jap: II</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    <li>Australien</li><li>Mittelamerika</li><li>Nordamerika</li>
+    <li>
+        <span class="caret">Südamerika</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">Lateinamerika</span>
+        <ul class="nested">
+            <li>L/Allg: I Gesetzsammlungen.</li><li>L/Allg: II  Entscheidungssammlungen.</li><li>L/Allg: III Zeitschriften.</li><li>L/Allg: IV Parlamentsdrucksachen.</li><li>L/Allg: V  Sammelwerk. Rechtssystem. Rechtsbibliographie.</li><li>L/Allg: VI  Landeskunde. Demographie. Volkswirtschaft.</li>
+    <li>
+        <span class="caret">L/Allg: VII  Geschichte. Politik.</span>
+        <ul class="nested">
+            <li><a href="http://aleph.mpg.de/F?func=find-b&local_base=vrh01&find_code=WLO&request=%22L/Allg:%20VII%20A%22" target="_blank">L/Allg: VII A Geschichte.</a></li><li><a href="http://aleph.mpg.de/F?func=find-b&local_base=vrh01&find_code=WLO&request=%22L/Allg:%20VII%20B%22" target="_blank">L/Allg: VII B Innenpolitik. Parteien.</a></li><li><a href="http://aleph.mpg.de/F?func=find-b&local_base=vrh01&find_code=WLO&request=%22L/Allg:%20VII%20C%22" target="_blank">L/Allg: VII C Kulturgeschichte.</a></li><li><a href="http://aleph.mpg.de/F?func=find-b&local_base=vrh01&find_code=WLO&request=%22L/Allg:%20VII%20C%22" target="_blank">L/Allg: VII D Außenpolitik.</a></li>
+        </ul>
+    </li>
+    <li>L/Allg: VIII  Rechtsgeschichte. Verfassungsgeschichte.</li><li>L/Allg: IX  Verfassungsrecht.</li><li>L/Allg: X  Verwaltungsrecht.</li><li>L/Allg: XI  Finanzrecht. Steuerrecht.</li><li>L/Allg: XII  Arbeitsrecht. Sozialrecht.</li><li>L/Allg: XIII  Öffentliches Wirtschaftsrecht.</li><li>L/Allg: XIV 	Verkehrsrecht.</li><li>L/Allg: XV 	Gerichtsverfassung. Prozeßrecht.</li><li>L/Allg: XVI 	Strafrecht.</li><li>L/Allg: XVII 	Zivilrecht. Handelsrecht.</li><li>L/Allg: XVIII 	Staatskirchenrecht.</li><li>L/Allg: XIX 	Ureinwohner. Indigene Völker.</li>
+        </ul>
+    </li>
+    <li>Argentinien</li>
+    <li>
+        <span class="caret">Bolivien</span>
+        <ul class="nested">
+            <li>L/Bol: I 	Gesetzsammlungen.</li><li>L/Bol: II 	Entscheidungssammlungen.</li><li>L/Bol: III Zeitschriften.</li><li>L/Bol: IV 	Parlamentsdrucksachen.</li><li>L/Bol: V 	Sammelwerk. Rechtssystem. Rechtsbibliographie.</li><li>L/Bol: VI 	Landeskunde. Demographie. Volkswirtschaft</li><li>L/Bol: VII Geschichte. Politik.</li><li>L/Bol: VIII 	Rechtsgeschichte. Verfassungsgeschichte.</li><li>L/Bol: IX 	Verfassungsrecht.</li><li>L/Bol: X 	Verwaltungsrecht.</li><li>L/Bol: XI 	Finanzrecht. Steuerrecht.</li><li>L/Bol: XII 	Arbeitsrecht. Sozialrecht.</li><li>L/Bol: XIII 	Öffentliches Wirtschaftsrecht.</li><li>L/Bol: XVI 	Strafrecht.</li><li>L/Bol: XV 	Gerichtsverfassung. Prozeßrecht.</li><li>L/Bol: XVII 	Zivilrecht. Handelsrecht.</li><li>L/Bol: XVIII 	Staatskirchenrecht.</li><li>L/Bol: XIX 	Ureinwohner. Indigene Völker.</li>
+        </ul>
+    </li>
+    <li>Brasilien</li><li>Chile</li><li>Ecuador</li><li>Guyana</li><li>Kolumbien</li><li>Paraguay</li><li>Peru</li><li>Suriname</li><li>Uruguay</li><li>Venezuela</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Europäische Union</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Völkerrecht</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    </ul>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var toggler = document.getElementsByClassName("caret");
+            for (var i = 0; i < toggler.length; i++) {
+                toggler[i].addEventListener("click", function() {
+                    this.parentElement.querySelector(".nested").classList.toggle("active");
+                    this.classList.toggle("caret-down");
+                });
+            }
+        });
+    </script>
+</body>
+</html>
+    

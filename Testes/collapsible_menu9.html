@@ -1,0 +1,659 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MPILs Systematik</title>
+    <style>
+        ul {
+            list-style-type: none; /* Remove bullet points */
+        }
+        .nested {
+            display: none;
+        }
+        .active {
+            display: block;
+        }
+        .caret {
+            cursor: pointer;
+            user-select: none;
+            font-weight: bold; /* Highlight caret items */
+            color: #006c66; /* Replace with the color of MPIL logo */
+        }
+    </style>
+</head>
+<body>
+    <h2>MPILs Systematik</h2>
+    <ul id="myMenu">
+        
+    <li>
+        <span class="caret">Einzelne Länder</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">Afrika</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Asien</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">Japan</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">OA/Jap: I</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">OA/Jap: II</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Australien</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Mittelamerika</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Nordamerika</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Südamerika</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">Lateinamerika</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">L/Allg: I Gesetzsammlungen.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Allg: II  Entscheidungssammlungen.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Allg: III Zeitschriften.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Allg: IV Parlamentsdrucksachen.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Allg: V  Sammelwerk. Rechtssystem. Rechtsbibliographie.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Allg: VI  Landeskunde. Demographie. Volkswirtschaft.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Allg: VII  Geschichte. Politik.</span>
+        <ul class="nested">
+            <li>L/Allg: VII A Geschichte.</li><li>L/Allg: VII B Innenpolitik. Parteien.</li><li>L/Allg: VII C Kulturgeschichte.</li><li>L/Allg: VII D Außenpolitik.</li><li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Allg: VIII  Rechtsgeschichte. Verfassungsgeschichte.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Allg: IX  Verfassungsrecht.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Allg: X  Verwaltungsrecht.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Allg: XI  Finanzrecht. Steuerrecht.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Allg: XII  Arbeitsrecht. Sozialrecht.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Allg: XIII  Öffentliches Wirtschaftsrecht.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Allg: XIV 	Verkehrsrecht.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Allg: XV 	Gerichtsverfassung. Prozeßrecht.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Allg: XVI 	Strafrecht.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Allg: XVII 	Zivilrecht. Handelsrecht.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Allg: XVIII 	Staatskirchenrecht.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Allg: XIX 	Ureinwohner. Indigene Völker.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Argentinien</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Bolivien</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">L/Bol: I 	Gesetzsammlungen.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Bol: II 	Entscheidungssammlungen.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Bol: III Zeitschriften.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Bol: IV 	Parlamentsdrucksachen.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Bol: V 	Sammelwerk. Rechtssystem. Rechtsbibliographie.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Bol: VI 	Landeskunde. Demographie. Volkswirtschaft</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Bol: VII Geschichte. Politik.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Bol: VIII 	Rechtsgeschichte. Verfassungsgeschichte.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Bol: IX 	Verfassungsrecht.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Bol: X 	Verwaltungsrecht.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Bol: XI 	Finanzrecht. Steuerrecht.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Bol: XII 	Arbeitsrecht. Sozialrecht.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Bol: XIII 	Öffentliches Wirtschaftsrecht.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Bol: XVI 	Strafrecht.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Bol: XV 	Gerichtsverfassung. Prozeßrecht.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Bol: XVII 	Zivilrecht. Handelsrecht.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Bol: XVIII 	Staatskirchenrecht.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">L/Bol: XIX 	Ureinwohner. Indigene Völker.</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Brasilien</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Chile</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Ecuador</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Guyana</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Kolumbien</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Paraguay</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Peru</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Suriname</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Uruguay</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Venezuela</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Europäische Union</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Völkerrecht</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">nan</span>
+        <ul class="nested">
+            <li>nan</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    </ul>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var toggler = document.getElementsByClassName("caret");
+            for (var i = 0; i < toggler.length; i++) {
+                toggler[i].addEventListener("click", function() {
+                    this.parentElement.querySelector(".nested").classList.toggle("active");
+                });
+            }
+        });
+    </script>
+</body>
+</html>
+    

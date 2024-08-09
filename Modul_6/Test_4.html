@@ -1,0 +1,221 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MPILs Systematik</title>
+    <style>
+        .nested {
+            display: none;
+        }
+        .active {
+            display: block;
+        }
+        .caret {
+            cursor: pointer;
+            user-select: none;
+        }
+    </style>
+</head>
+<body>
+    <h2>Collapsible Tree Menu</h2>
+    <ul id="myMenu">
+        
+    <li>
+        <span class="caret">Einzelne Länder</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">Afrika</span>
+        <ul class="nested">
+            <li>Leaf 1A1</li><li>Leaf 1A2</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Asien</span>
+        <ul class="nested">
+            <li>Leaf 1B1</li><li>Leaf 1B2</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Australien</span>
+        <ul class="nested">
+            <li>Leaf 1B1</li><li>Leaf 1B2</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Mittelamerika</span>
+        <ul class="nested">
+            <li>Leaf 1B1</li><li>Leaf 1B2</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Nordamerika</span>
+        <ul class="nested">
+            <li>Leaf 1B1</li><li>Leaf 1B2</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Südamerika</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">Lateinamerika</span>
+        <ul class="nested">
+            <li>L/Allg: I 	    Gesetzsammlungen.</li><li>L/Allg: II 	Entscheidungssammlungen.</li><li>L/Allg: III 	Zeitschriften.</li><li>L/Allg: IV 	Parlamentsdrucksachen.</li><li>L/Allg: V 	    Sammelwerk. Rechtssystem. Rechtsbibliographie.</li><li>L/Allg: VI 	Landeskunde. Demographie. Volkswirtschaft.</li><li>L/Allg: VII 	Geschichte. Politik.</li><li>L/Allg: VIII 	Rechtsgeschichte. Verfassungsgeschichte.</li><li>L/Allg: IX 	Verfassungsrecht.</li><li>L/Allg: X 	    Verwaltungsrecht.</li><li>L/Allg: XI 	Finanzrecht. Steuerrecht.</li><li>L/Allg: XII 	Arbeitsrecht. Sozialrecht.</li><li>L/Allg: XIII 	Öffentliches Wirtschaftsrecht.</li><li>L/Allg: XIV 	Verkehrsrecht.</li><li>L/Allg: XV 	Gerichtsverfassung. Prozeßrecht.</li><li>L/Allg: XVI 	Strafrecht.</li><li>L/Allg: XVII 	Zivilrecht. Handelsrecht.</li><li>L/Allg: XVIII 	Staatskirchenrecht.</li><li>L/Allg: XIX 	Ureinwohner. Indigene Völker.</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Argentinien</span>
+        <ul class="nested">
+            <li>L/Bol: I : Gesetzsammlungen</li><li>L/Bol: II</li><li>L/Bol: III</li><li>L/Bol: IV</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Bolivien</span>
+        <ul class="nested">
+            <li>L/Bol: I 	Gesetzsammlungen.</li><li>L/Bol: II 	Entscheidungssammlungen.</li><li>L/Bol: III Zeitschriften.</li><li>L/Bol: IV 	Parlamentsdrucksachen.</li><li>L/Bol: V 	Sammelwerk. Rechtssystem. Rechtsbibliographie.</li><li>L/Bol: VI 	Landeskunde. Demographie. Volkswirtschaft</li><li>L/Bol: VII Geschichte. Politik.</li><li>L/Bol: VIII 	Rechtsgeschichte. Verfassungsgeschichte.</li><li>L/Bol: IX 	Verfassungsrecht.</li><li>L/Bol: X 	Verwaltungsrecht.</li><li>L/Bol: XI 	Finanzrecht. Steuerrecht.</li><li>L/Bol: XII 	Arbeitsrecht. Sozialrecht.</li><li>L/Bol: XIII 	Öffentliches Wirtschaftsrecht.</li><li>L/Bol: XVI 	Strafrecht.</li><li>L/Bol: XV 	Gerichtsverfassung. Prozeßrecht.</li><li>L/Bol: XVII 	Zivilrecht. Handelsrecht.</li><li>L/Bol: XVIII 	Staatskirchenrecht.</li><li>L/Bol: XIX 	Ureinwohner. Indigene Völker.</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Brasilien</span>
+        <ul class="nested">
+            <li>L/Bol: I : Gesetzsammlungen</li><li>L/Bol: II</li><li>L/Bol: III</li><li>L/Bol: IV</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Chile</span>
+        <ul class="nested">
+            <li>L/Bol: I : Gesetzsammlungen</li><li>L/Bol: II</li><li>L/Bol: III</li><li>L/Bol: IV</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Ecuador</span>
+        <ul class="nested">
+            <li>L/Bol: I : Gesetzsammlungen</li><li>L/Bol: II</li><li>L/Bol: III</li><li>L/Bol: IV</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Guyana</span>
+        <ul class="nested">
+            <li>L/Bol: I : Gesetzsammlungen</li><li>L/Bol: II</li><li>L/Bol: III</li><li>L/Bol: IV</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Kolumbien</span>
+        <ul class="nested">
+            <li>L/Bol: I : Gesetzsammlungen</li><li>L/Bol: II</li><li>L/Bol: III</li><li>L/Bol: IV</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Paraguay</span>
+        <ul class="nested">
+            <li>L/Bol: I : Gesetzsammlungen</li><li>L/Bol: II</li><li>L/Bol: III</li><li>L/Bol: IV</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Peru</span>
+        <ul class="nested">
+            <li>L/Bol: I : Gesetzsammlungen</li><li>L/Bol: II</li><li>L/Bol: III</li><li>L/Bol: IV</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Suriname</span>
+        <ul class="nested">
+            <li>L/Bol: I : Gesetzsammlungen</li><li>L/Bol: II</li><li>L/Bol: III</li><li>L/Bol: IV</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Uruguay</span>
+        <ul class="nested">
+            <li>L/Bol: I : Gesetzsammlungen</li><li>L/Bol: II</li><li>L/Bol: III</li><li>L/Bol: IV</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Venezuela</span>
+        <ul class="nested">
+            <li>L/Bol: I : Gesetzsammlungen</li><li>L/Bol: II</li><li>L/Bol: III</li><li>L/Bol: IV</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Europäische Union</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">Branch 2A</span>
+        <ul class="nested">
+            <li>Leaf 2A1</li><li>Leaf 2A2</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Branch 2B</span>
+        <ul class="nested">
+            <li>Leaf 2B1</li><li>Leaf 2B2</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Völkerrecht</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">Branch 3A</span>
+        <ul class="nested">
+            <li>Leaf 3A1</li><li>Leaf 3A2</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Branch 3B</span>
+        <ul class="nested">
+            <li>Leaf 3B1</li><li>Leaf 3B2</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    </ul>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var toggler = document.getElementsByClassName("caret");
+            for (var i = 0; i < toggler.length; i++) {
+                toggler[i].addEventListener("click", function() {
+                    this.parentElement.querySelector(".nested").classList.toggle("active");
+                    this.classList.toggle("caret-down");
+                });
+            }
+        });
+    </script>
+</body>
+</html>
+    

@@ -1,0 +1,265 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MPILs Systematik</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 20px;
+        }
+        h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 20px;
+        }
+        .caret {
+            cursor: pointer;
+            user-select: none;
+            position: relative;
+            display: inline-block;
+        }
+        .caret::before {
+            content: "\25B6"; /* Right arrow */
+            color: #555;
+            display: inline-block;
+            margin-right: 6px;
+        }
+        .caret-down::before {
+            transform: rotate(90deg); /* Down arrow */
+        }
+        .nested {
+            display: none;
+            margin-left: 20px;
+            border-left: 1px dashed #ccc;
+            padding-left: 10px;
+        }
+        .active {
+            display: block;
+        }
+        li {
+            margin: 5px 0;
+            padding: 5px 10px;
+            background: #fff;
+            border-radius: 4px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+        li:hover {
+            background: #e9e9e9;
+        }
+        a {
+            text-decoration: none;
+            color: #007BFF;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h2>MPILs Systematik</h2>
+    <ul id="myMenu">
+        
+    <li>
+        <span class="caret">Einzelne Länder</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">Afrika</span>
+        <ul class="nested">
+            <li><a href="https://example.com/Leaf 1A1" target="_blank">Leaf 1A1</a></li><li><a href="https://example.com/Leaf 1A2" target="_blank">Leaf 1A2</a></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Asien</span>
+        <ul class="nested">
+            <li><a href="https://example.com/Leaf 1B1" target="_blank">Leaf 1B1</a></li><li><a href="https://example.com/Leaf 1B2" target="_blank">Leaf 1B2</a></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Australien</span>
+        <ul class="nested">
+            <li><a href="https://example.com/Leaf 1B1" target="_blank">Leaf 1B1</a></li><li><a href="https://example.com/Leaf 1B2" target="_blank">Leaf 1B2</a></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Mittelamerika</span>
+        <ul class="nested">
+            <li><a href="https://example.com/Leaf 1B1" target="_blank">Leaf 1B1</a></li><li><a href="https://example.com/Leaf 1B2" target="_blank">Leaf 1B2</a></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Nordamerika</span>
+        <ul class="nested">
+            <li><a href="https://example.com/Leaf 1B1" target="_blank">Leaf 1B1</a></li><li><a href="https://example.com/Leaf 1B2" target="_blank">Leaf 1B2</a></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Südamerika</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">Lateinamerika</span>
+        <ul class="nested">
+            <li><a href="https://example.com/L/Allg: I 	    Gesetzsammlungen." target="_blank">L/Allg: I 	    Gesetzsammlungen.</a></li><li><a href="https://example.com/L/Allg: II 	Entscheidungssammlungen." target="_blank">L/Allg: II 	Entscheidungssammlungen.</a></li><li><a href="https://example.com/L/Allg: III 	Zeitschriften." target="_blank">L/Allg: III 	Zeitschriften.</a></li><li><a href="https://example.com/L/Allg: IV 	Parlamentsdrucksachen." target="_blank">L/Allg: IV 	Parlamentsdrucksachen.</a></li><li><a href="https://example.com/L/Allg: V 	    Sammelwerk. Rechtssystem. Rechtsbibliographie." target="_blank">L/Allg: V 	    Sammelwerk. Rechtssystem. Rechtsbibliographie.</a></li><li><a href="https://example.com/L/Allg: VI 	Landeskunde. Demographie. Volkswirtschaft." target="_blank">L/Allg: VI 	Landeskunde. Demographie. Volkswirtschaft.</a></li><li><a href="https://example.com/L/Allg: VII 	Geschichte. Politik." target="_blank">L/Allg: VII 	Geschichte. Politik.</a></li><li><a href="https://example.com/L/Allg: VIII 	Rechtsgeschichte. Verfassungsgeschichte." target="_blank">L/Allg: VIII 	Rechtsgeschichte. Verfassungsgeschichte.</a></li><li><a href="https://example.com/L/Allg: IX 	Verfassungsrecht." target="_blank">L/Allg: IX 	Verfassungsrecht.</a></li><li><a href="https://example.com/L/Allg: X 	    Verwaltungsrecht." target="_blank">L/Allg: X 	    Verwaltungsrecht.</a></li><li><a href="https://example.com/L/Allg: XI 	Finanzrecht. Steuerrecht." target="_blank">L/Allg: XI 	Finanzrecht. Steuerrecht.</a></li><li><a href="https://example.com/L/Allg: XII 	Arbeitsrecht. Sozialrecht." target="_blank">L/Allg: XII 	Arbeitsrecht. Sozialrecht.</a></li><li><a href="https://example.com/L/Allg: XIII 	Öffentliches Wirtschaftsrecht." target="_blank">L/Allg: XIII 	Öffentliches Wirtschaftsrecht.</a></li><li><a href="https://example.com/L/Allg: XIV 	Verkehrsrecht." target="_blank">L/Allg: XIV 	Verkehrsrecht.</a></li><li><a href="https://example.com/L/Allg: XV 	Gerichtsverfassung. Prozeßrecht." target="_blank">L/Allg: XV 	Gerichtsverfassung. Prozeßrecht.</a></li><li><a href="https://example.com/L/Allg: XVI 	Strafrecht." target="_blank">L/Allg: XVI 	Strafrecht.</a></li><li><a href="https://example.com/L/Allg: XVII 	Zivilrecht. Handelsrecht." target="_blank">L/Allg: XVII 	Zivilrecht. Handelsrecht.</a></li><li><a href="https://example.com/L/Allg: XVIII 	Staatskirchenrecht." target="_blank">L/Allg: XVIII 	Staatskirchenrecht.</a></li><li><a href="https://example.com/L/Allg: XIX 	Ureinwohner. Indigene Völker." target="_blank">L/Allg: XIX 	Ureinwohner. Indigene Völker.</a></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Argentinien</span>
+        <ul class="nested">
+            <li><a href="https://example.com/L/Bol: I : Gesetzsammlungen" target="_blank">L/Bol: I : Gesetzsammlungen</a></li><li><a href="https://example.com/L/Bol: II" target="_blank">L/Bol: II</a></li><li><a href="https://example.com/L/Bol: III" target="_blank">L/Bol: III</a></li><li><a href="https://example.com/L/Bol: IV" target="_blank">L/Bol: IV</a></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Bolivien</span>
+        <ul class="nested">
+            <li><a href="https://example.com/L/Bol: I 	Gesetzsammlungen." target="_blank">L/Bol: I 	Gesetzsammlungen.</a></li><li><a href="https://example.com/L/Bol: II 	Entscheidungssammlungen." target="_blank">L/Bol: II 	Entscheidungssammlungen.</a></li><li><a href="https://example.com/L/Bol: III Zeitschriften." target="_blank">L/Bol: III Zeitschriften.</a></li><li><a href="https://example.com/L/Bol: IV 	Parlamentsdrucksachen." target="_blank">L/Bol: IV 	Parlamentsdrucksachen.</a></li><li><a href="https://example.com/L/Bol: V 	Sammelwerk. Rechtssystem. Rechtsbibliographie." target="_blank">L/Bol: V 	Sammelwerk. Rechtssystem. Rechtsbibliographie.</a></li><li><a href="https://example.com/L/Bol: VI 	Landeskunde. Demographie. Volkswirtschaft" target="_blank">L/Bol: VI 	Landeskunde. Demographie. Volkswirtschaft</a></li><li><a href="https://example.com/L/Bol: VII Geschichte. Politik." target="_blank">L/Bol: VII Geschichte. Politik.</a></li><li><a href="https://example.com/L/Bol: VIII 	Rechtsgeschichte. Verfassungsgeschichte." target="_blank">L/Bol: VIII 	Rechtsgeschichte. Verfassungsgeschichte.</a></li><li><a href="https://example.com/L/Bol: IX 	Verfassungsrecht." target="_blank">L/Bol: IX 	Verfassungsrecht.</a></li><li><a href="https://example.com/L/Bol: X 	Verwaltungsrecht." target="_blank">L/Bol: X 	Verwaltungsrecht.</a></li><li><a href="https://example.com/L/Bol: XI 	Finanzrecht. Steuerrecht." target="_blank">L/Bol: XI 	Finanzrecht. Steuerrecht.</a></li><li><a href="https://example.com/L/Bol: XII 	Arbeitsrecht. Sozialrecht." target="_blank">L/Bol: XII 	Arbeitsrecht. Sozialrecht.</a></li><li><a href="https://example.com/L/Bol: XIII 	Öffentliches Wirtschaftsrecht." target="_blank">L/Bol: XIII 	Öffentliches Wirtschaftsrecht.</a></li><li><a href="https://example.com/L/Bol: XVI 	Strafrecht." target="_blank">L/Bol: XVI 	Strafrecht.</a></li><li><a href="https://example.com/L/Bol: XV 	Gerichtsverfassung. Prozeßrecht." target="_blank">L/Bol: XV 	Gerichtsverfassung. Prozeßrecht.</a></li><li><a href="https://example.com/L/Bol: XVII 	Zivilrecht. Handelsrecht." target="_blank">L/Bol: XVII 	Zivilrecht. Handelsrecht.</a></li><li><a href="https://example.com/L/Bol: XVIII 	Staatskirchenrecht." target="_blank">L/Bol: XVIII 	Staatskirchenrecht.</a></li><li><a href="https://example.com/L/Bol: XIX 	Ureinwohner. Indigene Völker." target="_blank">L/Bol: XIX 	Ureinwohner. Indigene Völker.</a></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Brasilien</span>
+        <ul class="nested">
+            <li><a href="https://example.com/L/Bol: I : Gesetzsammlungen" target="_blank">L/Bol: I : Gesetzsammlungen</a></li><li><a href="https://example.com/L/Bol: II" target="_blank">L/Bol: II</a></li><li><a href="https://example.com/L/Bol: III" target="_blank">L/Bol: III</a></li><li><a href="https://example.com/L/Bol: IV" target="_blank">L/Bol: IV</a></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Chile</span>
+        <ul class="nested">
+            <li><a href="https://example.com/L/Bol: I : Gesetzsammlungen" target="_blank">L/Bol: I : Gesetzsammlungen</a></li><li><a href="https://example.com/L/Bol: II" target="_blank">L/Bol: II</a></li><li><a href="https://example.com/L/Bol: III" target="_blank">L/Bol: III</a></li><li><a href="https://example.com/L/Bol: IV" target="_blank">L/Bol: IV</a></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Ecuador</span>
+        <ul class="nested">
+            <li><a href="https://example.com/L/Bol: I : Gesetzsammlungen" target="_blank">L/Bol: I : Gesetzsammlungen</a></li><li><a href="https://example.com/L/Bol: II" target="_blank">L/Bol: II</a></li><li><a href="https://example.com/L/Bol: III" target="_blank">L/Bol: III</a></li><li><a href="https://example.com/L/Bol: IV" target="_blank">L/Bol: IV</a></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Guyana</span>
+        <ul class="nested">
+            <li><a href="https://example.com/L/Bol: I : Gesetzsammlungen" target="_blank">L/Bol: I : Gesetzsammlungen</a></li><li><a href="https://example.com/L/Bol: II" target="_blank">L/Bol: II</a></li><li><a href="https://example.com/L/Bol: III" target="_blank">L/Bol: III</a></li><li><a href="https://example.com/L/Bol: IV" target="_blank">L/Bol: IV</a></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Kolumbien</span>
+        <ul class="nested">
+            <li><a href="https://example.com/L/Bol: I : Gesetzsammlungen" target="_blank">L/Bol: I : Gesetzsammlungen</a></li><li><a href="https://example.com/L/Bol: II" target="_blank">L/Bol: II</a></li><li><a href="https://example.com/L/Bol: III" target="_blank">L/Bol: III</a></li><li><a href="https://example.com/L/Bol: IV" target="_blank">L/Bol: IV</a></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Paraguay</span>
+        <ul class="nested">
+            <li><a href="https://example.com/L/Bol: I : Gesetzsammlungen" target="_blank">L/Bol: I : Gesetzsammlungen</a></li><li><a href="https://example.com/L/Bol: II" target="_blank">L/Bol: II</a></li><li><a href="https://example.com/L/Bol: III" target="_blank">L/Bol: III</a></li><li><a href="https://example.com/L/Bol: IV" target="_blank">L/Bol: IV</a></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Peru</span>
+        <ul class="nested">
+            <li><a href="https://example.com/L/Bol: I : Gesetzsammlungen" target="_blank">L/Bol: I : Gesetzsammlungen</a></li><li><a href="https://example.com/L/Bol: II" target="_blank">L/Bol: II</a></li><li><a href="https://example.com/L/Bol: III" target="_blank">L/Bol: III</a></li><li><a href="https://example.com/L/Bol: IV" target="_blank">L/Bol: IV</a></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Suriname</span>
+        <ul class="nested">
+            <li><a href="https://example.com/L/Bol: I : Gesetzsammlungen" target="_blank">L/Bol: I : Gesetzsammlungen</a></li><li><a href="https://example.com/L/Bol: II" target="_blank">L/Bol: II</a></li><li><a href="https://example.com/L/Bol: III" target="_blank">L/Bol: III</a></li><li><a href="https://example.com/L/Bol: IV" target="_blank">L/Bol: IV</a></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Uruguay</span>
+        <ul class="nested">
+            <li><a href="https://example.com/L/Bol: I : Gesetzsammlungen" target="_blank">L/Bol: I : Gesetzsammlungen</a></li><li><a href="https://example.com/L/Bol: II" target="_blank">L/Bol: II</a></li><li><a href="https://example.com/L/Bol: III" target="_blank">L/Bol: III</a></li><li><a href="https://example.com/L/Bol: IV" target="_blank">L/Bol: IV</a></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Venezuela</span>
+        <ul class="nested">
+            <li><a href="https://example.com/L/Bol: I : Gesetzsammlungen" target="_blank">L/Bol: I : Gesetzsammlungen</a></li><li><a href="https://example.com/L/Bol: II" target="_blank">L/Bol: II</a></li><li><a href="https://example.com/L/Bol: III" target="_blank">L/Bol: III</a></li><li><a href="https://example.com/L/Bol: IV" target="_blank">L/Bol: IV</a></li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Europäische Union</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">Branch 2A</span>
+        <ul class="nested">
+            <li><a href="https://example.com/Leaf 2A1" target="_blank">Leaf 2A1</a></li><li><a href="https://example.com/Leaf 2A2" target="_blank">Leaf 2A2</a></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Branch 2B</span>
+        <ul class="nested">
+            <li><a href="https://example.com/Leaf 2B1" target="_blank">Leaf 2B1</a></li><li><a href="https://example.com/Leaf 2B2" target="_blank">Leaf 2B2</a></li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Völkerrecht</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">Branch 3A</span>
+        <ul class="nested">
+            <li><a href="https://example.com/Leaf 3A1" target="_blank">Leaf 3A1</a></li><li><a href="https://example.com/Leaf 3A2" target="_blank">Leaf 3A2</a></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Branch 3B</span>
+        <ul class="nested">
+            <li><a href="https://example.com/Leaf 3B1" target="_blank">Leaf 3B1</a></li><li><a href="https://example.com/Leaf 3B2" target="_blank">Leaf 3B2</a></li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    </ul>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var toggler = document.getElementsByClassName("caret");
+            for (var i = 0; i < toggler.length; i++) {
+                toggler[i].addEventListener("click", function() {
+                    this.parentElement.querySelector(".nested").classList.toggle("active");
+                    this.classList.toggle("caret-down");
+                });
+            }
+        });
+    </script>
+</body>
+</html>
+    

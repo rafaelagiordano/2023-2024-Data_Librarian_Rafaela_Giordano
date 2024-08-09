@@ -1,0 +1,127 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Collapsible Tree Menu</title>
+    <style>
+        ul {
+            list-style-type: none; /* Remove bullet points */
+        }
+        .nested {
+            display: none;
+        }
+        .active {
+            display: block;
+        }
+        .caret {
+            cursor: pointer;
+            user-select: none;
+            font-weight: bold; /* Highlight caret items */
+            color: #006c66; /* Replace with the color of MPIL logo */
+        }
+    </style>
+</head>
+<body>
+    <h2>Collapsible Tree Menu</h2>
+    <ul id="myMenu">
+        
+    <li>
+        <span class="caret">Root 1</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">Branch 1A</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">Sub-Branch 1A1</span>
+        <ul class="nested">
+            <li>Leaf 1A1</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Sub-Branch 1A2</span>
+        <ul class="nested">
+            <li>Leaf 1A2</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Branch 1B</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">Sub-Branch 1B1</span>
+        <ul class="nested">
+            <li>Leaf 1B1</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Root 2</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">Branch 2A</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">Sub-Branch 2A1</span>
+        <ul class="nested">
+            <li>Leaf 2A1</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Root 3</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">Branch 3A</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">Sub-Branch 3A1</span>
+        <ul class="nested">
+            <li>Leaf 3A1</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    </ul>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var toggler = document.getElementsByClassName("caret");
+            for (var i = 0; i < toggler.length; i++) {
+                toggler[i].addEventListener("click", function() {
+                    this.parentElement.querySelector(".nested").classList.toggle("active");
+                });
+            }
+        });
+    </script>
+</body>
+</html>
+    

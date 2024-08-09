@@ -1,0 +1,102 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Collapsible Menu</title>
+    <style>
+        .nested {
+            display: none;
+        }
+        .active {
+            display: block;
+        }
+        .caret {
+            cursor: pointer;
+            user-select: none;
+        }
+    </style>
+</head>
+<body>
+    <h2>Systematik MPIL</h2>
+    <ul id="myMenu">
+        
+    <li>
+        <span class="caret">Einzelne Länder</span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret">Afrika</span>
+        <ul class="nested">
+            <li>Marokko</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Asien</span>
+        <ul class="nested">
+            <li>Japan</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Australien</span>
+        <ul class="nested">
+            <li>Australien</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Europa</span>
+        <ul class="nested">
+            <li>Deutschland</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Nordamerika</span>
+        <ul class="nested">
+            <li>Kanada</li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret">Südamerika</span>
+        <ul class="nested">
+            <li>Lateinamerika</li><li>Argentinien</li><li>Bolivien</li>
+    <li>
+        <span class="caret">Brasilien</span>
+        <ul class="nested">
+            <li>L/Bras: I</li><li>L/Bras: II</li><li>L/Bras: III</li><li>L/Bras: IV</li><li>L/Bras: V</li><li>L/Bras: VI</li>
+    <li>
+        <span class="caret">L/Bras: VII</span>
+        <ul class="nested">
+            <li>L/Bras: VII Aa: Geschichte: Gesamtdarstellung</li><li>L/Bras: VII Ab: Geschichte bis 1945</li><li>L/Bras: VII Ac: Geschichte ab 1946</li>
+        </ul>
+    </li>
+    <li>L/Bras: VIII</li><li>L/Bras: IX</li><li>L/Bras: X</li><li>L/Bras: XI</li><li>L/Bras: XII</li><li>L/Bras: XIII</li><li>L/Bras: XIV</li><li>L/Bras: XV</li><li>L/Bras: XVI</li><li>L/Bras: XVII</li><li>L/Bras: XVIII</li><li>L/Bras: XIX</li>
+        </ul>
+    </li>
+    <li>Chile</li><li>Ecuador</li><li>Guyana</li><li>Kolumbien</li><li>Paraguay</li><li>Peru</li><li>Suriname</li><li>Uruguay</li><li>Venezuela</li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    </ul>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var toggler = document.getElementsByClassName("caret");
+            for (var i = 0; i < toggler.length; i++) {
+                toggler[i].addEventListener("click", function() {
+                    this.parentElement.querySelector(".nested").classList.toggle("active");
+                    this.classList.toggle("caret-down");
+                });
+            }
+        });
+    </script>
+</body>
+</html>
