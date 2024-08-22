@@ -1,0 +1,252 @@
+
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MPIL's Systematik</title>
+    <style>
+        ul {
+            list-style-type: none; /* Remove bullet points */
+            margin-left: 0;
+            padding-left: 0;
+        }
+        li {
+            color: black; /* Default text color is black */
+            margin-left: 20px; /* Indent each level */
+        }
+        li:hover {
+            color: #007c6c; /* Minerva green color on hover */
+        }
+        a {
+            color: black; /* Default text color is black */
+            text-decoration: underline; /* Underline by default */
+        }
+        a:hover {
+            color: #007c6c; /* Minerva green color on hover */
+            text-decoration: underline; /* Underline on hover */
+        }
+        .nested {
+            display: none;
+        }
+        .active {
+            display: block;
+        }
+        .caret {
+            cursor: pointer;
+            user-select: none;
+            font-weight: bold; /* Highlight caret items */
+        }
+        .caret::before {
+            content: ""; /* Right pointing triangle */
+            color: black;
+            display: inline-block;
+            margin-right: 6px;
+        }
+        .caret-down::before {
+            content: ""; /* Down pointing triangle */
+        }
+    </style>
+</head>
+<body>
+    <h2>MPILs Systematik</h2>
+    <ul id="myMenu">
+        
+    <li>
+        <span class="caret"><span style="color: black;">Einzelne Länder</span></span>
+        <ul class="nested">
+            <li><span style="color: black;">Afrika</span></li>
+    <li>
+        <span class="caret"><span style="color: black;">Asien</span></span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret"><span style="color: black;">Japan</span></span>
+        <ul class="nested">
+            <li><span style="color: black;">OA/Jap: I</span></li><li><span style="color: black;">OA/Jap: II</span></li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    <li><span style="color: black;">Australien</span></li><li><span style="color: black;">Mittelamerika</span></li><li><span style="color: black;">Nordamerika</span></li>
+    <li>
+        <span class="caret"><span style="color: black;">Südamerika</span></span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret"><span style="color: black;">Lateinamerika</span></span>
+        <ul class="nested">
+            <li><a href="https://aleph.mpg.de/F?func=find-b&local_base=vrh01&find_code=WLO&request=%22L/Allg:%20I%22" target="_blank" style="color: black; text-decoration: underline;">L/Allg: I  Gesetzsammlungen.</a></li><li><span style="color: black;">L/Allg: II 	Entscheidungssammlungen.</span></li><li><a href="https://aleph.mpg.de/F?func=find-b&local_base=vrh01&find_code=WLO&request=%22L/Allg:%20III%22" target="_blank" style="color: black; text-decoration: underline;">L/Allg: III 	Zeitschriften.</a></li><li><span style="color: black;">L/Allg: IV 	Parlamentsdrucksachen.</span></li><li><a href="http://aleph.mpg.de/F?func=find-b&local_base=vrh01&find_code=WLO&request=%22L/Allg:%20V%22" target="_blank" style="color: black; text-decoration: underline;">L/Allg: V Sammelwerk. Rechtssystem. Rechtsbibliographie.</a></li><li><span style="color: black;">L/Allg: VI 	Landeskunde. Demographie. Volkswirtschaft.</span></li>
+    <li>
+        <span class="caret"><span style="color: black;">L/Allg: VII 	Geschichte. Politik.</span></span>
+        <ul class="nested">
+            <li><a href="http://aleph.mpg.de/F?func=find-b&local_base=vrh01&find_code=WLO&request=%22L/Allg:%20VII%20A%22" target="_blank" style="color: black; text-decoration: underline;">L/Allg: VII A Geschichte</a></li><li><a href="http://aleph.mpg.de/F?func=find-b&local_base=vrh01&find_code=WLO&request=%22L/Allg:%20VII%20B%22" target="_blank" style="color: black; text-decoration: underline;">L/Allg: VII B Innenpolitik. Parteien.</a></li><li><a href="https://aleph.mpg.de/F?func=find-b&local_base=vrh01&find_code=WLO&request=%22L/Allg:%20VII%20C%22" target="_blank" style="color: black; text-decoration: underline;">L/Allg: VII C Kulturgeschichte.</a></li><li><a href="https://aleph.mpg.de/F?func=find-b&local_base=vrh01&find_code=WLO&request=%22L/Allg:%20VII%20D%22" target="_blank" style="color: black; text-decoration: underline;">L/Allg: VII D Außenpolitik.</a></li><li><a href="https://aleph.mpg.de/F?func=find-b&local_base=vrh01&find_code=WLO&request=%22L/Allg:%20VII%20D/US%22" target="_blank" style="color: black; text-decoration: underline;">L/Allg: VII D/US Außenpolitik gegenüber den Vereinigten Staaten von Amerika (USA).</a></li><li><a href="https://aleph.mpg.de/F?func=find-b&local_base=vrh01&find_code=WLO&request=%22L/Allg:%20VII%20E%22" target="_blank" style="color: black; text-decoration: underline;">L/Allg: VII E Memoiren. Biographien. Reden.</a></li>
+        </ul>
+    </li>
+    <li><span style="color: black;">L/Allg: VIII 	Rechtsgeschichte. Verfassungsgeschichte.</span></li>
+    <li>
+        <span class="caret"><span style="color: black;">L/Allg: IX 	Verfassungsrecht.</span></span>
+        <ul class="nested">
+            <li><span style="color: black;">L/Allg: IX A Verfassungsrecht: Gesamtdarstellung.</span></li><li><span style="color: black;">L/Allg: IX B Verfassungsrecht: Einzelthema.</span></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret"><span style="color: black;">L/Allg: X Verwaltungsrecht.</span></span>
+        <ul class="nested">
+            <li><span style="color: black;">L/Allg: X A Verwaltungsrecht: Gesamtdarstellung.</span></li><li><span style="color: black;">L/Allg: X B Verwaltungsrecht: Einzelthemen.</span></li><li><span style="color: black;">L/Allg: X E Auswärtige Verwaltung. Wehrrecht. Bildungsrecht. Umweltschutz. Gesundheitswesen. Baurecht.</span></li>
+        </ul>
+    </li>
+    <li><span style="color: black;">L/Allg: XI 	Finanzrecht. Steuerrecht.</span></li><li><span style="color: black;">L/Allg: XII 	Arbeitsrecht. Sozialrecht.</span></li><li><span style="color: black;">L/Allg: XIII 	Öffentliches Wirtschaftsrecht.</span></li><li><span style="color: black;">L/Allg: XIV 	Verkehrsrecht.</span></li>
+    <li>
+        <span class="caret"><span style="color: black;">L/Allg: XV 	Gerichtsverfassung. Prozeßrecht.</span></span>
+        <ul class="nested">
+            <li><span style="color: black;">L/Allg: XV A Gerichtsverfassung.</span></li><li><span style="color: black;">L/Allg: XV B Prozeßrecht.</span></li>
+        </ul>
+    </li>
+    <li><span style="color: black;">L/Allg: XVI 	Strafrecht.</span></li><li><span style="color: black;">L/Allg: XVII 	Zivilrecht. Handelsrecht.</span></li><li><span style="color: black;">L/Allg: XVIII 	Staatskirchenrecht.</span></li><li><span style="color: black;">L/Allg: XIX 	Ureinwohner. Indigene Völker.</span></li>
+        </ul>
+    </li>
+    <li><span style="color: black;">Argentinien</span></li>
+    <li>
+        <span class="caret"><span style="color: black;">Bolivien</span></span>
+        <ul class="nested">
+            <li><span style="color: black;">L/Bol: I 	Gesetzsammlungen.</span></li><li><span style="color: black;">L/Bol: II 	Entscheidungssammlungen.</span></li><li><span style="color: black;">L/Bol: III Zeitschriften.</span></li><li><span style="color: black;">L/Bol: IV 	Parlamentsdrucksachen.</span></li><li><span style="color: black;">L/Bol: V 	Sammelwerk. Rechtssystem. Rechtsbibliographie.</span></li><li><span style="color: black;">L/Bol: VI 	Landeskunde. Demographie. Volkswirtschaft</span></li><li><span style="color: black;">L/Bol: VII Geschichte. Politik.</span></li><li><span style="color: black;">L/Bol: VIII 	Rechtsgeschichte. Verfassungsgeschichte.</span></li><li><span style="color: black;">L/Bol: IX 	Verfassungsrecht.</span></li><li><span style="color: black;">L/Bol: X 	Verwaltungsrecht.</span></li><li><span style="color: black;">L/Bol: XI 	Finanzrecht. Steuerrecht.</span></li><li><span style="color: black;">L/Bol: XII 	Arbeitsrecht. Sozialrecht.</span></li><li><span style="color: black;">L/Bol: XIII 	Öffentliches Wirtschaftsrecht.</span></li><li><span style="color: black;">L/Bol: XVI 	Strafrecht.</span></li><li><span style="color: black;">L/Bol: XV 	Gerichtsverfassung. Prozeßrecht.</span></li><li><span style="color: black;">L/Bol: XVII 	Zivilrecht. Handelsrecht.</span></li><li><span style="color: black;">L/Bol: XVIII 	Staatskirchenrecht.</span></li><li><span style="color: black;">L/Bol: XIX 	Ureinwohner. Indigene Völker.</span></li>
+        </ul>
+    </li>
+    <li><span style="color: black;">Brasilien</span></li><li><span style="color: black;">Chile</span></li><li><span style="color: black;">Ecuador</span></li><li><span style="color: black;">Guyana</span></li><li><span style="color: black;">Kolumbien</span></li><li><span style="color: black;">Paraguay</span></li><li><span style="color: black;">Peru</span></li><li><span style="color: black;">Suriname</span></li><li><span style="color: black;">Uruguay</span></li><li><span style="color: black;">Venezuela</span></li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret"><span style="color: black;">Europäische Union</span></span>
+        <ul class="nested">
+            
+    <li>
+        <span class="caret"><span style="color: black;">EG: I  Gesetzsammlungen. Gesetz- und Verordnungsblätter.</span></span>
+        <ul class="nested">
+            <li><span style="color: black;">EG: I A Gesetzsammlungen. Gesetzblätter: Amtliche Sammlungen.</span></li><li><span style="color: black;">EG: I B Gesetzsammlungen. Gesetzblätter: Nichtamtliche Sammlungen.</span></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret"><span style="color: black;">EG: II Entscheidungssammlungen.</span></span>
+        <ul class="nested">
+            <li><span style="color: black;">EG: II A Entscheidungssammlungen: Amtliche Sammlungen.</span></li><li><span style="color: black;">EG: II B Entscheidungssammlungen: Nichtamtliche Sammlungen.</span></li>
+        </ul>
+    </li>
+    <li><span style="color: black;">EG: III Zeitschriften.</span></li><li><span style="color: black;">EG: IV Parlamentsdrucksachen.</span></li>
+    <li>
+        <span class="caret"><span style="color: black;">EG: V  Sammelwerke. Festschriften. Gesamtdarstellungen des Europarechts.</span></span>
+        <ul class="nested">
+            <li><span style="color: black;">EG: V A Festschriften. Sammelwerke.</span></li><li><span style="color: black;">EG: V B Serien. Monographiensammlungen.</span></li><li><span style="color: black;">EG: V Ca Europarecht: Gesamtdarstellung. Einführung. Rechtsentwicklung.</span></li><li><span style="color: black;">EG: V Caa Europarecht: Gesamtdarstellung in deutscher Sprache.</span></li><li><span style="color: black;">EG: V Cab Europarecht: Gesamtdarstellung in französischer Sprache.</span></li><li><span style="color: black;">EG: V Cac Europarecht: Gesamtdarstellung in englischer Sprache.</span></li><li><span style="color: black;">EG: V Cad Europarecht: Gesamtdarstellung in italienischer Sprache.</span></li><li><span style="color: black;">EG: V Cae Europarecht: Gesamtdarstellung in niederländischer Sprache.</span></li><li><span style="color: black;">EG: V Caf Europarecht: Gesamtdarstellung in skandinavischer Sprache.</span></li><li><span style="color: black;">EG: V Cag Europarecht: Gesamtdarstellung in griechischer Sprache.</span></li><li><span style="color: black;">EG: V Cah Europarecht: Gesamtdarstellung in spanischer Sprache.</span></li><li><span style="color: black;">EG: V Cai Europarecht: Gesamtdarstellung in portugiesischer Sprache.</span></li><li><span style="color: black;">EG: V Cak Europarecht: Gesamtdarstellung in slawischen Sprachen.</span></li><li><span style="color: black;">EG: V Cb Europarecht: Rechtsquellen. Auslegung. Allgemeine Rechtsgrundsätze.</span></li><li><span style="color: black;">EG: V Cc Europarecht: Recht einzelner Mitgliedstaaten. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/B Europarecht: Belgien. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/Bulg Europarecht: Bulgarien. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/CH Europarecht: Schweiz. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/CS Europarecht: Tschechische Republik. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/D Europarecht: Deutschland. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/Dän Europarecht: Dänemark. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/Est Europarecht: Estland. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/F Europarecht: Frankreich. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/Fin Europarecht: Finnland. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/GB Europarecht: Großbritannien. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/Grie Europarecht: Griechenland. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/I Europarecht: Italien. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/Ir Europarecht: Irland. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/Isd Europarecht: Island. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/Kro Europarecht: Kroatien.Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/Lett Europarecht: Lettland. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/Lit Europarecht: Litauen. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/Mlt Europarecht: Malta. Umsetzung. Direktanwendung</span></li><li><span style="color: black;">EG: V Cc/N Europarecht: Niederlande. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/Norw Europarecht: Norwegen. Umsetzung. Direktanwendung</span></li><li><span style="color: black;">EG: V Cc/Oe Europarecht: Österreich. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/OME Europarecht: Ostmitteleuropa. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/Pol Europarecht: Polen. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/Port Europarecht: Recht Portugal. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/Rum Europarecht: Rumänien. Umsetzung. Direktanwendung</span></li><li><span style="color: black;">EG: V Cc/Schw Europarecht: Schweden. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/Sk Europarecht: Skandinavien. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/Slw Europarecht: Slowakei. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/Sp Europarecht: Spanien. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/Türk Europarecht: Türkei. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/Ung Europarecht: Ungarn. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cc/Zyp Europarecht: Zypern. Umsetzung. Direktanwendung.</span></li><li><span style="color: black;">EG: V Cd Mitgliedsstaaten: Rechtsangleichung. Harmonisierung.</span></li><li><span style="color: black;">EG: V Da Rechtswissenschaft. Geschichte. Gegenwart. Nachruf.</span></li><li><span style="color: black;">EG: V Db Rechtswissenschaft. Forschung. Unterricht. Studienreform. Studienführer.</span></li><li><span style="color: black;">EG: V Dc Rechtswissenschaft. Wissenschaftliche Vereinigung. Tagungsveröffentlichung.</span></li><li><span style="color: black;">EG: V Dd Rechtswissenschaft. Rechtsbibliographie. Abkürzungsverzeichnis. Wörterbuch.</span></li><li><span style="color: black;">EG: V E Reden. Vorträge.</span></li><li><span style="color: black;">EG: V F Rechtsinformatik.</span></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret"><span style="color: black;">EG: VI Landeskunde. Bevölkerung. Wirtschaft. Nachschlagewerke.</span></span>
+        <ul class="nested">
+            <li><span style="color: black;">EG: VI A Landeskunde. Bewohner. Einrichtungen.</span></li><li><span style="color: black;">EG: VI B Landeskunde: Nachschlagewerke.</span></li><li><span style="color: black;">EG: VI Ca Bevölkerung. Einwanderung. Auswanderung. Drittstaatsangehörige.</span></li><li><span style="color: black;">EG: VI Cb Nationalitäten. Sprachen. Minderheiten. Identität.</span></li><li><span style="color: black;">EG: VI Da Volkswirtschaft.</span></li><li><span style="color: black;">EG: VI Db Statistik.</span></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret"><span style="color: black;">EG: VII Geschichte. Politik. Memoiren. Biographien.</span></span>
+        <ul class="nested">
+            <li><span style="color: black;">EG: VII Aa Geschichte: Gesamtdarstellung.</span></li><li><span style="color: black;">EG: VII Ab EGKS: Geschichte.</span></li><li><span style="color: black;">EG: VII Ac EWG: Vorgeschichte. Römische Verträge.</span></li><li><span style="color: black;">EG: VII Ad Europäische Union: Geschichte. Erweiterung.</span></li><li><span style="color: black;">EG: VII Ae EAG: Geschichte.</span></li><li><span style="color: black;">EG: VII Ba Innenpolitik: Gesamtdarstellung. Demokratie.</span></li><li><span style="color: black;">EG: VII Bb Interessenverbände.</span></li><li><span style="color: black;">EG: VII Bc Politische Parteien.</span></li><li><span style="color: black;">EG: VII C Gemeinsame kulturelle Auffassungen und Entwicklungen der EG-Staaten.</span></li><li><span style="color: black;">EG: VII Da Außenpolitik: Gesamtdarstellung. Politische Zusammenarbeit.</span></li><li><span style="color: black;">EG: VII Db Außenpolitik gegenüber Staaten. Beitrittsverhandlungen. Außenpolitik gegenüber assoziierten Staaten. Wirtschaftssanktionen.</span></li><li><span style="color: black;">EG: VII Db/Aeg Außenpolitik gegenüber Ägypten.</span></li><li><span style="color: black;">EG: VII Db/Afr Außenpolitik gegenüber Afrika.</span></li><li><span style="color: black;">EG: VII Db/Al Außenpolitik gegenüber Algerien.</span></li><li><span style="color: black;">EG: VII Db/Arm Außenpolitik gegenüber Armenien.</span></li><li><span style="color: black;">EG: VII Db/Ase Außenpolitik gegenüber Aserbaidschan.</span></li><li><span style="color: black;">EG: VII Db/ASEAN Außenpolitik gegenüber ASEAN.</span></li><li><span style="color: black;">EG: VII Db/Au Außenpolitik gegen über Australien.</span></li><li><span style="color: black;">EG: VII Db/B Außenpolitik gegenüber Belgien.</span></li><li><span style="color: black;">EG: VII Db/Balt Außenpolitik gegenüber den Baltischen Staaten.</span></li><li><span style="color: black;">EG: VII Db/BiH Außenpolitik gegenüber Bosnien-Herzegowina.</span></li><li><span style="color: black;">EG: VII Db/Blk Außenpolitik gegenüber den Balkanstaaten.</span></li><li><span style="color: black;">EG: VII Db/Bras Außenpolitik gegenüber Brasilien.</span></li><li><span style="color: black;">EG: VII Db/Bulg Außenpolitik gegenüber Bulgarien.</span></li><li><span style="color: black;">EG: VII Db/Can Außenpolitik gegenüber Kanada.</span></li><li><span style="color: black;">EG: VII Db/CH Außenpolitik gegenüber der Schweiz.</span></li><li><span style="color: black;">EG: VII Db/Chin Außenpolitik gegenüber China.</span></li><li><span style="color: black;">EG: VII Db/CS Außenpolitik gegenüber Tschechien.</span></li><li><span style="color: black;">EG: VII Db/D Außenpolitik gegenüber Deutschland.</span></li><li><span style="color: black;">EG: VII Db/DDR Außenpolitik gegenüber der DDR.</span></li><li><span style="color: black;">EG: VII Db/Dän Außenpolitik gegenüber Dänemark.</span></li><li><span style="color: black;">EG: VII Db/EFTA Außenpolitik gegenüber der EFTA.</span></li><li><span style="color: black;">EG: VII Db/Est Außenpolitik gegenüber Estland.</span></li><li><span style="color: black;">EG: VII Db/F Außenpolitik gegenüber Frankreich.</span></li><li><span style="color: black;">EG: VII Db/Fin Außenpolitik gegenüber Finnland.</span></li><li><span style="color: black;">EG: VII Db/GB Außenpolitik gegenüber Großbritannien.</span></li><li><span style="color: black;">EG: VII Db/Geo Außenpolitik gegenüber Georgien.</span></li><li><span style="color: black;">EG: VII Db/Grie Außenpolitik gegenüber Griechenland.</span></li><li><span style="color: black;">EG: VII Db/I Außenpolitik gegenüber Italien.</span></li><li><span style="color: black;">EG: VII Db/Ind Außenpolitik gegenüber Indien.</span></li><li><span style="color: black;">EG: VII Db/Ir Außenpolitik gegenüber Irland.</span></li><li><span style="color: black;">EG: VII Db/Iran Außenpolitik gegenüber Iran.</span></li><li><span style="color: black;">EG: VII Db/Isl Außenpolitik gegenüber Islamischen Ländern.</span></li><li><span style="color: black;">EG: VII Db/Isr Außenpolitik gegenüber Israel.</span></li><li><span style="color: black;">EG: VII Db/Jap Außenpolitik gegenüber Japan.</span></li><li><span style="color: black;">EG: VII Db/Jug Außenpolitik gegenüber Jugoslawien.</span></li><li><span style="color: black;">EG: VII Db/Kon Außenpolitik gegenüber Kongo(Kinshasa).</span></li><li><span style="color: black;">EG: VII Db/Kor Außenpolitik gegenüber Korea.</span></li><li><span style="color: black;">EG: VII Db/L Außenpolitik gegenüber Lateinamerika.</span></li><li><span style="color: black;">EG: VII Db/Lett Außenpolitik gegenüber Lettland.</span></li><li><span style="color: black;">EG: VII Db/Lie Außenpolitik gegenüber Liechtenstein.</span></li><li><span style="color: black;">EG: VII Db/Lit Außenpolitik gegenüber Litauen.</span></li><li><span style="color: black;">EG: VII Db/Lux Außenpolitik gegenüber Luxemburg.</span></li><li><span style="color: black;">EG: VII Db/Mali Außenpolitik gegenüber Mali.</span></li><li><span style="color: black;">EG: VII Db/Mar Außenpolitik gegenüber Marokko.</span></li><li><span style="color: black;">EG: VII Db/Mlt Außenpolitik gegenüber Malta.</span></li><li><span style="color: black;">EG: VII Db/MonN Außenpolitik gegenüber Montenegro.</span></li><li><span style="color: black;">EG: VII Db/N Außenpolitik gegenüber den Niederlanden.</span></li><li><span style="color: black;">EG: VII Db/Norw Außenpolitik gegenüber Norwegen.</span></li><li><span style="color: black;">EG: VII Db/NZ Außenpolitik gegenüber Neuseeland.</span></li><li><span style="color: black;">EG: VII Db/OA Außenpolitik gegenüber Ostasien.</span></li><li><span style="color: black;">EG: VII Db/Oe Außenpolitik gegenüber Österreich.</span></li><li><span style="color: black;">EG: VII Db/OME Außenpolitik gegenüber Ostmitteleuropa.</span></li><li><span style="color: black;">EG: VII Db/Pal Außenpolitik gegenüber Palästina</span></li><li><span style="color: black;">EG: VII Db/Pol Außenpolitik gegenüber Polen.</span></li><li><span style="color: black;">EG: VII Db/Port Außenpolitik gegenüber Portugal.</span></li><li><span style="color: black;">EG: VII Db/R Außenpolitik gegenüber Rußland.</span></li><li><span style="color: black;">EG: VII Db/RGW Außenpolitik gegenüber dem RGW.</span></li><li><span style="color: black;">EG: VII Db/Rum Außenpolitik gegenüber dem Rumänien.</span></li><li><span style="color: black;">EG: VII Db/SA Außenpolitik gegenüber Südafrika.</span></li><li><span style="color: black;">EG: VII Db/Schw Außenpolitik gegenüber Schweden</span></li><li><span style="color: black;">EG: VII Db/Sk Außenpolitik gegenüber Skandinavien.</span></li><li><span style="color: black;">EG: VII Db/Slo Außenpolitik gegenüber Slowenien.</span></li><li><span style="color: black;">EG: VII Db/Sp Außenpolitik gegenüber Spanien.</span></li><li><span style="color: black;">EG: VII Db/Srb Außenpolitik gegenüber Serbien.</span></li><li><span style="color: black;">EG: VII Db/Thai Außenpolitik gegenüber Thailand.</span></li><li><span style="color: black;">EG: VII Db/Tun Außenpolitik gegenüber Tunesien.</span></li><li><span style="color: black;">EG: VII Db/Türk Außenpolitik gegenüber der Türkei.</span></li><li><span style="color: black;">EG: VII Db/Ukr Außenpolitik gegenüber der Ukraine.</span></li><li><span style="color: black;">EG: VII Db/Ung Außenpolitik gegenüber Ungarn.</span></li><li><span style="color: black;">EG: VII Db/US Außenpolitik gegenüber den USA.</span></li><li><span style="color: black;">EG: VII Db/Zyp Außenpolitik gegenüber Zypern.</span></li><li><span style="color: black;">EG: VII Dc Außenpolitik: Einzelthema. Verteidigungspolitik. Gemeinsame Außen- und Sicherheitspolitik.</span></li><li><span style="color: black;">EG: VII Ea Memoiren.</span></li><li><span style="color: black;">EG: VII Eb Biographien.</span></li><li><span style="color: black;">EG: VII Ec Politische Reden.</span></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret"><span style="color: black;">EG: VIII Rechtsgeschichte der Europäischen Union.</span></span>
+        <ul class="nested">
+            <li><span style="color: black;">EG: VIII A Rechtsgeschichte: Gesamtdarstellung.</span></li><li><span style="color: black;">EG: VIII B Rechtsgeschichte: EWG. EG. EGKS. EAG.</span></li><li><span style="color: black;">EG: VIII C Rechtsgeschichte: Einzelthema.</span></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret"><span style="color: black;">EG: IX Verfassung. Freiheiten. Organe. Funktionen.</span></span>
+        <ul class="nested">
+            <li><span style="color: black;">EG: IX Aa Verfassung. Freiheiten. Organe. Funktionen. Gesamtdarstellung.</span></li><li><span style="color: black;">EG: IX Ab Verträge. Verfassung.</span></li><li><span style="color: black;">EG: IX B Bürger. Unionsbürgerschaft. Staatsangehörigkeit Menschenrechte.</span></li><li><span style="color: black;">EG: IX Ca Grundfreiheiten: Gesamtdarstellung.</span></li><li><span style="color: black;">EG: IX Cb Freizügigkeit.</span></li><li><span style="color: black;">EG: IX Cc Niederlassungsrecht.</span></li><li><span style="color: black;">EG: IX Cd Dienstleistungsfreiheit.</span></li><li><span style="color: black;">EG: IX Ce Einreiserecht. Aufenthaltsrecht.</span></li><li><span style="color: black;">EG: IX Cf Warenverkehrsfreiheit.</span></li><li><span style="color: black;">EG: IX Cg Kapitalverkehrsfreiheit.</span></li><li><span style="color: black;">EG: IX Da Grundrechte: Gesamtdarstellung.</span></li><li><span style="color: black;">EG: IX Db Grundrechte: Eigentum. Handlungsfreiheit. Freiheitsrecht. Gleichheitsrecht.</span></li><li><span style="color: black;">EG: IX Dc Grundrechte: Politische Rechte. Wahlrecht. Parteien.</span></li><li><span style="color: black;">EG: IX Ea Mitgliedstaaten: Gesamtdarstellung.</span></li><li><span style="color: black;">EG: IX Eb Zusammensetzung. Beitritt. Austritt. Vertragsänderung.</span></li><li><span style="color: black;">EG: IX Ec Kompetenzverteilung. Pflichten. Subsidiarität. Nationale Parlamente.</span></li><li><span style="color: black;">EG: IX Ed Mitgliedstaaten: Rechte. Pflichten. Regierungen. Kooperation. Haftung.</span></li><li><span style="color: black;">EG: IX Ee Politische Symbole. Fahne. Wappen.</span></li><li><span style="color: black;">EG: IX F Ministerrat. Zusammensetzung. Sekretariat. Abstimmung. Gipfeltreffen. Rat der Union. Europäische Politische Zusammenarbeit. Konvent.</span></li><li><span style="color: black;">EG: IX Ga Kommission: Gesamtdarstellung.</span></li><li><span style="color: black;">EG: IX Gb Kommission: Zusammensetzung. Organisation. Generaldirektionen.</span></li><li><span style="color: black;">EG: IX Gc Kommission: Aufgaben. Befugnisse. Politische Verantwortung.</span></li><li><span style="color: black;">EG: IX Gd Kommission: Ausschüsse.</span></li><li><span style="color: black;">EG: IX Ha Europaparlament: Gesamtdarstellung. Geschichte.</span></li><li><span style="color: black;">EG: IX Hb Europaparlament: Zusammensetzung. Abgeordnete. Organisation. Geschäftsordnung. Ausschüsse.</span></li><li><span style="color: black;">EG: IX Hc Europaparlament: Befugnisse. Rechte.</span></li><li><span style="color: black;">EG: IX Hd Europaparlament: Ombudsman. Vermittlungsausschuss.</span></li><li><span style="color: black;">EG: IX J Wirtschafts- und Sozialausschuss.</span></li><li><span style="color: black;">EG: IX La Rechtsetzung: Gesamtdarstellung.</span></li><li><span style="color: black;">EG: IX Lb Rechtsetzung: Kompetenzverteilung. Ermächtigungsgrundlage.</span></li><li><span style="color: black;">EG: IX Lc Rechtsetzung: Verfahren.</span></li><li><span style="color: black;">EG: IX Ld Rechtsetzung: Rechtsakt. Verordnung. Richtlinie. Inkrafttreten. Anwendung.</span></li><li><span style="color: black;">EG: IX Ma Auswärtige Gewalt: Gesamtdarstellung.</span></li><li><span style="color: black;">EG: IX Mb Auswärtige Gewalt: Völkerrechtliche Handlungsfähigkeit.</span></li><li><span style="color: black;">EG: IX Mc Auswärtige Gewalt: Kompetenzverteilung: Vertragsverfahren. Gemischte Abkommen.</span></li><li><span style="color: black;">EG: IX Md Auswärtige Gewalt: Vertragsbindung.</span></li><li><span style="color: black;">EG: IX N Internationalen Organisationen: Mitgliedschaft. Zusammenarbeit.</span></li><li><span style="color: black;">EG: IX O Verträge. Verfassung: Reformvorschläge.</span></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret"><span style="color: black;">EG: X Verwaltungsrecht.</span></span>
+        <ul class="nested">
+            <li><span style="color: black;">EG: X A Verwaltungsrecht: Gesamtdarstellung.</span></li><li><span style="color: black;">EG: X B Verwaltungsrecht: Grundbegriffe. Ermessen. Gesetzmäßigkeit. Zweckmäßigkeit. Verhältnismäßigkeit.</span></li><li><span style="color: black;">EG: X C Verwaltungsrechtsquellen.</span></li><li><span style="color: black;">EG: X D Verwaltungsorgane.</span></li><li><span style="color: black;">EG: X E Behördenaufbau.</span></li><li><span style="color: black;">EG: X F Kommunalrecht. Selbstverwaltung. Regionalismus.</span></li><li><span style="color: black;">EG: X G Beamtenrecht.</span></li><li><span style="color: black;">EG: X Ja Verwaltungstätigkeit: Gesamtdarstellung.</span></li><li><span style="color: black;">EG: X Jb Verwaltungsaufbau. Verwaltungswissenschaft.</span></li><li><span style="color: black;">EG: X Jc Verwaltungsrecht: Verfahrensvorschriften.</span></li><li><span style="color: black;">EG: X Jd Verwaltungszwang.</span></li><li><span style="color: black;">EG: X K Persönliche Dienstleistung. Enteignung. Mitwirkungspflicht.</span></li><li><span style="color: black;">EG: X L Öffentliche Sachen. Öffentliche Aufträge. Vergaberecht.</span></li><li><span style="color: black;">EG: X N Amtshaftung. Schadensersatz.</span></li><li><span style="color: black;">EG: X O Auswärtige Verwaltung. Diplomatische Vertretungen.</span></li><li><span style="color: black;">EG: X Pa Einreise. Aufenthaltsrecht. Passrecht. Melderecht. Grenzkontrolle. Schengenabkommen.</span></li><li><span style="color: black;">EG: X Pb Ausländerrecht. Asylrecht.</span></li><li><span style="color: black;">EG: X Pc Polizeirecht. Innere Sicherheit. Europol.</span></li><li><span style="color: black;">EG: X Qa Gesundheitswesen. Lebensmittelrecht.</span></li><li><span style="color: black;">EG: X Qb Umweltschutz.</span></li><li><span style="color: black;">EG: X Qc Naturschutz. Tierschutz. Vogelschutz.</span></li><li><span style="color: black;">EG: X Qd Glücksspiel. Prostitution.</span></li><li><span style="color: black;">EG: X R Sprachenrecht.</span></li><li><span style="color: black;">EG: X Sa Medienrecht. Kultur. Film. Werbung.</span></li><li><span style="color: black;">EG: X Sb Presserecht.</span></li><li><span style="color: black;">EG: X Sc Fernsehen. Rundfunk.</span></li><li><span style="color: black;">EG: X Sd Informationsrecht. Datenschutzrecht. Internet.</span></li><li><span style="color: black;">EG: X T Bildungsrecht. Forschung. Sport.</span></li><li><span style="color: black;">EG: X U Raumordnung. Baurecht. Denkmalschutzrecht.</span></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret"><span style="color: black;">EG: XI Finanzrecht. Haushaltsrecht.</span></span>
+        <ul class="nested">
+            <li><span style="color: black;">EG: XI A Finanzrecht: Gesamtdarstellung.</span></li><li><span style="color: black;">EG: XI B Finanzrecht: Einzelthema. Finanzreform.</span></li><li><span style="color: black;">EG: XI C Haushaltsrecht. Rechnungshof.</span></li><li><span style="color: black;">EG: XI Da Währungssystem. Währungsunion. Euro.</span></li><li><span style="color: black;">EG: XI Db Bankrecht. Kapitalrecht.</span></li><li><span style="color: black;">EG: XI Dc Europäische Banken.</span></li><li><span style="color: black;">EG: XI E Steuerrecht. Steuerharmonisierung.</span></li><li><span style="color: black;">EG: XI Fa Zollrecht: Gesamtdarstellung.</span></li><li><span style="color: black;">EG: XI Fb Binnenzoll.</span></li><li><span style="color: black;">EG: XI Fc Außenzoll. Zolltarif. Zollverfahrensrecht.</span></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret"><span style="color: black;">EG: XII Arbeitsrecht. Sozialpolitik.</span></span>
+        <ul class="nested">
+            <li><span style="color: black;">EG: XII A Arbeitsrecht. Sozialpolitik: Gesamtdarstellung.</span></li><li><span style="color: black;">EG: XII Ba Arbeitsrecht. Berufsausbildung.</span></li><li><span style="color: black;">EG: XII Bb Arbeitsverhältnis. Arbeitsschutzrecht. Arbeitsvermittlung. Berufsberatung.</span></li><li><span style="color: black;">EG: XII Bc Gewerkschaft. Arbeitskampf. Tarifvertragsrecht. Betriebsverfassungsrecht.</span></li><li><span style="color: black;">EG: XII Ca Sozialpolitik. Sozialordnung.</span></li><li><span style="color: black;">EG: XII Cb Sozialpolitik: Zusammenarbeit.</span></li><li><span style="color: black;">EG: XII Cc Sozialversicherung.</span></li><li><span style="color: black;">EG: XII Cd Sozialfond.</span></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret"><span style="color: black;">EG: XIII Wirtschaftsrecht.</span></span>
+        <ul class="nested">
+            <li><span style="color: black;">EG: XIII A Wirtschaftsrecht. Gemeinsamer Markt: Gesamtdarstellung.</span></li><li><span style="color: black;">EG: XIII B Freier Wettbewerb. Regionalpolitik. Europäische Investitionsbank.</span></li><li><span style="color: black;">EG: XIII Ba Wirtschaftspolitik. Handelspolitik.</span></li><li><span style="color: black;">EG: XIII Bb Mitgliedstaatliche Beihilfe. Mitgliedstaatliche Subvention.</span></li><li><span style="color: black;">EG: XIII Bc Mitgliedstaatliche Abgaben.</span></li><li><span style="color: black;">EG: XIII Bd Beihilfe. Subvention.</span></li><li><span style="color: black;">EG: XIII Be Regionalpolitik. Regionalausschuss. Regionalfonds.</span></li><li><span style="color: black;">EG: XIII Bf Europäische Investitionsbank.</span></li><li><span style="color: black;">EG: XIII Ca Wettbewerbsrecht: Gesamtdarstellung.</span></li><li><span style="color: black;">EG: XIII Cb Kartellrecht.</span></li><li><span style="color: black;">EG: XIII Cc Marktbeherrschung. Unternehmenszusammenschluss.</span></li><li><span style="color: black;">EG: XIII Da Landwirtschaft: Gesamtdarstellung.</span></li><li><span style="color: black;">EG: XIII Db Landwirtschaft: Marktordnung. Preise.</span></li><li><span style="color: black;">EG: XIII Dc Landwirtschaft: Finanzierung.</span></li><li><span style="color: black;">EG: XIII Dd Landwirtschaft: Viehzucht.</span></li><li><span style="color: black;">EG: XIII De Forstwirtschaft. Jagdrecht.</span></li><li><span style="color: black;">EG: XIII Df Fischerei.</span></li><li><span style="color: black;">EG: XIII Ea EGKS: Gesamtdarstellung.</span></li><li><span style="color: black;">EG: XIII Eb EGKS: Organisation.</span></li><li><span style="color: black;">EG: XIII Ec EGKS: Stahl.</span></li><li><span style="color: black;">EG: XIII Ed EGKS: Bergrecht. Kohle EGKS.</span></li><li><span style="color: black;">EG: XIII Fa EAG: Atomenergierecht.</span></li><li><span style="color: black;">EG: XIII Fb EAG: Organisation.</span></li><li><span style="color: black;">EG: XIII Fc EGKS: Atomenergieerzeugung. Sicherheit.</span></li><li><span style="color: black;">EG: XIII Ga Börsenrecht. Wertpapierhandel. Warenbörsen. OLAF.</span></li><li><span style="color: black;">EG: XIII Gb Gewerbe. Handwerk. Innungen. Messen. Messwesen. Technik. Werbung. Tourismus. </span></li><li><span style="color: black;">EG: XIII Gc Industrie. Verbraucherschutz.</span></li><li><span style="color: black;">EG: XIII Gd Gewerblicher Rechtsschutz. Patentrecht. Warenzeichen. Technologie.</span></li><li><span style="color: black;">EG: XIII Ge Energierecht.</span></li><li><span style="color: black;">EG: XIII Gf Wirtschaftsstrafrecht.</span></li><li><span style="color: black;">EG: XIII Gg Versicherungsrecht.</span></li><li><span style="color: black;">EG: XIII Gh Wasserrecht.</span></li><li><span style="color: black;">EG: XIII Ha Außenhandelspolitik. Antidumping. Ausgleichszollrecht. Exportförderung.</span></li><li><span style="color: black;">EG: XIII Hb Handelsverträge. Freihandelsabkommen. Kooperationsabkommen.</span></li><li><span style="color: black;">EG: XIII Hc Außenhandelspolitik: WTO. GATT.</span></li><li><span style="color: black;">EG: XIII Hd Außenhandelspolitik: Assoziierungsvertrag. EFTA. EWR. Mercosur.</span></li><li><span style="color: black;">EG: XIII He Außenhandelspolitik: Entwicklungsländer. Entwicklungshilfe.</span></li><li><span style="color: black;">EG: XIII Hf Außenhandelsabkommen: Jaunde. Lomé. AKP.</span></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret"><span style="color: black;">EG: XIV Verkehrsrecht.</span></span>
+        <ul class="nested">
+            <li><span style="color: black;">EG: XIV A Verkehrsrecht: Gesamtdarstellung.</span></li><li><span style="color: black;">EG: XIV B Eisenbahnrecht.</span></li><li><span style="color: black;">EG: XIV C Schifffahrt. Häfen.</span></li><li><span style="color: black;">EG: XIV D Straßenverkehrsrecht.</span></li><li><span style="color: black;">EG: XIV E Luftverkehrsrecht. Raumfahrt.</span></li><li><span style="color: black;">EG: XIV F Postrecht. Fernmelderecht.</span></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret"><span style="color: black;">EG: XV Europäischer Gerichtshof.</span></span>
+        <ul class="nested">
+            <li><span style="color: black;">EG: XV A Gerichtshof: Gesamtdarstellung.</span></li><li><span style="color: black;">EG: XV B Gerichtshof. Zuständigkeit. Organisation. Richter. Generalanwalt. Gericht 1. Instanz.</span></li><li><span style="color: black;">EG: XV Ca Gerichtshof: Verfahren. Gesamtdarstellung.</span></li><li><span style="color: black;">EG: XV Cb Gerichtshof: Verfahren. Einzelthema.</span></li><li><span style="color: black;">EG: XV Cc Gerichtshof: Urteil. Kosten. Schiedsverfahren.</span></li><li><span style="color: black;">EG: XV Cd Gerichtshof: Mitgliedstaatliche Gerichte. Vorabentscheidung.</span></li><li><span style="color: black;">EG: XV D Gerichtshof: Rechtsanwalt.</span></li><li><span style="color: black;">EG: XV E Zivilprozessrecht</span></li><li><span style="color: black;">EG: XV F Strafprozessrecht</span></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret"><span style="color: black;">EG: XVI Strafrecht.</span></span>
+        <ul class="nested">
+            <li><span style="color: black;">EG: XVI A Strafrecht: Gesamtdarstellung.</span></li><li><span style="color: black;">EG: XVI B Strafrecht: Einzelthema.</span></li>
+        </ul>
+    </li>
+    
+    <li>
+        <span class="caret"><span style="color: black;">EG: XVII Zivilrecht.</span></span>
+        <ul class="nested">
+            <li><span style="color: black;">EG: XVII A Bürgerliches Recht.</span></li><li><span style="color: black;">EG: XVII B Handelsrecht.</span></li><li><span style="color: black;">EG: XVII C Gesellschaftsrecht. EWIV.</span></li><li><span style="color: black;">EG: XVII D Urheberrecht.</span></li><li><span style="color: black;">EG: XVII E Internationales Privatrecht.</span></li>
+        </ul>
+    </li>
+    
+        </ul>
+    </li>
+    
+    </ul>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var toggler = document.getElementsByClassName("caret");
+            for (var i = 0; i < toggler.length; i++) {
+                toggler[i].addEventListener("click", function() {
+                    this.parentElement.querySelector(".nested").classList.toggle("active");
+                    this.classList.toggle("caret-down");
+                });
+            }
+        });
+    </script>
+</body>
+</html>
+    
